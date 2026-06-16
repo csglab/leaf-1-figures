@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the LEAF-1 paper."
+title: "LEAF-1 figure reproducibility"
+abstract: >-
+  Processed tables and per-figure notebooks that regenerate the main and
+  supplementary figures of the LEAF-1 manuscript.
+authors:
+  # TODO: replace with the final author list (name + ORCID) before release.
+  - family-names: Heydari
+    given-names: Hamed
+  - name: "The LEAF-1 authors"
+license: MIT
+license-url: "https://creativecommons.org/licenses/by/4.0/"  # data: CC-BY-4.0; code: MIT
+date-released: "2026-06-16"
+version: "1.0.0"
+repository-code: "https://github.com/TODO-org/leaf-1-figures"  # TODO
+preferred-citation:
+  type: article
+  title: "Semantic Fragment Representations for Coordinate-free Analysis of Genomics Data"
+  authors:
+    - name: "The LEAF-1 authors"  # TODO: final author list
+  year: 2026
+  # journal: "TODO"
+  # doi: "TODO"

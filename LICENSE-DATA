@@ -1,0 +1,50 @@
+# Data license
+
+Except where noted below, the processed data tables (each modality's `data/`
+directory) and generated figures (each modality's `output/` directory) in this
+repository are released under the **Creative Commons Attribution 4.0
+International (CC-BY-4.0)** license.
+
+You are free to share and adapt this material for any purpose, provided you
+give appropriate credit by citing the LEAF-1 paper (see CITATION.cff).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+## Third-party data (retain their original licenses)
+
+The following bundled files are derived from or copied from third-party
+resources and are governed by their original terms, NOT by CC-BY-4.0:
+
+- `scatac/data/20260216202920_JASPAR2026_combined_matrices_1336868.meme` and
+  `scatac/data/motifs_annotations_full.txt`: transcription-factor binding motifs
+  from the JASPAR database (https://jaspar.elixir.no/), released under CC0.
+  Please cite JASPAR if you reuse these motifs.
+
+- scATAC-seq sample metadata and atlas-derived tables (under `scatac/data/`)
+  are derived from the publicly available human single-cell
+  chromatin-accessibility atlas (601,093 cells, 108 cell types, 28 tissues) of
+  Zhang et al., 2021:
+
+    K. Zhang, J. D. Hocker, M. Miller, X. Hou, J. Chiou, O. B. Poirion,
+    Y. Qiu, Y. E. Li, K. J. Gaulton, A. Wang, S. Preissl, and B. Ren.
+    "A single-cell atlas of chromatin accessibility in the human genome."
+    Cell, 184(24):5985-6001.e19, Nov. 2021. doi:10.1016/j.cell.2021.10.024
+
+  Source data: http://catlas.org/. Please cite Zhang et al. (2021) if you
+  reuse these atlas-derived tables.
+
+- cfDNA fragmentation data underlying the cfDNA tables are from the cohort of
+  Cristiano et al., 2019 (Nature 570:385-389) and are publicly available through
+  FinaleDB (Zheng et al., 2021, Bioinformatics 37:2502-2503,
+  doi:10.1093/bioinformatics/btaa999; http://finaledb.research.cchmc.org/), a
+  database of cell-free DNA
+  fragmentation patterns. Please cite Cristiano et al. (2019) and
+  FinaleDB if you reuse these.
+
+## Human-subject (clinical) data
+
+The cfDNA and kidney prediction tables contain model outputs for de-identified
+clinical samples (pseudonymous sample codes only; no names, dates, or other
+identifiers). The independently profiled kidney cohort is in-house. Public
+release is covered by the studies' informed consent and institutional approvals.

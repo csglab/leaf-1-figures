@@ -1,0 +1,7 @@
+model,display,params
+LEAF-1,LEAF-1,90400000
+gena-lm,GENA-LM,110000000
+dnabert2,DNABERT-2,117000000
+dnabert-s,DNABERT-S,117000000
+nt-v2,NT-v2,500000000
+evo2,Evo 2,7000000000

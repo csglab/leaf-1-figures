@@ -1,0 +1,71 @@
+segment,cell_type,auc
+cls,Airway Goblet Cell,0.9261
+cls,Colon Epithelial Cell 1,0.8310222222222222
+cls,Colonic Goblet Cell,0.7823777777777778
+cls,Cortical Epithelial-like,0.9587777777777777
+cls,Fibroblast (Epithelial),0.8955
+cls,Luteal Cell (Ovarian),0.8494777777777777
+cls,Mammary Epithelial,0.9121333333333332
+cls,Smooth Muscle (Esophageal Muscularis) 3,0.7952833333333333
+cls,Smooth Muscle (General Gastrointestinal),0.7486555555555555
+cls,T lymphocyte 2 (CD4+),0.9826444444444445
+mod,Airway Goblet Cell,0.9336777777777778
+mod,Colon Epithelial Cell 1,0.8366888888888888
+mod,Colonic Goblet Cell,0.8209333333333333
+mod,Cortical Epithelial-like,0.9697111111111111
+mod,Fibroblast (Epithelial),0.902511111111111
+mod,Luteal Cell (Ovarian),0.8478555555555556
+mod,Mammary Epithelial,0.9190777777777778
+mod,Smooth Muscle (Esophageal Muscularis) 3,0.7835888888888888
+mod,Smooth Muscle (General Gastrointestinal),0.7903333333333333
+mod,T lymphocyte 2 (CD4+),0.9820777777777777
+left,Airway Goblet Cell,0.9584666666666666
+left,Colon Epithelial Cell 1,0.8597333333333332
+left,Colonic Goblet Cell,0.832
+left,Cortical Epithelial-like,0.9591222222222222
+left,Fibroblast (Epithelial),0.9090611111111111
+left,Luteal Cell (Ovarian),0.8874944444444444
+left,Mammary Epithelial,0.9012777777777778
+left,Smooth Muscle (Esophageal Muscularis) 3,0.7848999999999999
+left,Smooth Muscle (General Gastrointestinal),0.777
+left,T lymphocyte 2 (CD4+),0.9884666666666666
+cut1,Airway Goblet Cell,0.9619333333333332
+cut1,Colon Epithelial Cell 1,0.8400444444444444
+cut1,Colonic Goblet Cell,0.870211111111111
+cut1,Cortical Epithelial-like,0.9823888888888889
+cut1,Fibroblast (Epithelial),0.9370666666666667
+cut1,Luteal Cell (Ovarian),0.9443888888888889
+cut1,Mammary Epithelial,0.8728777777777778
+cut1,Smooth Muscle (Esophageal Muscularis) 3,0.7317666666666666
+cut1,Smooth Muscle (General Gastrointestinal),0.7649000000000001
+cut1,T lymphocyte 2 (CD4+),0.9899
+fragment,Airway Goblet Cell,0.9744666666666666
+fragment,Colon Epithelial Cell 1,0.9102166666666667
+fragment,Colonic Goblet Cell,0.9130888888888888
+fragment,Cortical Epithelial-like,0.9972777777777778
+fragment,Fibroblast (Epithelial),0.9414777777777779
+fragment,Luteal Cell (Ovarian),0.9564333333333334
+fragment,Mammary Epithelial,0.9377555555555556
+fragment,Smooth Muscle (Esophageal Muscularis) 3,0.7904222222222221
+fragment,Smooth Muscle (General Gastrointestinal),0.8956333333333333
+fragment,T lymphocyte 2 (CD4+),0.9968888888888889
+cut2,Airway Goblet Cell,0.9622222222222222
+cut2,Colon Epithelial Cell 1,0.8555222222222222
+cut2,Colonic Goblet Cell,0.8601
+cut2,Cortical Epithelial-like,0.9894
+cut2,Fibroblast (Epithelial),0.9214722222222222
+cut2,Luteal Cell (Ovarian),0.9394722222222223
+cut2,Mammary Epithelial,0.8630111111111111
+cut2,Smooth Muscle (Esophageal Muscularis) 3,0.7851888888888888
+cut2,Smooth Muscle (General Gastrointestinal),0.7885777777777777
+cut2,T lymphocyte 2 (CD4+),0.9862333333333333
+right,Airway Goblet Cell,0.9632999999999999
+right,Colon Epithelial Cell 1,0.8896777777777778
+right,Colonic Goblet Cell,0.8528333333333333
+right,Cortical Epithelial-like,0.9651888888888889
+right,Fibroblast (Epithelial),0.9130444444444444
+right,Luteal Cell (Ovarian),0.9014
+right,Mammary Epithelial,0.9035111111111112
+right,Smooth Muscle (Esophageal Muscularis) 3,0.7688666666666667
+right,Smooth Muscle (General Gastrointestinal),0.7737888888888889
+right,T lymphocyte 2 (CD4+),0.9809555555555556
