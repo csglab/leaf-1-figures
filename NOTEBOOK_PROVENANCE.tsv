@@ -9,3 +9,5 @@ scatac/notebook/scatac_tf_motif_accessibility.ipynb	Figure 4	mil/mil_nested/scat
 scatac/notebook/supp_scatac_classification_extended.ipynb	Supplementary Figures 1-3	mil/mil_nested/scatac_visualization/supp_figures.ipynb	scatac_task_metrics.csv; scatac_probability_matrix.csv; scatac_metadata_minimal.csv
 scatac/notebook/supp_scatac_segment_ablation.ipynb	Supplementary Figure 4	scatac-dna-embedding-benchmark/benchmark/notebook/segment_window_sweep_leaf1.ipynb	scatac_segment_sweep_auc.csv
 scatac/notebook/supp_scatac_embedding_vs_binning_resolution.ipynb	Supplementary Figure 5	mil/mil_nested/scatac_visualization/supp_heatmap_binning.ipynb	scatac_leaf1_vs_binning_auc.csv
+scatac/notebook/scatac_fragment_umap.ipynb	Figure 2a-b	analysis_scatac/scatac_visualization/notebook/scatac_fragment_umap.ipynb	comp_names.json; frag_labels.json; umap_embedding.npy; foxa2_map.csv; target_auc_top10.txt
+cfdna/notebook/cfdna_ctdna_detection.ipynb	Figure 6e-f	analysis_cfdna/cfdna_visualization/notebook/cfdna_ctdna_detection.ipynb	cfdna_metadata.csv; delfi_oof_predictions.csv; leaf1_oof_predictions.csv

@@ -1,0 +1,10 @@
+Hepatocyte_vs_all
+Pancreatic_Beta_Cell_2_vs_all
+Type_II_Skeletal_Myocyte_vs_all
+Macrophage_General_Alveolar_vs_all
+Parietal_Cell_vs_all
+Thyroid_Follicular_Cell_vs_all
+Pancreatic_Alpha_Cell_2_vs_all
+Keratinocyte_2_vs_all
+Atrial_Cardiomyocyte_vs_all
+Cortical_Epithelial-like_vs_all
