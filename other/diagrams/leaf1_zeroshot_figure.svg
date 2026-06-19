@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;}
+.stage{font-size:12px;font-weight:700;fill:#404040;}
+.ttl{font-size:13px;font-weight:500;fill:#1A1A1A;}
+.sub{font-size:11px;font-weight:400;fill:#595959;}
+.xs{font-size:10px;font-weight:400;fill:#595959;}
+.tf{font-size:11px;font-weight:400;fill:#595959;}
+.lg{font-size:10px;font-weight:400;fill:#595959;}
+</style>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="440" fill="#FFFFFF"/>
+
+<rect x="40" y="44" width="660" height="92" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.75" stroke-dasharray="4 3"/>
+<rect x="40" y="172" width="660" height="92" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.75" stroke-dasharray="4 3"/>
+<rect x="40" y="300" width="660" height="92" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.75" stroke-dasharray="4 3"/>
+
+<text class="stage" x="56" y="62">Pre-training (self-supervised)</text>
+<text class="stage" x="56" y="190">Supervised MIL training</text>
+<text class="stage" x="56" y="318">Zero-shot transfer</text>
+
+<rect x="56" y="74" width="180" height="46" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="146" y="93" text-anchor="middle">Corpus</text>
+<text class="sub" x="146" y="108" text-anchor="middle">~57B fragments, 3 assays</text>
+<rect x="280" y="74" width="180" height="46" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="370" y="93" text-anchor="middle">Masked LM pretraining</text>
+<text class="sub" x="370" y="108" text-anchor="middle">[CUT] masked 2x</text>
+<rect x="504" y="74" width="180" height="46" rx="3" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="ttl" x="594" y="93" text-anchor="middle">LEAF-1 encoder</text>
+<text class="sub" x="594" y="108" text-anchor="middle">12-layer, ~90M params</text>
+<line x1="240" y1="97" x2="274" y2="97" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="464" y1="97" x2="498" y2="97" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<path d="M594 120 L594 146 L370 146 L370 196" fill="none" stroke="#4D4D4D" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+<text class="tf" x="482" y="141" text-anchor="middle">encoder frozen</text>
+
+<rect x="56" y="202" width="180" height="46" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="146" y="221" text-anchor="middle">Cristiano cohort</text>
+<text class="sub" x="146" y="236" text-anchor="middle">538 samples, 7 cancers</text>
+<rect x="280" y="202" width="180" height="46" rx="3" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="ttl" x="370" y="221" text-anchor="middle">MIL training</text>
+<text class="sub" x="370" y="236" text-anchor="middle">fitting gated-attention MIL</text>
+<rect x="504" y="202" width="180" height="46" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="594" y="221" text-anchor="middle">Pan-cancer detection</text>
+<text class="sub" x="594" y="236" text-anchor="middle">AUC 0.95</text>
+<line x1="240" y1="225" x2="274" y2="225" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="464" y1="225" x2="498" y2="225" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<path d="M370 248 L370 324" fill="none" stroke="#4D4D4D" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#ar)"/>
+<text class="tf" x="382" y="280" text-anchor="start">classifier frozen, no retraining</text>
+
+<rect x="56" y="330" width="180" height="46" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="146" y="349" text-anchor="middle">In-house kidney cohort</text>
+<text class="sub" x="146" y="364" text-anchor="middle">6 healthy + 6 ccRCC</text>
+<rect x="280" y="330" width="180" height="46" rx="3" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="ttl" x="370" y="345" text-anchor="middle">Frozen model</text>
+<text class="xs" x="370" y="359" text-anchor="middle">(frozen encoder &amp; MIL)</text>
+<text class="xs" x="370" y="371" text-anchor="middle">applied as-is without refitting</text>
+<rect x="504" y="330" width="180" height="46" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="594" y="349" text-anchor="middle">Kidney vs healthy</text>
+<text class="sub" x="594" y="364" text-anchor="middle">AUC 0.83</text>
+<line x1="240" y1="353" x2="274" y2="353" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="464" y1="353" x2="498" y2="353" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<rect x="56" y="413" width="11" height="11" rx="2" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="lg" x="73" y="422">LEAF-1 model (frozen after training)</text>
+<rect x="322" y="413" width="11" height="11" rx="2" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="lg" x="339" y="422">Cohorts and pre-training</text>
+<rect x="480" y="413" width="11" height="11" rx="2" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="lg" x="497" y="422">Performance</text>
+</svg>

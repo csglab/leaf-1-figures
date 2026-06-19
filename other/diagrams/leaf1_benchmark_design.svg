@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" width="720" height="420">
+<style>
+text{font-family:Arial,Helvetica,sans-serif;}
+.ttl{font-size:13px;font-weight:500;fill:#1A1A1A;}
+.sub{font-size:11px;font-weight:400;fill:#595959;}
+.xs{font-size:10px;font-weight:400;fill:#595959;}
+.hd{font-size:12px;font-weight:700;fill:#404040;}
+.lg{font-size:10px;font-weight:400;fill:#595959;}
+</style>
+<defs>
+<marker id="ar" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1L8 5L1 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+
+<rect x="0" y="0" width="720" height="420" fill="#FFFFFF"/>
+
+<rect x="262" y="66" width="206" height="274" rx="6" fill="none" stroke="#B4B2A9" stroke-width="0.75" stroke-dasharray="4 3"/>
+<text class="hd" x="365" y="58" text-anchor="middle">Representation (varies by method)</text>
+
+<rect x="40" y="146" width="190" height="46" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="135" y="165" text-anchor="middle">Cristiano cohort</text>
+<text class="sub" x="135" y="180" text-anchor="middle">538 samples, 7 cancers + healthy</text>
+<rect x="40" y="204" width="190" height="56" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="135" y="222" text-anchor="middle">Fragment sampling</text>
+<text class="sub" x="135" y="238" text-anchor="middle">10,000 per sample</text>
+<text class="xs" x="135" y="252" text-anchor="middle">identical set used by all methods</text>
+<line x1="135" y1="192" x2="135" y2="202" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<line x1="230" y1="232" x2="250" y2="232" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="250" y1="90" x2="250" y2="311" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="250" y1="90" x2="268" y2="90" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="250" y1="144" x2="268" y2="144" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="250" y1="198" x2="268" y2="198" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="250" y1="252" x2="268" y2="252" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="250" y1="311" x2="268" y2="311" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<rect x="270" y="69" width="190" height="42" rx="3" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="ttl" x="365" y="86" text-anchor="middle">LEAF-1 embeddings</text>
+<text class="sub" x="365" y="100" text-anchor="middle">frozen encoder</text>
+<rect x="270" y="123" width="190" height="42" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="365" y="140" text-anchor="middle">Coordinate binning</text>
+<text class="sub" x="365" y="154" text-anchor="middle">bin-only, bin + length</text>
+<rect x="270" y="177" width="190" height="42" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="365" y="194" text-anchor="middle">DELFI fragmentomics</text>
+<text class="sub" x="365" y="208" text-anchor="middle">includes bin + DELFI</text>
+<rect x="270" y="231" width="190" height="42" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="365" y="248" text-anchor="middle">k-mer frequencies</text>
+<text class="sub" x="365" y="262" text-anchor="middle">k = 3 to 6</text>
+<rect x="270" y="285" width="190" height="52" rx="3" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="ttl" x="365" y="302" text-anchor="middle">DNA language models</text>
+<text class="xs" x="365" y="318" text-anchor="middle">DNABERT-2, DNABERT-S,</text>
+<text class="xs" x="365" y="331" text-anchor="middle">GENA-LM, NT-v2, Evo 2</text>
+
+<line x1="460" y1="90" x2="480" y2="90" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="460" y1="144" x2="480" y2="144" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="460" y1="198" x2="480" y2="198" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="460" y1="252" x2="480" y2="252" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="460" y1="311" x2="480" y2="311" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="480" y1="90" x2="480" y2="311" stroke="#4D4D4D" stroke-width="1"/>
+<line x1="480" y1="198" x2="498" y2="198" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<rect x="500" y="168" width="180" height="60" rx="3" fill="#FFFFFF" stroke="#404040" stroke-width="1"/>
+<text class="ttl" x="590" y="186" text-anchor="middle">Linear classifier</text>
+<text class="sub" x="590" y="202" text-anchor="middle">leave-one-out nested CV</text>
+<text class="sub" x="590" y="218" text-anchor="middle">same fragments + folds</text>
+<rect x="500" y="250" width="180" height="58" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="590" y="268" text-anchor="middle">14 binary tasks</text>
+<text class="sub" x="590" y="284" text-anchor="middle">7 cancer vs healthy</text>
+<text class="sub" x="590" y="300" text-anchor="middle">7 cancer vs other cancers</text>
+<rect x="500" y="330" width="180" height="44" rx="3" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="ttl" x="590" y="349" text-anchor="middle">Per-task mean AUC</text>
+<text class="sub" x="590" y="363" text-anchor="middle">compared across methods</text>
+<line x1="590" y1="228" x2="590" y2="248" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+<line x1="590" y1="308" x2="590" y2="328" stroke="#4D4D4D" stroke-width="1" marker-end="url(#ar)"/>
+
+<rect x="56" y="390" width="11" height="11" rx="2" fill="#E3E9F2" stroke="#3C5488" stroke-width="0.75"/>
+<text class="lg" x="73" y="399">LEAF-1 representation</text>
+<rect x="240" y="390" width="11" height="11" rx="2" fill="#EFEFF1" stroke="#8491B4" stroke-width="0.75"/>
+<text class="lg" x="257" y="399">baseline representations</text>
+<rect x="460" y="390" width="11" height="11" rx="2" fill="#FFFFFF" stroke="#595959" stroke-width="0.75"/>
+<text class="lg" x="477" y="399">shared across all methods</text>
+</svg>
