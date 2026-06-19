@@ -4,5 +4,5 @@ __pycache__/
 .DS_Store
 .virtual_documents/
 
-# One-off data generator for the model-overview figures (kept local, not committed)
-other/generate_pretraining_curves_data.py
+# One-off data collector for the model-overview figures
+other/pretraining_curves_data.py
