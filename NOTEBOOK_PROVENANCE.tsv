@@ -12,3 +12,5 @@ scatac/notebook/supp_scatac_embedding_vs_binning_resolution.ipynb	Supplementary 
 scatac/notebook/scatac_fragment_umap.ipynb	Figure 2a-b	analysis_scatac/scatac_visualization/notebook/scatac_fragment_umap.ipynb	comp_names.json; frag_labels.json; umap_embedding.npy; foxa2_map.csv; target_auc_top10.txt
 cfdna/notebook/cfdna_ctdna_detection.ipynb	Figure 6e-f	analysis_cfdna/cfdna_visualization/notebook/cfdna_ctdna_detection.ipynb	cfdna_metadata.csv; delfi_oof_predictions.csv; leaf1_oof_predictions.csv
 other/notebook/pretraining_curves.ipynb	Pretraining curves (model overview)	bert_window_embedding/loss.ipynb	pretraining_curves.tsv
+cfdna/notebook/cfdna_leaf1_vs_binning_auc.ipynb	Figure 7e	analysis_cfdna/old_version/auc_comparison/plot_auc_comparison.ipynb	cfdna_leaf1_vs_binning_predictions.csv
+cfdna/notebook/cfdna_ichorcna_genomewide.ipynb	Figure 7d	analysis_cfdna/old_version/ichorcna_plot_tables_transfer/plot_ichorcna_default_style_group_panels.ipynb	ichorcna_depth_for_plot.tsv; ichorcna_segments_for_plot.tsv
