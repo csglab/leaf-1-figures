@@ -9,13 +9,18 @@ Model checkpoints, H5 files, and raw sequencing data are not required.
 ```
 leaf-1-figures/
 ├── cfdna/
-│   ├── notebook/   5 notebooks, one per figure (see map below)
+│   ├── notebook/   one notebook per figure (see map below)
 │   ├── data/       input tables read by the notebooks
 │   └── output/     generated figures (.png, .pdf) and derived tables
 ├── scatac/
-│   ├── notebook/   5 notebooks, one per figure (see map below)
+│   ├── notebook/   one notebook per figure (see map below)
 │   ├── data/       input tables read by the notebooks
 │   └── output/     generated figures (.png, .pdf) and derived tables
+├── other/
+│   ├── notebook/   model-overview pretraining curves
+│   ├── data/       input tables read by the notebook
+│   ├── diagrams/   schematic source files
+│   └── output/     generated figures and derived tables
 ├── src/leaf1figures/        shared matplotlib style (set_paper_style, savefig, OKABE_ITO)
 ├── NOTEBOOK_PROVENANCE.tsv  notebook, figure, source analysis notebook, input tables
 ├── DATA_MANIFEST.tsv        size and SHA-256 for each input table
@@ -32,28 +37,35 @@ the adjacent `output/` directory. Notebooks are committed with their cell output
 
 ## Figure map
 
-cfDNA (`cfdna/notebook/`):
-
-| Notebook | Manuscript figure |
-|---|---|
-| `cfdna_representation_benchmark.ipynb` | Figure 5a-d |
-| `cfdna_mil_detection.ipynb` | Figure 6a-d |
-| `kidney_zeroshot.ipynb` | Figure 7a-c |
-| `supp_cfdna_per_cancer_metrics.ipynb` | Supplementary Figure 6 |
-| `supp_cfdna_subsampling.ipynb` | Supplementary Figures 7-11 |
-
 scATAC (`scatac/notebook/`):
 
 | Notebook | Manuscript figure |
 |---|---|
-| `scatac_celltype_classification.ipynb` | Figure 3a-e |
-| `scatac_tf_motif_accessibility.ipynb` | Figure 4 |
+| `scatac_celltype_classification.ipynb` | Figure 2b-f |
+| `scatac_tf_motif_accessibility.ipynb` | Figure 3a-d |
+| `scatac_fragment_umap.ipynb` | Figure 3e-f |
 | `supp_scatac_classification_extended.ipynb` | Supplementary Figures 1-3 |
-| `supp_scatac_segment_ablation.ipynb` | Supplementary Figure 4 |
-| `supp_scatac_embedding_vs_binning_resolution.ipynb` | Supplementary Figure 5 |
+| `supp_scatac_embedding_vs_binning_resolution.ipynb` | Supplementary Figure 4 |
+| `supp_scatac_segment_ablation.ipynb` | Supplementary Figure 5 |
 
-Figure 1 (schematic and pretraining curves) and Figure 2 are not part of this
-repository.
+cfDNA (`cfdna/notebook/`):
+
+| Notebook | Manuscript figure |
+|---|---|
+| `cfdna_representation_benchmark.ipynb` | Figure 4b-e |
+| `cfdna_mil_detection.ipynb` | Figure 5b-e |
+| `cfdna_ctdna_detection.ipynb` | Figure 5f-g |
+| `cfdna_ichorcna_genomewide.ipynb` | Figure 6b |
+| `kidney_zeroshot.ipynb` | Figure 6c-d |
+| `kidney_zeroshot_leaf1_vs_binning_auc.ipynb` | Figure 6e |
+| `supp_cfdna_per_cancer_metrics.ipynb` | Supplementary Figure 8 |
+| `supp_cfdna_subsampling.ipynb` | Supplementary Figures 7, 9-13 |
+
+Model overview (`other/notebook/`):
+
+| Notebook | Manuscript figure |
+|---|---|
+| `pretraining_curves.ipynb` | Pretraining curves (model overview) |
 
 ## Setup
 

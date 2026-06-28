@@ -1,0 +1,127 @@
+comparison,baseline,baseline_display,task,leaf1_auc,baseline_auc,delta
+external,dnabert-s,DNABERT-S,Bile_duct_cancer_vs_cancer,0.8515,0.8513,0.000200000000000089
+external,dnabert-s,DNABERT-S,Bile_duct_cancer_vs_healthy,0.9186,0.9612,-0.04260000000000008
+external,dnabert-s,DNABERT-S,Breast_cancer_vs_cancer,0.7417,0.6886,0.053100000000000036
+external,dnabert-s,DNABERT-S,Breast_cancer_vs_healthy,0.9033,0.8459,0.05740000000000001
+external,dnabert-s,DNABERT-S,Colorectal_cancer_vs_cancer,0.8886,0.9078,-0.019200000000000106
+external,dnabert-s,DNABERT-S,Colorectal_cancer_vs_healthy,0.9719,0.984,-0.0121
+external,dnabert-s,DNABERT-S,Gastric_cancer_vs_cancer,0.8691,0.824,0.04510000000000003
+external,dnabert-s,DNABERT-S,Gastric_cancer_vs_healthy,0.9433,0.8876,0.05570000000000008
+external,dnabert-s,DNABERT-S,Lung_cancer_vs_cancer,0.6747,0.6034,0.07129999999999992
+external,dnabert-s,DNABERT-S,Lung_cancer_vs_healthy,0.856,0.8636,-0.007600000000000051
+external,dnabert-s,DNABERT-S,Ovarian_cancer_vs_cancer,0.7348,0.4228,0.312
+external,dnabert-s,DNABERT-S,Ovarian_cancer_vs_healthy,0.8686,0.7986,0.07000000000000006
+external,dnabert-s,DNABERT-S,Pancreatic_cancer_vs_cancer,0.8459,0.8249,0.02100000000000002
+external,dnabert-s,DNABERT-S,Pancreatic_cancer_vs_healthy,0.9019,0.9176,-0.015699999999999936
+external,dnabert2,DNABERT-2,Bile_duct_cancer_vs_cancer,0.8515,0.8375,0.014000000000000012
+external,dnabert2,DNABERT-2,Bile_duct_cancer_vs_healthy,0.9186,0.9454,-0.026800000000000046
+external,dnabert2,DNABERT-2,Breast_cancer_vs_cancer,0.7417,0.6477,0.09399999999999997
+external,dnabert2,DNABERT-2,Breast_cancer_vs_healthy,0.9033,0.8849,0.018399999999999972
+external,dnabert2,DNABERT-2,Colorectal_cancer_vs_cancer,0.8886,0.8425,0.04609999999999992
+external,dnabert2,DNABERT-2,Colorectal_cancer_vs_healthy,0.9719,0.9269,0.04500000000000004
+external,dnabert2,DNABERT-2,Gastric_cancer_vs_cancer,0.8691,0.8441,0.025000000000000022
+external,dnabert2,DNABERT-2,Gastric_cancer_vs_healthy,0.9433,0.8791,0.06420000000000003
+external,dnabert2,DNABERT-2,Lung_cancer_vs_cancer,0.6747,0.5859,0.08879999999999999
+external,dnabert2,DNABERT-2,Lung_cancer_vs_healthy,0.856,0.8753,-0.019299999999999984
+external,dnabert2,DNABERT-2,Ovarian_cancer_vs_cancer,0.7348,0.5695,0.1653
+external,dnabert2,DNABERT-2,Ovarian_cancer_vs_healthy,0.8686,0.8819,-0.013299999999999979
+external,dnabert2,DNABERT-2,Pancreatic_cancer_vs_cancer,0.8459,0.8925,-0.046599999999999975
+external,dnabert2,DNABERT-2,Pancreatic_cancer_vs_healthy,0.9019,0.9087,-0.006799999999999917
+external,evo2,Evo 2,Bile_duct_cancer_vs_cancer,0.8515,0.9426,-0.09109999999999996
+external,evo2,Evo 2,Bile_duct_cancer_vs_healthy,0.9186,0.9542,-0.035600000000000076
+external,evo2,Evo 2,Breast_cancer_vs_cancer,0.7417,0.5849,0.15680000000000005
+external,evo2,Evo 2,Breast_cancer_vs_healthy,0.9033,0.8844,0.018900000000000028
+external,evo2,Evo 2,Colorectal_cancer_vs_cancer,0.8886,0.8584,0.030199999999999894
+external,evo2,Evo 2,Colorectal_cancer_vs_healthy,0.9719,0.958,0.013900000000000023
+external,evo2,Evo 2,Gastric_cancer_vs_cancer,0.8691,0.881,-0.011900000000000022
+external,evo2,Evo 2,Gastric_cancer_vs_healthy,0.9433,0.8413,0.10199999999999998
+external,evo2,Evo 2,Lung_cancer_vs_cancer,0.6747,0.6188,0.05589999999999995
+external,evo2,Evo 2,Lung_cancer_vs_healthy,0.856,0.8264,0.02959999999999996
+external,evo2,Evo 2,Ovarian_cancer_vs_cancer,0.7348,0.5449,0.18989999999999996
+external,evo2,Evo 2,Ovarian_cancer_vs_healthy,0.8686,0.7458,0.12280000000000002
+external,evo2,Evo 2,Pancreatic_cancer_vs_cancer,0.8459,0.8416,0.0042999999999999705
+external,evo2,Evo 2,Pancreatic_cancer_vs_healthy,0.9019,0.8711,0.03080000000000005
+external,gena-lm,GENA-LM,Bile_duct_cancer_vs_cancer,0.8515,0.7541,0.09740000000000004
+external,gena-lm,GENA-LM,Bile_duct_cancer_vs_healthy,0.9186,0.9085,0.010099999999999998
+external,gena-lm,GENA-LM,Breast_cancer_vs_cancer,0.7417,0.6486,0.09310000000000007
+external,gena-lm,GENA-LM,Breast_cancer_vs_healthy,0.9033,0.8875,0.015800000000000036
+external,gena-lm,GENA-LM,Colorectal_cancer_vs_cancer,0.8886,0.8666,0.02199999999999991
+external,gena-lm,GENA-LM,Colorectal_cancer_vs_healthy,0.9719,0.9675,0.0043999999999999595
+external,gena-lm,GENA-LM,Gastric_cancer_vs_cancer,0.8691,0.8652,0.0039000000000000146
+external,gena-lm,GENA-LM,Gastric_cancer_vs_healthy,0.9433,0.8533,0.09000000000000008
+external,gena-lm,GENA-LM,Lung_cancer_vs_cancer,0.6747,0.639,0.035699999999999954
+external,gena-lm,GENA-LM,Lung_cancer_vs_healthy,0.856,0.8653,-0.009299999999999975
+external,gena-lm,GENA-LM,Ovarian_cancer_vs_cancer,0.7348,0.6226,0.11219999999999997
+external,gena-lm,GENA-LM,Ovarian_cancer_vs_healthy,0.8686,0.8501,0.018500000000000072
+external,gena-lm,GENA-LM,Pancreatic_cancer_vs_cancer,0.8459,0.7934,0.05249999999999999
+external,gena-lm,GENA-LM,Pancreatic_cancer_vs_healthy,0.9019,0.8482,0.05370000000000008
+external,nt-v2,NT-v2,Bile_duct_cancer_vs_cancer,0.8515,0.832,0.019500000000000073
+external,nt-v2,NT-v2,Bile_duct_cancer_vs_healthy,0.9186,0.864,0.05459999999999998
+external,nt-v2,NT-v2,Breast_cancer_vs_cancer,0.7417,0.7259,0.015800000000000036
+external,nt-v2,NT-v2,Breast_cancer_vs_healthy,0.9033,0.8724,0.03090000000000004
+external,nt-v2,NT-v2,Colorectal_cancer_vs_cancer,0.8886,0.8721,0.01649999999999996
+external,nt-v2,NT-v2,Colorectal_cancer_vs_healthy,0.9719,0.9719,0.0
+external,nt-v2,NT-v2,Gastric_cancer_vs_cancer,0.8691,0.8773,-0.008199999999999985
+external,nt-v2,NT-v2,Gastric_cancer_vs_healthy,0.9433,0.9198,0.023500000000000076
+external,nt-v2,NT-v2,Lung_cancer_vs_cancer,0.6747,0.6312,0.04349999999999998
+external,nt-v2,NT-v2,Lung_cancer_vs_healthy,0.856,0.8607,-0.0047000000000000375
+external,nt-v2,NT-v2,Ovarian_cancer_vs_cancer,0.7348,0.5763,0.15849999999999997
+external,nt-v2,NT-v2,Ovarian_cancer_vs_healthy,0.8686,0.8362,0.032399999999999984
+external,nt-v2,NT-v2,Pancreatic_cancer_vs_cancer,0.8459,0.857,-0.011099999999999999
+external,nt-v2,NT-v2,Pancreatic_cancer_vs_healthy,0.9019,0.8737,0.028200000000000003
+kmer,kmer-3,kmer-3,Bile_duct_cancer_vs_cancer,0.8515,0.668207171314741,0.18329282868525898
+kmer,kmer-3,kmer-3,Breast_cancer_vs_cancer,0.7417,0.6115702479338843,0.13012975206611577
+kmer,kmer-3,kmer-3,Colorectal_cancer_vs_cancer,0.8886,0.827904209430314,0.06069579056968599
+kmer,kmer-3,kmer-3,Gastric_cancer_vs_cancer,0.8691,0.8307303287222967,0.0383696712777033
+kmer,kmer-3,kmer-3,Lung_cancer_vs_cancer,0.6747,0.5721904517123948,0.10250954828760517
+kmer,kmer-3,kmer-3,Ovarian_cancer_vs_cancer,0.7348,0.5569498069498069,0.17785019305019312
+kmer,kmer-3,kmer-3,Pancreatic_cancer_vs_cancer,0.8459,0.7692946058091286,0.07660539419087142
+kmer,kmer-3,kmer-3,Bile_duct_cancer_vs_healthy,0.9186,0.7867692307692308,0.1318307692307692
+kmer,kmer-3,kmer-3,Breast_cancer_vs_healthy,0.9033,0.8723083548664944,0.030991645133505608
+kmer,kmer-3,kmer-3,Colorectal_cancer_vs_healthy,0.9719,0.937037037037037,0.034862962962962984
+kmer,kmer-3,kmer-3,Gastric_cancer_vs_healthy,0.9433,0.8056980056980056,0.13760199430199438
+kmer,kmer-3,kmer-3,Lung_cancer_vs_healthy,0.856,0.7430379746835443,0.11296202531645572
+kmer,kmer-3,kmer-3,Ovarian_cancer_vs_healthy,0.8686,0.7915282392026578,0.07707176079734224
+kmer,kmer-3,kmer-3,Pancreatic_cancer_vs_healthy,0.9019,0.764835164835165,0.13706483516483503
+kmer,kmer-4,kmer-4,Bile_duct_cancer_vs_cancer,0.8515,0.5799203187250996,0.2715796812749004
+kmer,kmer-4,kmer-4,Breast_cancer_vs_cancer,0.7417,0.5067340067340067,0.23496599326599332
+kmer,kmer-4,kmer-4,Colorectal_cancer_vs_cancer,0.8886,0.8155585304179681,0.07304146958203184
+kmer,kmer-4,kmer-4,Gastric_cancer_vs_cancer,0.8691,0.8662799345530269,0.002820065446973108
+kmer,kmer-4,kmer-4,Lung_cancer_vs_cancer,0.6747,0.5745678853691448,0.10013211463085514
+kmer,kmer-4,kmer-4,Ovarian_cancer_vs_cancer,0.7348,0.5074806949806949,0.22731930501930508
+kmer,kmer-4,kmer-4,Pancreatic_cancer_vs_cancer,0.8459,0.7908713692946059,0.0550286307053941
+kmer,kmer-4,kmer-4,Bile_duct_cancer_vs_healthy,0.9186,0.8741538461538462,0.0444461538461538
+kmer,kmer-4,kmer-4,Breast_cancer_vs_healthy,0.9033,0.8109388458225667,0.09236115417743329
+kmer,kmer-4,kmer-4,Colorectal_cancer_vs_healthy,0.9719,0.9753561253561254,-0.0034561253561253835
+kmer,kmer-4,kmer-4,Gastric_cancer_vs_healthy,0.9433,0.9075498575498576,0.03575014245014241
+kmer,kmer-4,kmer-4,Lung_cancer_vs_healthy,0.856,0.803919182083739,0.05208081791626096
+kmer,kmer-4,kmer-4,Ovarian_cancer_vs_healthy,0.8686,0.7842607973421927,0.08433920265780737
+kmer,kmer-4,kmer-4,Pancreatic_cancer_vs_healthy,0.9019,0.8029670329670329,0.09893296703296717
+kmer,kmer-5,kmer-5,Bile_duct_cancer_vs_cancer,0.8515,0.6404780876494024,0.21102191235059764
+kmer,kmer-5,kmer-5,Breast_cancer_vs_cancer,0.7417,0.6094276094276094,0.1322723905723906
+kmer,kmer-5,kmer-5,Colorectal_cancer_vs_cancer,0.8886,0.8830879071842928,0.0055120928157071925
+kmer,kmer-5,kmer-5,Gastric_cancer_vs_cancer,0.8691,0.8347463929793246,0.03435360702067536
+kmer,kmer-5,kmer-5,Lung_cancer_vs_cancer,0.6747,0.582535500867442,0.09216449913255798
+kmer,kmer-5,kmer-5,Ovarian_cancer_vs_cancer,0.7348,0.4753861003861004,0.2594138996138996
+kmer,kmer-5,kmer-5,Pancreatic_cancer_vs_cancer,0.8459,0.8212211025489035,0.024678897451096526
+kmer,kmer-5,kmer-5,Bile_duct_cancer_vs_healthy,0.9186,0.8860000000000001,0.03259999999999985
+kmer,kmer-5,kmer-5,Breast_cancer_vs_healthy,0.9033,0.7748708010335917,0.12842919896640825
+kmer,kmer-5,kmer-5,Colorectal_cancer_vs_healthy,0.9719,0.963817663817664,0.008082336182336003
+kmer,kmer-5,kmer-5,Gastric_cancer_vs_healthy,0.9433,0.8666666666666666,0.07663333333333344
+kmer,kmer-5,kmer-5,Lung_cancer_vs_healthy,0.856,0.788412852969815,0.06758714703018498
+kmer,kmer-5,kmer-5,Ovarian_cancer_vs_healthy,0.8686,0.8023255813953488,0.06627441860465122
+kmer,kmer-5,kmer-5,Pancreatic_cancer_vs_healthy,0.9019,0.8082417582417583,0.09365824175824178
+kmer,kmer-6,kmer-6,Bile_duct_cancer_vs_cancer,0.8515,0.7233466135458168,0.12815338645418328
+kmer,kmer-6,kmer-6,Breast_cancer_vs_cancer,0.7417,0.4995408631772268,0.24215913682277324
+kmer,kmer-6,kmer-6,Colorectal_cancer_vs_cancer,0.8886,0.8789230998066339,0.00967690019336609
+kmer,kmer-6,kmer-6,Gastric_cancer_vs_cancer,0.8691,0.818384649709951,0.05071535029004903
+kmer,kmer-6,kmer-6,Lung_cancer_vs_cancer,0.6747,0.4484353916340037,0.22626460836599627
+kmer,kmer-6,kmer-6,Ovarian_cancer_vs_cancer,0.7348,0.2997104247104247,0.4350895752895753
+kmer,kmer-6,kmer-6,Pancreatic_cancer_vs_cancer,0.8459,0.7700059276822763,0.07589407231772372
+kmer,kmer-6,kmer-6,Bile_duct_cancer_vs_healthy,0.9186,0.9046153846153846,0.013984615384615373
+kmer,kmer-6,kmer-6,Breast_cancer_vs_healthy,0.9033,0.7335271317829457,0.16977286821705428
+kmer,kmer-6,kmer-6,Colorectal_cancer_vs_healthy,0.9719,0.9527065527065528,0.019193447293447186
+kmer,kmer-6,kmer-6,Gastric_cancer_vs_healthy,0.9433,0.8853276353276354,0.05797236467236466
+kmer,kmer-6,kmer-6,Lung_cancer_vs_healthy,0.856,0.7196445959104186,0.13635540408958136
+kmer,kmer-6,kmer-6,Ovarian_cancer_vs_healthy,0.8686,0.7832225913621262,0.0853774086378738
+kmer,kmer-6,kmer-6,Pancreatic_cancer_vs_healthy,0.9019,0.7552747252747253,0.14662527472527476
