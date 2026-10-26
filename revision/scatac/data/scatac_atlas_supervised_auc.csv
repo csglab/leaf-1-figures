@@ -1,0 +1,103 @@
+task,case_label,n_case,auc_leaf1,auc_snapatac,n_tissues
+Adipocyte_vs_all,Adipocyte,100,0.97086232678696038,0.88088634097706875,16
+Airway_Goblet_Cell_vs_all,Airway Goblet Cell,100,0.97227395075266676,0.99499601196410759,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Alveolar Capillary Endothelial Cell,100,0.95250323995613595,0.96834297108673961,7
+Alveolar_Type_1_AT1_Cell_vs_all,Alveolar Type 1 (AT1) Cell,100,0.97587777888545524,0.97444366899302082,7
+Alveolar_Type_2_AT2_Cell_vs_all,Alveolar Type 2 (AT2) Cell,100,0.91446914564848958,0.92223130608175485,7
+Alverolar_Type_2_Immune_vs_all,"Alverolar Type 2,Immune",100,0.84661947961319917,0.86069292123629104,7
+Atrial_Cardiomyocyte_vs_all,Atrial Cardiomyocyte,100,0.97785963513109364,0.99236091724825515,7
+Basal_Epidermal_Skin_vs_all,Basal Epidermal (Skin),100,0.95786461967899506,0.97061615154536396,7
+Basal_Epithelial_Mammary_vs_all,Basal Epithelial (Mammary),100,0.89140065796032286,0.96603988035892319,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Blood Brain Barrier Endothelial Cell,37,0.7607891227863488,0.95401415484641483,21
+CNS_Enteric_Neuron_vs_all,"CNS,Enteric Neuron",78,0.9426258777198796,0.93384656198026683,17
+Cardiac_Fibroblasts_vs_all,Cardiac Fibroblasts,100,0.93877081048748878,0.95986540378863416,19
+Cardiac_Pericyte_1_vs_all,Cardiac Pericyte 1,100,0.96249227395075276,0.96898404785643077,19
+Cardiac_Pericyte_2_vs_all,Cardiac Pericyte 2,100,0.86485494965606624,0.95365802592223325,25
+Cardiac_Pericyte_3_vs_all,Cardiac Pericyte 3,100,0.85821652876084142,0.88575373878364916,24
+Cardiac_Pericyte_4_vs_all,Cardiac Pericyte 4,100,0.9000029907287409,0.92460618145563322,19
+Chief_Cell_vs_all,Chief Cell,100,0.94885056325391282,0.96812462612163519,4
+Cilliated_Cell_vs_all,Cilliated Cell,100,0.908403947761938,0.88687238285144565,7
+Club_Cell_vs_all,Club Cell,100,0.96591765526866702,0.9034366899302092,7
+Colon_Epithelial_Cell_1_vs_all,Colon Epithelial Cell 1,100,0.94652676702223104,0.95538384845463598,5
+Colon_Epithelial_Cell_2_vs_all,Colon Epithelial Cell 2,100,0.983520087728043,0.99682352941176477,4
+Colon_Epithelial_Cell_3_vs_all,Colon Epithelial Cell 3,100,0.92780978965207861,0.94988534396809576,7
+Colonic_Goblet_Cell_vs_all,Colonic Goblet Cell,100,0.95250722759445716,0.97283150548354924,5
+Cortical_Epithelial-like_vs_all,Cortical Epithelial-like,100,0.98356793938789755,0.97850348953140576,1
+Ductal_Cell_Pancreatic_vs_all,Ductal Cell (Pancreatic),100,0.93797427973282821,0.84954137587238288,6
+Eccrine_Epidermal_Skin_vs_all,Eccrine Epidermal (Skin),100,0.91281327883560959,0.91455034895314058,7
+Endocardial_Cell_vs_all,Endocardial Cell,100,0.91429368956235679,0.93332602193419723,8
+Endothelial_Cell_General_1_vs_all,Endothelial Cell (General) 1,100,0.81831721662845169,0.95673978065802601,46
+Endothelial_Cell_General_2_vs_all,Endothelial Cell (General) 2,100,0.79645000498454788,0.95840378863409781,49
+Endothelial_Cell_General_3_vs_all,Endothelial Cell (General) 3,100,0.90085435151031801,0.98088634097706884,25
+Endothelial_Cell_Myocardial_vs_all,Endothelial Cell (Myocardial),100,0.88509919250323987,0.96259720837487561,18
+Endothelial_Exocrine_Tissues_vs_all,Endothelial (Exocrine Tissues),100,0.97661250124613697,0.98106779661016963,3
+Enterochromaffin_Cell_vs_all,Enterochromaffin Cell,100,0.92525271657860642,0.95264805583250245,7
+Esophageal_Epithelial_Cell_vs_all,Esophageal Epithelial Cell,100,0.98665138071976877,0.98913160518444676,3
+Fibroblast_Epithelial_vs_all,Fibroblast (Epithelial),100,0.90753165187917439,0.96913060817547358,10
+Fibroblast_Gastrointestinal_vs_all,Fibroblast (Gastrointestinal),100,0.90635330475525877,0.97498205383848435,7
+Fibroblast_General_vs_all,Fibroblast (General),100,0.86717874588774801,0.9590817547357926,41
+Fibroblast_Liver_Adrenal_vs_all,Fibroblast (Liver Adrenal),100,0.96816369255308521,0.91366500498504477,5
+Fibroblast_Peripheral_Nerve_vs_all,Fibroblast (Peripheral Nerve),100,0.86236965407237576,0.85804885343968096,15
+Fibroblast_Sk_Muscle_Associated_vs_all,Fibroblast (Sk Muscle Associated),100,0.90733625760143555,0.95519641076769679,5
+Foveolar_Cell_vs_all,Foveolar Cell,100,0.96103479214435239,0.95147956131605183,6
+Gastric_Neuroendocrine_Cell_vs_all,Gastric Neuroendocrine Cell,100,0.97817864619678985,0.97687471867513742,4
+Granular_Epidermal_Skin_vs_all,Granular Epidermal (Skin),100,0.86873292792343737,0.93717746759720844,6
+Hepatocyte_vs_all,Hepatocyte,100,0.99859535440135561,0.99837886340977078,1
+Keratinocyte_1_vs_all,Keratinocyte 1,100,0.91963612800318995,0.95038384845463597,10
+Keratinocyte_2_vs_all,Keratinocyte 2,100,0.98677300368856558,0.98667497507477575,7
+Luteal_Cell_Ovarian_vs_all,Luteal Cell (Ovarian),100,0.96157013258897417,0.88314456630109672,3
+Lymphatic_Endothelial_Cell_vs_all,Lymphatic Endothelial Cell,100,0.86095902701624949,0.92726520438683957,45
+Macrophage_General_Alveolar_vs_all,"Macrophage (General,Alveolar)",100,0.98887448908384001,0.99027018943170475,14
+Macrophage_General_vs_all,Macrophage (General),100,0.91850463562954843,0.98634496510468583,50
+Mammary_Epithelial_vs_all,Mammary Epithelial,100,0.96203768318213523,0.98980259222333,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Mammary Luminal Epithelial Cell 1,100,0.92388096899611205,0.92895413758723822,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Mammary Luminal Epithelial Cell 2,100,0.84603728441830328,0.8382931206380857,11
+Mast_Cell_vs_all,Mast Cell,100,0.92086531751570122,0.9683459621136592,31
+Melanocyte_vs_all,Melanocyte,100,0.92448709002093521,0.94492323030907277,6
+Memory_B_Cell_vs_all,Memory B Cell,100,0.94375735220815482,0.98803190428713861,23
+Mesothelial_Cell_vs_all,Mesothelial Cell,100,0.93957033197089024,0.81697008973080754,9
+Myoepithelial_Skin_vs_all,Myoepithelial (Skin),100,0.93818263383511125,0.97677966101694924,8
+Naive_T_cell_vs_all,Naive T cell,100,0.79528760841391677,0.91950847457627116,30
+Natural_Killer_T_Cell_vs_all,Natural Killer T Cell,100,0.97454690459575322,0.9901206380857428,33
+Pancreatic_Acinar_Cell_vs_all,Pancreatic Acinar Cell,100,0.96813179144651562,0.96314556331006962,5
+Pancreatic_Alpha_Cell_1_vs_all,Pancreatic Alpha Cell 1,100,0.98922739507526658,0.95099501495513461,5
+Pancreatic_Alpha_Cell_2_vs_all,Pancreatic Alpha Cell 2,100,0.97869006081148435,0.87446560319042865,7
+Pancreatic_Beta_Cell_1_vs_all,Pancreatic Beta Cell 1,100,0.96451600039876384,0.98160817547357915,6
+Pancreatic_Beta_Cell_2_vs_all,Pancreatic Beta Cell 2,100,0.98845578706011361,0.96175872382851435,4
+Pancreatic_Delta_Gamma_cell_vs_all,"Pancreatic Delta,Gamma cell",100,0.96459974080350919,0.94462013958125624,8
+Paneth_Cell_vs_all,Paneth Cell,100,0.93030006978367064,0.92529710867397796,3
+Parietal_Cell_vs_all,Parietal Cell,100,0.98906190808493677,0.98940777666999002,3
+Pericyte_Esophageal_Muscularis_vs_all,Pericyte (Esophageal Muscularis),100,0.94734622669723845,0.99201794616151562,22
+Pericyte_General_1_vs_all,Pericyte (General) 1,100,0.91614794138171662,0.95150448654037878,42
+Pericyte_General_2_vs_all,Pericyte (General) 2,100,0.82260193400458581,0.97024227318045864,45
+Pericyte_General_3_vs_all,Pericyte (General) 3,100,0.86312431462466355,0.95675872382851435,39
+Pericyte_General_4_vs_all,Pericyte (General) 4,100,0.80521583092413518,0.92273778664007955,37
+Peripheral_Nerve_Stromal_vs_all,Peripheral Nerve Stromal,100,0.93351809390888241,0.96691126620139578,12
+Plasma_Cell_vs_all,Plasma Cell,100,0.9675047353205064,0.99259421734795605,20
+Satellite_Cell_vs_all,Satellite Cell,100,0.95779483600837401,0.94073280159521444,5
+Schwann_Cell_General_vs_all,Schwann Cell (General),100,0.87065895723257913,0.94575473579262204,28
+Small_Intestinal_Enterocyte_vs_all,Small Intestinal Enterocyte,100,0.97064998504635636,0.95386839481555341,3
+Small_Intestinal_Goblet_Cell_vs_all,Small Intestinal Goblet Cell,100,0.9608703020636028,0.93539381854436676,2
+Smooth_Muscle_Colon_1_vs_all,Smooth Muscle (Colon) 1,100,0.87663044561858239,0.96840478564307075,7
+Smooth_Muscle_Colon_2_vs_all,Smooth Muscle (Colon) 2,100,0.86085833914863918,0.96466699900299102,8
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Smooth Muscle (Esophageal Mucosal),100,0.88895125112152329,0.9492203389830508,13
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Smooth Muscle (Esophageal Muscularis) 1,100,0.9297697138869504,0.97441874376869397,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Smooth Muscle (Esophageal Muscularis) 2,100,0.89830525371348813,0.96391724825523439,6
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Smooth Muscle (Esophageal Muscularis) 3,100,0.74411125510916154,0.92571884346959121,13
+Smooth_Muscle_GE_Junction_vs_all,Smooth Muscle (GE Junction),100,0.8583620775595654,0.95711465603190438,6
+Smooth_Muscle_General_Gastrointestinal_vs_all,Smooth Muscle (General Gastrointestinal),100,0.87196391187319311,0.93898005982053845,12
+Smooth_Muscle_General_vs_all,Smooth Muscle (General),100,0.96424882863124317,0.97088235294117642,40
+Smooth_Muscle_Uterine_vs_all,Smooth Muscle (Uterine),100,0.90541022829229401,0.82672981056829509,3
+Smooth_Muscle_Vaginal_vs_all,Smooth Muscle (Vaginal),100,0.94660751669823562,0.91095912263210355,5
+T_Lymphocyte_1_CD8_vs_all,T Lymphocyte 1 (CD8+),100,0.94355896720167476,0.98459820538384835,44
+T_lymphocyte_2_CD4_vs_all,T lymphocyte 2 (CD4+),100,0.977579503539029,0.98858624127617156,15
+Thyroid_Follicular_Cell_vs_all,Thyroid Follicular Cell,100,0.98780879274249844,0.97065304087736803,3
+Transitional_Zone_Cortical_Cell_vs_all,Transitional Zone Cortical Cell,100,0.96889542418502639,0.98521036889332003,1
+Tuft_Cell_vs_all,Tuft Cell,100,0.96686272555079256,0.93678963110668001,8
+Type_II_Skeletal_Myocyte_vs_all,Type II Skeletal Myocyte,100,0.98942278935300565,0.99747657028913261,5
+Type_I_Skeletal_Myocyte_vs_all,Type I Skeletal Myocyte,100,0.973072475326488,0.99283250249252242,5
+Vascular_Smooth_Muscle_1_vs_all,Vascular Smooth Muscle 1,100,0.86116040275147043,0.88633000997008971,8
+Vascular_Smooth_Muscle_2_vs_all,Vascular Smooth Muscle 2,100,0.86555278636227695,0.85164705882352942,11
+Ventricular_Cardiomyocyte_vs_all,Ventricular Cardiomyocyte,100,0.98036586581597041,0.99177168494516443,11
+Zona_Fasciculata_Cortical_Cell_vs_all,Zona Fasciculata Cortical Cell,100,0.97976772006778978,0.98662811565304098,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Zona Glomerulosa Cortical Cell,100,0.96727743993619764,0.97551545363908276,1

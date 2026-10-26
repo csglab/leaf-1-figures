@@ -1,0 +1,19 @@
+model	model_label	variant	variant_label	sample_size	n_repeats	mean_roc_auc	ci95_low	ci95_high	bootstrap_iterations	bootstrap_seed	ci_method
+leaf1	LEAF-1	original	Unmatched (original bags)	100000	10	0.8111111111111111	0.5	1.0	2000	20260901	paired_stratified_hierarchical_percentile
+leaf1	LEAF-1	pooled	Length-matched (pooled target)	100000	10	0.6722222222222223	0.3333333333333333	0.9722222222222222	2000	20260901	paired_stratified_hierarchical_percentile
+delfi	DELFI	original	Unmatched (original bags)	100000	10	0.9333333333333332	0.7222222222222222	1.0	2000	20260901	paired_stratified_hierarchical_percentile
+delfi	DELFI	pooled	Length-matched (pooled target)	100000	10	0.4944444444444444	0.1666666666666666	0.8333333333333334	2000	20260901	paired_stratified_hierarchical_percentile
+length	Fragment length	original	Unmatched (original bags)	100000	10	0.913888888888889	0.7222222222222222	1.0	2000	20260901	paired_stratified_hierarchical_percentile
+length	Fragment length	pooled	Length-matched (pooled target)	100000	10	0.5	0.5	0.5	2000	20260901	paired_stratified_hierarchical_percentile
+genome_bin_30000	"Bin
+(~100 kb)"	original	Unmatched (original bags)	100000	10	0.6194444444444445	0.2777777777777778	0.9166666666666666	2000	20260901	paired_stratified_hierarchical_percentile
+genome_bin_30000	"Bin
+(~100 kb)"	pooled	Length-matched (pooled target)	100000	10	0.4972222222222222	0.1388888888888889	0.8333333333333334	2000	20260901	paired_stratified_hierarchical_percentile
+bin_length_30000	"Bin + Length
+(~100 kb)"	original	Unmatched (original bags)	100000	10	0.8277777777777778	0.5555555555555556	1.0	2000	20260901	paired_stratified_hierarchical_percentile
+bin_length_30000	"Bin + Length
+(~100 kb)"	pooled	Length-matched (pooled target)	100000	10	0.6055555555555556	0.25	0.9166666666666666	2000	20260901	paired_stratified_hierarchical_percentile
+bin_delfi_30000	"Bin + DELFI
+(~100 kb)"	original	Unmatched (original bags)	100000	10	0.836111111111111	0.5833333333333334	1.0	2000	20260901	paired_stratified_hierarchical_percentile
+bin_delfi_30000	"Bin + DELFI
+(~100 kb)"	pooled	Length-matched (pooled target)	100000	10	0.4916666666666667	0.1388888888888889	0.8333333333333334	2000	20260901	paired_stratified_hierarchical_percentile

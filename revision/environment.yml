@@ -1,0 +1,15 @@
+name: leaf1-paper-repro
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - jupyter
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - umap-learn
+  - pillow
+  - pip

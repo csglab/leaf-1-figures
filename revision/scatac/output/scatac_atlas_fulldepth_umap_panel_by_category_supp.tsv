@@ -1,0 +1,8 @@
+tag	title	ari
+prob_depthfull	LEAF-1, full depth	0.30498284342298176
+prob_depthfull_snapregions	LEAF-1, SnapATAC regions, full depth	0.3549229239966139
+bin300kb_full_norm	Coordinate bins 300kb, log1p + z-score	0.190927290146065
+bin100kb_full_norm	Coordinate bins 100kb, log1p + z-score	0.22319655705686747
+bin30kb_full_norm	Coordinate bins 30kb, log1p + z-score	0.3014955188350859
+bin10kb_full_norm	Coordinate bins 10kb, log1p + z-score	0.1783662437681264
+snapnative_full_mnc	SnapATAC 5 kb + MNC (Zhang et al.)	0.36144485855363406

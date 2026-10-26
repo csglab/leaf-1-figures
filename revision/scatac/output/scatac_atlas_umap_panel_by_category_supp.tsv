@@ -1,0 +1,8 @@
+tag	title	ari
+prob_fig2d_repro	LEAF-1	0.21382966296325914
+prob_snapregions	LEAF-1, SnapATAC regions	0.27516207400539344
+bin300kb_norm	Coordinate bins 300kb, log1p + z-score	0.2560274898205539
+bin100kb_norm	Coordinate bins 100kb, log1p + z-score	0.3142551360136259
+bin30kb_norm	Coordinate bins 30kb, log1p + z-score	0.3669129017166789
+bin10kb_norm	Coordinate bins 10kb, log1p + z-score	0.30642986679119266
+snapnative_mnc	SnapATAC 5 kb + MNC (Zhang et al.)	0.30563064288850555

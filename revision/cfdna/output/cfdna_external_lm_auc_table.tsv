@@ -1,0 +1,11 @@
+model	parameters_M	mean_auc	mean_auc_ci95	delta_auc_leaf1_minus_model	delta_auc_ci95	tasks_leaf1_higher	tasks_model_higher
+LEAF-1	90.4	0.855	0.804 to 0.890				
+CrossDNA 519M	519.0	0.850	0.787 to 0.895	0.005	-0.022 to 0.026	8	6
+CrossDNA 72M	71.6	0.846	0.778 to 0.897	0.009	-0.019 to 0.047	6	8
+AlphaGenome	450.5	0.835	0.752 to 0.887	0.020	-0.008 to 0.065	5	9
+NT-v2	500.0	0.826	0.755 to 0.869	0.029	0.014 to 0.065	10	3
+DNABERT-2	117.0	0.823	0.740 to 0.873	0.032	0.007 to 0.065	9	5
+CrossDNA 8M	8.1	0.816	0.735 to 0.870	0.039	0.008 to 0.081	9	5
+DNABERT-S	117.0	0.813	0.711 to 0.873	0.042	0.012 to 0.116	9	5
+GENA-LM	110.0	0.812	0.750 to 0.859	0.043	0.024 to 0.066	13	1
+Evo 2	7000.0	0.811	0.729 to 0.871	0.044	0.008 to 0.084	11	3

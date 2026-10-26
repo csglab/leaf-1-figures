@@ -1,0 +1,8 @@
+tag	title	ari
+ext_prob_retrained_cell	LEAF-1	0.3979891975085213
+gse_prob_snapregions_cell	LEAF-1, SnapATAC regions	0.46779758999595555
+gse_bin300kb_norm	Coordinate bins 300kb, log1p + z-score	0.42486539024987424
+gse_bin100kb_norm	Coordinate bins 100kb, log1p + z-score	0.4467697813647756
+gse_bin30kb_norm	Coordinate bins 30kb, log1p + z-score	0.3943662499406365
+gse_bin10kb_norm	Coordinate bins 10kb, log1p + z-score	0.3108227636253755
+gse_snapdonor-mnc	SnapATAC 5 kb + MNC (Zhang et al.)	0.09920280269197441

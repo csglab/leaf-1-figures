@@ -1,0 +1,4 @@
+cancer	ctdna_bin	ctdna_label	tf_bin_min	tf_bin_max	n_cancer	pct_of_cancer	n_healthy	leaf1_auc
+Breast	low_ctDNA	Low	0.0	0.01032	21	38.888888888888886	172	0.9089147286821705
+Breast	medium_ctDNA	Medium	0.01129	0.02967	25	46.2962962962963	172	0.9280232558139535
+Breast	high_ctDNA	High	0.0298	0.6918	8	14.814814814814815	172	0.9825581395348837
