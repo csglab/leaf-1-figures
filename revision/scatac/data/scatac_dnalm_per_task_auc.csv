@@ -1,0 +1,121 @@
+task,model,family,n_cells,n_pos,n_pos_biosamples,status,auroc_cell_cv,auroc_grouped_cv
+Airway Goblet Cell,Caduceus,external,1000,100,3,not_evaluable,0.97621111111111125,
+Airway Goblet Cell,DNABERT-2,external,1000,100,3,not_evaluable,0.98433333333333339,
+Airway Goblet Cell,DNABERT-S,external,1000,100,3,not_evaluable,0.9850388888888888,
+Airway Goblet Cell,Evo 2,external,1000,100,3,not_evaluable,0.96071111111111118,
+Airway Goblet Cell,GENA-LM,external,1000,100,3,not_evaluable,0.99165555555555562,
+Airway Goblet Cell,LEAF-1 (all segments),leaf1,1000,100,3,not_evaluable,0.97718888888888877,
+Airway Goblet Cell,LEAF-1,leaf1,1000,100,3,not_evaluable,0.97537777777777779,
+Airway Goblet Cell,NT-v2,external,1000,100,3,not_evaluable,0.98356666666666659,
+Airway Goblet Cell,kmer-3,kmer,1000,100,3,not_evaluable,0.97536111111111123,
+Airway Goblet Cell,kmer-4,kmer,1000,100,3,not_evaluable,0.98260000000000003,
+Airway Goblet Cell,kmer-5,kmer,1000,100,3,not_evaluable,0.99192222222222204,
+Airway Goblet Cell,kmer-6,kmer,1000,100,3,not_evaluable,0.99261111111111122,
+Colon Epithelial Cell 1,Caduceus,external,1000,100,5,evaluable,0.88442222222222211,0.58254444444444453
+Colon Epithelial Cell 1,DNABERT-2,external,1000,100,5,evaluable,0.91590000000000005,0.72453333333333336
+Colon Epithelial Cell 1,DNABERT-S,external,1000,100,5,evaluable,0.89576111111111112,0.67169999999999996
+Colon Epithelial Cell 1,Evo 2,external,1000,100,5,evaluable,0.87064444444444444,0.61544444444444435
+Colon Epithelial Cell 1,GENA-LM,external,1000,100,5,evaluable,0.91702222222222218,0.77392222222222218
+Colon Epithelial Cell 1,LEAF-1 (all segments),leaf1,1000,100,5,evaluable,0.92542222222222237,0.7883444444444444
+Colon Epithelial Cell 1,LEAF-1,leaf1,1000,100,5,evaluable,0.92396666666666682,0.81596666666666662
+Colon Epithelial Cell 1,NT-v2,external,1000,100,5,evaluable,0.9238166666666664,0.82064444444444451
+Colon Epithelial Cell 1,kmer-3,kmer,1000,100,5,evaluable,0.89058888888888887,0.66316666666666657
+Colon Epithelial Cell 1,kmer-4,kmer,1000,100,5,evaluable,0.92366666666666664,0.81467777777777783
+Colon Epithelial Cell 1,kmer-5,kmer,1000,100,5,evaluable,0.92684444444444436,0.85463333333333324
+Colon Epithelial Cell 1,kmer-6,kmer,1000,100,5,evaluable,0.92900555555555564,0.87612222222222225
+Colonic Goblet Cell,Caduceus,external,1000,100,5,evaluable,0.92269999999999996,0.7437111111111111
+Colonic Goblet Cell,DNABERT-2,external,1000,100,5,evaluable,0.95099999999999996,0.80666666666666664
+Colonic Goblet Cell,DNABERT-S,external,1000,100,5,evaluable,0.9325,0.74376666666666669
+Colonic Goblet Cell,Evo 2,external,1000,100,5,evaluable,0.88186666666666669,0.69829999999999992
+Colonic Goblet Cell,GENA-LM,external,1000,100,5,evaluable,0.93366666666666664,0.81503333333333328
+Colonic Goblet Cell,LEAF-1 (all segments),leaf1,1000,100,5,evaluable,0.93916666666666659,0.8409388888888889
+Colonic Goblet Cell,LEAF-1,leaf1,1000,100,5,evaluable,0.95086666666666664,0.84543888888888885
+Colonic Goblet Cell,NT-v2,external,1000,100,5,evaluable,0.93688888888888877,0.86099999999999999
+Colonic Goblet Cell,kmer-3,kmer,1000,100,5,evaluable,0.92569999999999997,0.78946666666666654
+Colonic Goblet Cell,kmer-4,kmer,1000,100,5,evaluable,0.95265555555555559,0.88145555555555544
+Colonic Goblet Cell,kmer-5,kmer,1000,100,5,evaluable,0.96491666666666664,0.91913333333333336
+Colonic Goblet Cell,kmer-6,kmer,1000,100,5,evaluable,0.96203333333333318,0.91669999999999996
+Cortical Epithelial-like,Caduceus,external,1000,100,1,not_evaluable,0.99065555555555562,
+Cortical Epithelial-like,DNABERT-2,external,1000,100,1,not_evaluable,0.99416666666666664,
+Cortical Epithelial-like,DNABERT-S,external,1000,100,1,not_evaluable,0.99531111111111115,
+Cortical Epithelial-like,Evo 2,external,1000,100,1,not_evaluable,0.98363333333333325,
+Cortical Epithelial-like,GENA-LM,external,1000,100,1,not_evaluable,0.99553333333333338,
+Cortical Epithelial-like,LEAF-1 (all segments),leaf1,1000,100,1,not_evaluable,0.99726666666666663,
+Cortical Epithelial-like,LEAF-1,leaf1,1000,100,1,not_evaluable,0.99631111111111104,
+Cortical Epithelial-like,NT-v2,external,1000,100,1,not_evaluable,0.98777777777777775,
+Cortical Epithelial-like,kmer-3,kmer,1000,100,1,not_evaluable,0.98619999999999997,
+Cortical Epithelial-like,kmer-4,kmer,1000,100,1,not_evaluable,0.99242222222222221,
+Cortical Epithelial-like,kmer-5,kmer,1000,100,1,not_evaluable,0.99570000000000003,
+Cortical Epithelial-like,kmer-6,kmer,1000,100,1,not_evaluable,0.99719999999999998,
+Fibroblast (Epithelial),Caduceus,external,1000,100,10,evaluable,0.94870555555555558,0.9108222222222222
+Fibroblast (Epithelial),DNABERT-2,external,1000,100,10,evaluable,0.9647,0.91076666666666684
+Fibroblast (Epithelial),DNABERT-S,external,1000,100,10,evaluable,0.95641111111111121,0.88297777777777775
+Fibroblast (Epithelial),Evo 2,external,1000,100,10,evaluable,0.92915555555555562,0.85731111111111113
+Fibroblast (Epithelial),GENA-LM,external,1000,100,10,evaluable,0.96386666666666665,0.9244444444444444
+Fibroblast (Epithelial),LEAF-1 (all segments),leaf1,1000,100,10,evaluable,0.95104444444444436,0.91073333333333339
+Fibroblast (Epithelial),LEAF-1,leaf1,1000,100,10,evaluable,0.94537777777777798,0.90029999999999999
+Fibroblast (Epithelial),NT-v2,external,1000,100,10,evaluable,0.95811111111111102,0.88470000000000004
+Fibroblast (Epithelial),kmer-3,kmer,1000,100,10,evaluable,0.93276666666666663,0.87173333333333325
+Fibroblast (Epithelial),kmer-4,kmer,1000,100,10,evaluable,0.93326111111111121,0.88230000000000008
+Fibroblast (Epithelial),kmer-5,kmer,1000,100,10,evaluable,0.94042222222222238,0.90229999999999999
+Fibroblast (Epithelial),kmer-6,kmer,1000,100,10,evaluable,0.94148888888888882,0.90746666666666675
+Luteal Cell (Ovarian),Caduceus,external,1000,100,3,excluded,0.95604999999999996,0.3360555555555555
+Luteal Cell (Ovarian),DNABERT-2,external,1000,100,3,excluded,0.94406666666666661,0.15861111111111109
+Luteal Cell (Ovarian),DNABERT-S,external,1000,100,3,excluded,0.9471222222222222,0.20714444444444441
+Luteal Cell (Ovarian),Evo 2,external,1000,100,3,excluded,0.94248888888888882,0.24164444444444441
+Luteal Cell (Ovarian),GENA-LM,external,1000,100,3,excluded,0.9466,0.28885555555555559
+Luteal Cell (Ovarian),LEAF-1 (all segments),leaf1,1000,100,3,excluded,0.95367777777777762,0.40593333333333331
+Luteal Cell (Ovarian),LEAF-1,leaf1,1000,100,3,excluded,0.95393333333333319,0.41741111111111118
+Luteal Cell (Ovarian),NT-v2,external,1000,100,3,excluded,0.95188888888888878,0.2666
+Luteal Cell (Ovarian),kmer-3,kmer,1000,100,3,excluded,0.93507777777777801,0.20849999999999999
+Luteal Cell (Ovarian),kmer-4,kmer,1000,100,3,excluded,0.93341111111111119,0.2639555555555555
+Luteal Cell (Ovarian),kmer-5,kmer,1000,100,3,excluded,0.94522222222222219,0.37391111111111108
+Luteal Cell (Ovarian),kmer-6,kmer,1000,100,3,excluded,0.9397777777777776,0.33182222222222219
+Mammary Epithelial,Caduceus,external,1000,100,3,evaluable,0.92923888888888895,0.65187777777777778
+Mammary Epithelial,DNABERT-2,external,1000,100,3,evaluable,0.95108888888888898,0.4275388888888888
+Mammary Epithelial,DNABERT-S,external,1000,100,3,evaluable,0.9284,0.33875555555555559
+Mammary Epithelial,Evo 2,external,1000,100,3,evaluable,0.91106111111111099,0.68467777777777783
+Mammary Epithelial,GENA-LM,external,1000,100,3,evaluable,0.95252222222222238,0.76884444444444444
+Mammary Epithelial,LEAF-1 (all segments),leaf1,1000,100,3,evaluable,0.94690555555555556,0.82696666666666663
+Mammary Epithelial,LEAF-1,leaf1,1000,100,3,evaluable,0.95393333333333341,0.82708888888888887
+Mammary Epithelial,NT-v2,external,1000,100,3,evaluable,0.92255555555555557,0.82037777777777776
+Mammary Epithelial,kmer-3,kmer,1000,100,3,evaluable,0.94275555555555557,0.8026888888888889
+Mammary Epithelial,kmer-4,kmer,1000,100,3,evaluable,0.960988888888889,0.86386111111111119
+Mammary Epithelial,kmer-5,kmer,1000,100,3,evaluable,0.97051111111111121,0.88027222222222223
+Mammary Epithelial,kmer-6,kmer,1000,100,3,evaluable,0.97731111111111124,0.88808888888888882
+Smooth Muscle (Esophageal Muscularis) 3,Caduceus,external,1000,100,13,evaluable,0.78453333333333342,0.52070000000000005
+Smooth Muscle (Esophageal Muscularis) 3,DNABERT-2,external,1000,100,13,evaluable,0.79152222222222213,0.50556666666666672
+Smooth Muscle (Esophageal Muscularis) 3,DNABERT-S,external,1000,100,13,evaluable,0.77674444444444457,0.52918888888888893
+Smooth Muscle (Esophageal Muscularis) 3,Evo 2,external,1000,100,13,evaluable,0.75086666666666668,0.4830444444444445
+Smooth Muscle (Esophageal Muscularis) 3,GENA-LM,external,1000,100,13,evaluable,0.81132222222222228,0.65487777777777778
+Smooth Muscle (Esophageal Muscularis) 3,LEAF-1 (all segments),leaf1,1000,100,13,evaluable,0.79655555555555557,0.65271111111111113
+Smooth Muscle (Esophageal Muscularis) 3,LEAF-1,leaf1,1000,100,13,evaluable,0.79820000000000002,0.66187777777777779
+Smooth Muscle (Esophageal Muscularis) 3,NT-v2,external,1000,100,13,evaluable,0.76425555555555558,0.48948888888888892
+Smooth Muscle (Esophageal Muscularis) 3,kmer-3,kmer,1000,100,13,evaluable,0.77523333333333333,0.59061111111111109
+Smooth Muscle (Esophageal Muscularis) 3,kmer-4,kmer,1000,100,13,evaluable,0.77981111111111112,0.66235555555555559
+Smooth Muscle (Esophageal Muscularis) 3,kmer-5,kmer,1000,100,13,evaluable,0.80896666666666661,0.63530555555555557
+Smooth Muscle (Esophageal Muscularis) 3,kmer-6,kmer,1000,100,13,evaluable,0.78747222222222224,0.61805555555555558
+Smooth Muscle (General Gastrointestinal),Caduceus,external,1000,100,12,evaluable,0.84645555555555563,0.71362222222222227
+Smooth Muscle (General Gastrointestinal),DNABERT-2,external,1000,100,12,evaluable,0.91807777777777777,0.82751111111111109
+Smooth Muscle (General Gastrointestinal),DNABERT-S,external,1000,100,12,evaluable,0.90336666666666676,0.79072222222222222
+Smooth Muscle (General Gastrointestinal),Evo 2,external,1000,100,12,evaluable,0.86711666666666676,0.79187777777777779
+Smooth Muscle (General Gastrointestinal),GENA-LM,external,1000,100,12,evaluable,0.90473333333333339,0.83897222222222234
+Smooth Muscle (General Gastrointestinal),LEAF-1 (all segments),leaf1,1000,100,12,evaluable,0.88095555555555549,0.80671111111111105
+Smooth Muscle (General Gastrointestinal),LEAF-1,leaf1,1000,100,12,evaluable,0.88334444444444438,0.82345555555555561
+Smooth Muscle (General Gastrointestinal),NT-v2,external,1000,100,12,evaluable,0.9007222222222222,0.86014444444444449
+Smooth Muscle (General Gastrointestinal),kmer-3,kmer,1000,100,12,evaluable,0.87633333333333341,0.80254999999999987
+Smooth Muscle (General Gastrointestinal),kmer-4,kmer,1000,100,12,evaluable,0.8978666666666667,0.85119999999999996
+Smooth Muscle (General Gastrointestinal),kmer-5,kmer,1000,100,12,evaluable,0.91439999999999999,0.86918888888888879
+Smooth Muscle (General Gastrointestinal),kmer-6,kmer,1000,100,12,evaluable,0.9094333333333332,0.87408888888888892
+T lymphocyte 2 (CD4+),Caduceus,external,1000,100,15,evaluable,0.99398888888888881,0.96252222222222239
+T lymphocyte 2 (CD4+),DNABERT-2,external,1000,100,15,evaluable,0.99586666666666679,0.96666666666666679
+T lymphocyte 2 (CD4+),DNABERT-S,external,1000,100,15,evaluable,0.99072222222222217,0.91459444444444438
+T lymphocyte 2 (CD4+),Evo 2,external,1000,100,15,evaluable,0.98184444444444441,0.92169999999999996
+T lymphocyte 2 (CD4+),GENA-LM,external,1000,100,15,evaluable,0.9978111111111112,0.98915555555555557
+T lymphocyte 2 (CD4+),LEAF-1 (all segments),leaf1,1000,100,15,evaluable,0.99791111111111119,0.96605555555555556
+T lymphocyte 2 (CD4+),LEAF-1,leaf1,1000,100,15,evaluable,0.9960888888888888,0.96743888888888885
+T lymphocyte 2 (CD4+),NT-v2,external,1000,100,15,evaluable,0.997,0.97298888888888879
+T lymphocyte 2 (CD4+),kmer-3,kmer,1000,100,15,evaluable,0.98708888888888879,0.94191111111111125
+T lymphocyte 2 (CD4+),kmer-4,kmer,1000,100,15,evaluable,0.99054444444444445,0.95653333333333324
+T lymphocyte 2 (CD4+),kmer-5,kmer,1000,100,15,evaluable,0.99716666666666665,0.98356666666666681
+T lymphocyte 2 (CD4+),kmer-6,kmer,1000,100,15,evaluable,0.99916666666666665,0.99152222222222242

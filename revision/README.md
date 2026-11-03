@@ -64,6 +64,7 @@ scATAC (`scatac/notebook/`):
 | `scatac_ccre_fragment_ablation.ipynb` | `scatac_ccre_fragment_ablation` |
 | `scatac_hybrid_emb_bin.ipynb` | `scatac_hybrid_emb_bin_auc` |
 | `scatac_motif_fire_vs_homer.ipynb` | `scatac_motif_fire_vs_homer` |
+| `scatac_dnalm_baselines.ipynb` | `scatac_dnalm_delta_auc`: LEAF-1 vs external DNA LMs and k-mer baselines on 1,000 atlas cells, biosample-grouped CV (3.M5 Supp. Fig.) |
 
 TCGA (`tcga/notebook/`):
 
@@ -206,6 +207,13 @@ Eleven more figures are new here and have no original to compare against:
   the plotted axes added. The script that drew the originals is not on this
   server.
 * `cfdna_ctdna_bin_auc_breast`.
+* `scatac_dnalm_delta_auc` (Comment 3.M5). The scATAC counterpart of
+  `cfdna_kmer_lm_delta_auc`, same layout and ΔAUC = LEAF-1 − model: 1,000 atlas
+  cells (10 types x 100), 1,000 fragments per cell, mean-pooled embeddings of
+  LEAF-1, six external DNA LMs and k-mer 3-6, one linear SVM, biosample-grouped
+  CV with the `scatac_atlas_grouped_cv` groups. Upstream analysis is in the
+  LEAF1 project (`runs/item11/`); the ΔAUC CIs resample biosamples (grouped) or
+  cells (cell-level), 2,000 times, and are staged rather than recomputed.
 * `cfdna_taskspecific_main`. LEAF-1 and the three task-specific methods from
   `../output/cfdna/taskspecific/cfdna_taskspecific_benchmark.png`, drawn with
   Fig. 4c's code; y axis from 0.4 because one EMIT task sits at 0.458. The
