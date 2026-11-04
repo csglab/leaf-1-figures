@@ -1,0 +1,2551 @@
+Target,Method,AUC,Fold
+Adipocyte_vs_all,Embedding,0.9791230692575984,0
+Adipocyte_vs_all,Embedding,0.9782901296111666,1
+Adipocyte_vs_all,Embedding,0.9584496510468594,2
+Adipocyte_vs_all,Embedding,0.9634596211365902,3
+Adipocyte_vs_all,Embedding,0.9727318045862413,4
+Adipocyte_vs_all,Bin 10k,0.9680119581464873,0
+Adipocyte_vs_all,Bin 10k,0.9544366899302094,1
+Adipocyte_vs_all,Bin 10k,0.9568045862412762,2
+Adipocyte_vs_all,Bin 10k,0.923629112662014,3
+Adipocyte_vs_all,Bin 10k,0.9437188434695911,4
+Adipocyte_vs_all,Bin 30k,0.9479820627802691,0
+Adipocyte_vs_all,Bin 30k,0.9175473579262213,1
+Adipocyte_vs_all,Bin 30k,0.8674476570289134,2
+Adipocyte_vs_all,Bin 30k,0.880333998005982,3
+Adipocyte_vs_all,Bin 30k,0.9073778664007975,4
+Adipocyte_vs_all,Bin 100k,0.8038614848031889,0
+Adipocyte_vs_all,Bin 100k,0.8594965104685942,1
+Adipocyte_vs_all,Bin 100k,0.7828763708873381,2
+Adipocyte_vs_all,Bin 100k,0.7401296111665004,3
+Adipocyte_vs_all,Bin 100k,0.8459371884346959,4
+Adipocyte_vs_all,Bin 300k,0.6996512207274539,0
+Adipocyte_vs_all,Bin 300k,0.8004486540378863,1
+Adipocyte_vs_all,Bin 300k,0.7173479561316052,2
+Adipocyte_vs_all,Bin 300k,0.7336989032901295,3
+Adipocyte_vs_all,Bin 300k,0.6361665004985044,4
+Airway_Goblet_Cell_vs_all,Embedding,0.9821375186846039,0
+Airway_Goblet_Cell_vs_all,Embedding,0.9857427716849452,1
+Airway_Goblet_Cell_vs_all,Embedding,0.9873629112662013,2
+Airway_Goblet_Cell_vs_all,Embedding,0.9760468594217346,3
+Airway_Goblet_Cell_vs_all,Embedding,0.97759222333001,4
+Airway_Goblet_Cell_vs_all,Bin 10k,0.9810164424514201,0
+Airway_Goblet_Cell_vs_all,Bin 10k,0.9813310069790628,1
+Airway_Goblet_Cell_vs_all,Bin 10k,0.9848703888334995,2
+Airway_Goblet_Cell_vs_all,Bin 10k,0.9847457627118643,3
+Airway_Goblet_Cell_vs_all,Bin 10k,0.9811565304087737,4
+Airway_Goblet_Cell_vs_all,Bin 30k,0.9674638764324863,0
+Airway_Goblet_Cell_vs_all,Bin 30k,0.9815553339980059,1
+Airway_Goblet_Cell_vs_all,Bin 30k,0.9598703888334995,2
+Airway_Goblet_Cell_vs_all,Bin 30k,0.9695164506480558,3
+Airway_Goblet_Cell_vs_all,Bin 30k,0.9511216350947159,4
+Airway_Goblet_Cell_vs_all,Bin 100k,0.8969855505729946,0
+Airway_Goblet_Cell_vs_all,Bin 100k,0.9442173479561315,1
+Airway_Goblet_Cell_vs_all,Bin 100k,0.935518444666002,2
+Airway_Goblet_Cell_vs_all,Bin 100k,0.9523180458624128,3
+Airway_Goblet_Cell_vs_all,Bin 100k,0.9348953140578266,4
+Airway_Goblet_Cell_vs_all,Bin 300k,0.8718485301444944,0
+Airway_Goblet_Cell_vs_all,Bin 300k,0.8559571286141575,1
+Airway_Goblet_Cell_vs_all,Bin 300k,0.8408025922233301,2
+Airway_Goblet_Cell_vs_all,Bin 300k,0.8736291126620139,3
+Airway_Goblet_Cell_vs_all,Bin 300k,0.8569042871385844,4
+Alveolar_Capillary_Endothelial_Cell_vs_all,Embedding,0.9589935226706527,0
+Alveolar_Capillary_Endothelial_Cell_vs_all,Embedding,0.9622382851445663,1
+Alveolar_Capillary_Endothelial_Cell_vs_all,Embedding,0.9616650049850449,2
+Alveolar_Capillary_Endothelial_Cell_vs_all,Embedding,0.944740777666999,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Embedding,0.9610169491525424,4
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 10k,0.9640259093173892,0
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 10k,0.8759471585244267,1
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 10k,0.9267198404785643,2
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 10k,0.8260468594217348,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 10k,0.9146311066799602,4
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 30k,0.9224713502740409,0
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 30k,0.8423479561316052,1
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 30k,0.9186939182452643,2
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 30k,0.8611166500498505,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 30k,0.878938185443669,4
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 100k,0.8261584454409567,0
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 100k,0.821111665004985,1
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 100k,0.8531655034895314,2
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 100k,0.6939182452642074,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 100k,0.8713858424725822,4
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 300k,0.6311160936721475,0
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 300k,0.6442422731804587,1
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 300k,0.6334745762711864,2
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 300k,0.5648554336989033,3
+Alveolar_Capillary_Endothelial_Cell_vs_all,Bin 300k,0.5531904287138584,4
+Alveolar_Type_1_AT1_Cell_vs_all,Embedding,0.9862979571499751,0
+Alveolar_Type_1_AT1_Cell_vs_all,Embedding,0.9569541375872382,1
+Alveolar_Type_1_AT1_Cell_vs_all,Embedding,0.9801345962113659,2
+Alveolar_Type_1_AT1_Cell_vs_all,Embedding,0.9721086739780658,3
+Alveolar_Type_1_AT1_Cell_vs_all,Embedding,0.9877367896311067,4
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 10k,0.9525660189337319,0
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 10k,0.9556580259222333,1
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 10k,0.9453639082751745,2
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 10k,0.9614656031904287,3
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 10k,0.9375373878364905,4
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 30k,0.9449925261584454,0
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 30k,0.8903539381854437,1
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 30k,0.9169242273180458,2
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 30k,0.9414257228315054,3
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 30k,0.9322532402791625,4
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 100k,0.8591928251121076,0
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 100k,0.8045613160518444,1
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 100k,0.742248255234297,2
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 100k,0.7681206380857428,3
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 100k,0.8705134596211366,4
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 300k,0.746337817638266,0
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 300k,0.6891076769690927,1
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 300k,0.703838484546361,2
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 300k,0.7865653040877367,3
+Alveolar_Type_1_AT1_Cell_vs_all,Bin 300k,0.7157028913260219,4
+Alveolar_Type_2_AT2_Cell_vs_all,Embedding,0.9078724464374688,0
+Alveolar_Type_2_AT2_Cell_vs_all,Embedding,0.9549351944167497,1
+Alveolar_Type_2_AT2_Cell_vs_all,Embedding,0.9370887337986041,2
+Alveolar_Type_2_AT2_Cell_vs_all,Embedding,0.873604187437687,3
+Alveolar_Type_2_AT2_Cell_vs_all,Embedding,0.960493519441675,4
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 10k,0.8683109118086696,0
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 10k,0.910667996011964,1
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 10k,0.9471335992023929,2
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 10k,0.8899052841475572,3
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 10k,0.8730059820538385,4
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 30k,0.8147483806676632,0
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 30k,0.846036889332004,1
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 30k,0.8812063808574278,2
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 30k,0.8718095712861414,3
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 30k,0.7924476570289133,4
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 100k,0.739237668161435,0
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 100k,0.7541625124626122,1
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 100k,0.8428963110667995,2
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 100k,0.7615653040877368,3
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 100k,0.7409272183449651,4
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 300k,0.6649227703039362,0
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 300k,0.6854935194416749,1
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 300k,0.6001495513459622,2
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 300k,0.6412263210368894,3
+Alveolar_Type_2_AT2_Cell_vs_all,Bin 300k,0.6043619142572283,4
+Alverolar_Type_2_Immune_vs_all,Embedding,0.8890632785251619,0
+Alverolar_Type_2_Immune_vs_all,Embedding,0.8641575274177468,1
+Alverolar_Type_2_Immune_vs_all,Embedding,0.8587736789631106,2
+Alverolar_Type_2_Immune_vs_all,Embedding,0.877567298105683,3
+Alverolar_Type_2_Immune_vs_all,Embedding,0.9142821535393819,4
+Alverolar_Type_2_Immune_vs_all,Bin 10k,0.8032137518684604,0
+Alverolar_Type_2_Immune_vs_all,Bin 10k,0.7098205383848455,1
+Alverolar_Type_2_Immune_vs_all,Bin 10k,0.8312063808574276,2
+Alverolar_Type_2_Immune_vs_all,Bin 10k,0.8546610169491525,3
+Alverolar_Type_2_Immune_vs_all,Bin 10k,0.7559072781655035,4
+Alverolar_Type_2_Immune_vs_all,Bin 30k,0.8040857000498256,0
+Alverolar_Type_2_Immune_vs_all,Bin 30k,0.6725324027916251,1
+Alverolar_Type_2_Immune_vs_all,Bin 30k,0.7997008973080757,2
+Alverolar_Type_2_Immune_vs_all,Bin 30k,0.6603439680957129,3
+Alverolar_Type_2_Immune_vs_all,Bin 30k,0.7372382851445662,4
+Alverolar_Type_2_Immune_vs_all,Bin 100k,0.7436223218734429,0
+Alverolar_Type_2_Immune_vs_all,Bin 100k,0.705284147557328,1
+Alverolar_Type_2_Immune_vs_all,Bin 100k,0.7423978065802592,2
+Alverolar_Type_2_Immune_vs_all,Bin 100k,0.5765952143569293,3
+Alverolar_Type_2_Immune_vs_all,Bin 100k,0.7103439680957129,4
+Alverolar_Type_2_Immune_vs_all,Bin 300k,0.7716741405082213,0
+Alverolar_Type_2_Immune_vs_all,Bin 300k,0.6957377866400798,1
+Alverolar_Type_2_Immune_vs_all,Bin 300k,0.6833250249252243,2
+Alverolar_Type_2_Immune_vs_all,Bin 300k,0.6145314057826521,3
+Alverolar_Type_2_Immune_vs_all,Bin 300k,0.6606929212362911,4
+Atrial_Cardiomyocyte_vs_all,Embedding,0.9903587443946188,0
+Atrial_Cardiomyocyte_vs_all,Embedding,0.9822033898305085,1
+Atrial_Cardiomyocyte_vs_all,Embedding,0.9790378863409771,2
+Atrial_Cardiomyocyte_vs_all,Embedding,0.9916251246261216,3
+Atrial_Cardiomyocyte_vs_all,Embedding,0.9915254237288135,4
+Atrial_Cardiomyocyte_vs_all,Bin 10k,0.9902590931738914,0
+Atrial_Cardiomyocyte_vs_all,Bin 10k,0.9794616151545363,1
+Atrial_Cardiomyocyte_vs_all,Bin 10k,0.9779411764705882,2
+Atrial_Cardiomyocyte_vs_all,Bin 10k,0.9789880358923231,3
+Atrial_Cardiomyocyte_vs_all,Bin 10k,0.9905533399800598,4
+Atrial_Cardiomyocyte_vs_all,Bin 30k,0.9384653712007973,0
+Atrial_Cardiomyocyte_vs_all,Bin 30k,0.9488285144566303,1
+Atrial_Cardiomyocyte_vs_all,Bin 30k,0.9705383848454636,2
+Atrial_Cardiomyocyte_vs_all,Bin 30k,0.9291874376869392,3
+Atrial_Cardiomyocyte_vs_all,Bin 30k,0.9619391824526421,4
+Atrial_Cardiomyocyte_vs_all,Bin 100k,0.8541853512705531,0
+Atrial_Cardiomyocyte_vs_all,Bin 100k,0.8353938185443669,1
+Atrial_Cardiomyocyte_vs_all,Bin 100k,0.8452642073778664,2
+Atrial_Cardiomyocyte_vs_all,Bin 100k,0.7828015952143569,3
+Atrial_Cardiomyocyte_vs_all,Bin 100k,0.8531405782652044,4
+Atrial_Cardiomyocyte_vs_all,Bin 300k,0.7045092177379173,0
+Atrial_Cardiomyocyte_vs_all,Bin 300k,0.6826021934197408,1
+Atrial_Cardiomyocyte_vs_all,Bin 300k,0.8052093718843469,2
+Atrial_Cardiomyocyte_vs_all,Bin 300k,0.6933449651046859,3
+Atrial_Cardiomyocyte_vs_all,Bin 300k,0.7520189431704885,4
+Basal_Epidermal_Skin_vs_all,Embedding,0.9623069257598406,0
+Basal_Epidermal_Skin_vs_all,Embedding,0.955134596211366,1
+Basal_Epidermal_Skin_vs_all,Embedding,0.9516201395812562,2
+Basal_Epidermal_Skin_vs_all,Embedding,0.9719591226321037,3
+Basal_Epidermal_Skin_vs_all,Embedding,0.9609670987038883,4
+Basal_Epidermal_Skin_vs_all,Bin 10k,0.9359740906826108,0
+Basal_Epidermal_Skin_vs_all,Bin 10k,0.9850199401794617,1
+Basal_Epidermal_Skin_vs_all,Bin 10k,0.9636590229312063,2
+Basal_Epidermal_Skin_vs_all,Bin 10k,0.9775423728813559,3
+Basal_Epidermal_Skin_vs_all,Bin 10k,0.9741774675972084,4
+Basal_Epidermal_Skin_vs_all,Bin 30k,0.931190832087693,0
+Basal_Epidermal_Skin_vs_all,Bin 30k,0.9767198404785643,1
+Basal_Epidermal_Skin_vs_all,Bin 30k,0.9326520438683948,2
+Basal_Epidermal_Skin_vs_all,Bin 30k,0.9530907278165504,3
+Basal_Epidermal_Skin_vs_all,Bin 30k,0.956879361914257,4
+Basal_Epidermal_Skin_vs_all,Bin 100k,0.8856003986048829,0
+Basal_Epidermal_Skin_vs_all,Bin 100k,0.8548105682951147,1
+Basal_Epidermal_Skin_vs_all,Bin 100k,0.8541625124626121,2
+Basal_Epidermal_Skin_vs_all,Bin 100k,0.8885842472582254,3
+Basal_Epidermal_Skin_vs_all,Bin 100k,0.8386590229312064,4
+Basal_Epidermal_Skin_vs_all,Bin 300k,0.7391878425510713,0
+Basal_Epidermal_Skin_vs_all,Bin 300k,0.7878364905284148,1
+Basal_Epidermal_Skin_vs_all,Bin 300k,0.7780658025922232,2
+Basal_Epidermal_Skin_vs_all,Bin 300k,0.7699651046859421,3
+Basal_Epidermal_Skin_vs_all,Bin 300k,0.7668993020937188,4
+Basal_Epithelial_Mammary_vs_all,Embedding,0.9141255605381167,0
+Basal_Epithelial_Mammary_vs_all,Embedding,0.893419740777667,1
+Basal_Epithelial_Mammary_vs_all,Embedding,0.8712113659022931,2
+Basal_Epithelial_Mammary_vs_all,Embedding,0.8944915254237288,3
+Basal_Epithelial_Mammary_vs_all,Embedding,0.9459870388833499,4
+Basal_Epithelial_Mammary_vs_all,Bin 10k,0.9436970602889886,0
+Basal_Epithelial_Mammary_vs_all,Bin 10k,0.934122632103689,1
+Basal_Epithelial_Mammary_vs_all,Bin 10k,0.9088733798604187,2
+Basal_Epithelial_Mammary_vs_all,Bin 10k,0.9676969092721834,3
+Basal_Epithelial_Mammary_vs_all,Bin 10k,0.9614905284147557,4
+Basal_Epithelial_Mammary_vs_all,Bin 30k,0.9211509715994021,0
+Basal_Epithelial_Mammary_vs_all,Bin 30k,0.9262213359920239,1
+Basal_Epithelial_Mammary_vs_all,Bin 30k,0.8377118644067796,2
+Basal_Epithelial_Mammary_vs_all,Bin 30k,0.9284396809571287,3
+Basal_Epithelial_Mammary_vs_all,Bin 30k,0.9155034895314058,4
+Basal_Epithelial_Mammary_vs_all,Bin 100k,0.8382162431489786,0
+Basal_Epithelial_Mammary_vs_all,Bin 100k,0.7805583250249253,1
+Basal_Epithelial_Mammary_vs_all,Bin 100k,0.8062063808574277,2
+Basal_Epithelial_Mammary_vs_all,Bin 100k,0.863060817547358,3
+Basal_Epithelial_Mammary_vs_all,Bin 100k,0.8806829511465604,4
+Basal_Epithelial_Mammary_vs_all,Bin 300k,0.6680866965620329,0
+Basal_Epithelial_Mammary_vs_all,Bin 300k,0.7099451645064806,1
+Basal_Epithelial_Mammary_vs_all,Bin 300k,0.6532402791625125,2
+Basal_Epithelial_Mammary_vs_all,Bin 300k,0.8081256231306082,3
+Basal_Epithelial_Mammary_vs_all,Bin 300k,0.774950149551346,4
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Embedding,0.7671495789995046,0
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Embedding,0.7919054694686195,1
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Embedding,0.7020448595485742,2
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Embedding,0.7836269723342532,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Embedding,0.8510901883052527,4
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 10k,0.7924096087171867,0
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 10k,0.8887002051935188,1
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 10k,0.5383145828911059,2
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 10k,0.9254227694049388,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 10k,0.8258176412289395,4
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 30k,0.5121347201584943,0
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 30k,0.8080379254227694,1
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 30k,0.6409113422486379,2
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 30k,0.8312460199533007,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 30k,0.7385406342913776,4
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 100k,0.7075903912828133,0
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 100k,0.6866199674520626,1
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 100k,0.6556286704875115,2
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 100k,0.7585792117738626,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 100k,0.7392839444995044,4
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 300k,0.6242570579494799,0
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 300k,0.687539800466992,1
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 300k,0.6406990730913464,2
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 300k,0.5178659874053633,3
+Blood_Brain_Barrier_Endothelial_Cell_vs_all,Bin 300k,0.7013751238850348,4
+CNS_Enteric_Neuron_vs_all,Embedding,0.9058615116857285,0
+CNS_Enteric_Neuron_vs_all,Embedding,0.99035305818001,1
+CNS_Enteric_Neuron_vs_all,Embedding,0.898988894414056,2
+CNS_Enteric_Neuron_vs_all,Embedding,0.9832400497512438,3
+CNS_Enteric_Neuron_vs_all,Embedding,0.9367537313432835,4
+CNS_Enteric_Neuron_vs_all,Bin 10k,0.8746270512182993,0
+CNS_Enteric_Neuron_vs_all,Bin 10k,0.938239681750373,1
+CNS_Enteric_Neuron_vs_all,Bin 10k,0.9398972318912647,2
+CNS_Enteric_Neuron_vs_all,Bin 10k,0.9489116915422886,3
+CNS_Enteric_Neuron_vs_all,Bin 10k,0.924160447761194,4
+CNS_Enteric_Neuron_vs_all,Bin 30k,0.8320487319741421,0
+CNS_Enteric_Neuron_vs_all,Bin 30k,0.8472401790154152,1
+CNS_Enteric_Neuron_vs_all,Bin 30k,0.8896403116194265,2
+CNS_Enteric_Neuron_vs_all,Bin 30k,0.8841728855721394,3
+CNS_Enteric_Neuron_vs_all,Bin 30k,0.8363184079601991,4
+CNS_Enteric_Neuron_vs_all,Bin 100k,0.7246394828443561,0
+CNS_Enteric_Neuron_vs_all,Bin 100k,0.6907674457152329,1
+CNS_Enteric_Neuron_vs_all,Bin 100k,0.7948615945632356,2
+CNS_Enteric_Neuron_vs_all,Bin 100k,0.8243781094527363,3
+CNS_Enteric_Neuron_vs_all,Bin 100k,0.7763370646766169,4
+CNS_Enteric_Neuron_vs_all,Bin 300k,0.5697103431128792,0
+CNS_Enteric_Neuron_vs_all,Bin 300k,0.5369799436432952,1
+CNS_Enteric_Neuron_vs_all,Bin 300k,0.783490800596718,2
+CNS_Enteric_Neuron_vs_all,Bin 300k,0.6686878109452736,3
+CNS_Enteric_Neuron_vs_all,Bin 300k,0.5845771144278606,4
+Cardiac_Fibroblasts_vs_all,Embedding,0.9556801195814649,0
+Cardiac_Fibroblasts_vs_all,Embedding,0.9326520438683947,1
+Cardiac_Fibroblasts_vs_all,Embedding,0.9483050847457627,2
+Cardiac_Fibroblasts_vs_all,Embedding,0.9646061814556331,3
+Cardiac_Fibroblasts_vs_all,Embedding,0.9178963110667997,4
+Cardiac_Fibroblasts_vs_all,Bin 10k,0.8695316392625809,0
+Cardiac_Fibroblasts_vs_all,Bin 10k,0.9614905284147557,1
+Cardiac_Fibroblasts_vs_all,Bin 10k,0.9588733798604188,2
+Cardiac_Fibroblasts_vs_all,Bin 10k,0.9148055832502492,3
+Cardiac_Fibroblasts_vs_all,Bin 10k,0.9239282153539382,4
+Cardiac_Fibroblasts_vs_all,Bin 30k,0.8817638266068759,0
+Cardiac_Fibroblasts_vs_all,Bin 30k,0.8825523429710866,1
+Cardiac_Fibroblasts_vs_all,Bin 30k,0.8847208374875374,2
+Cardiac_Fibroblasts_vs_all,Bin 30k,0.8587736789631106,3
+Cardiac_Fibroblasts_vs_all,Bin 30k,0.8415503489531405,4
+Cardiac_Fibroblasts_vs_all,Bin 100k,0.7356751370204284,0
+Cardiac_Fibroblasts_vs_all,Bin 100k,0.7291625124626121,1
+Cardiac_Fibroblasts_vs_all,Bin 100k,0.8083998005982055,2
+Cardiac_Fibroblasts_vs_all,Bin 100k,0.755234297108674,3
+Cardiac_Fibroblasts_vs_all,Bin 100k,0.7556081754735793,4
+Cardiac_Fibroblasts_vs_all,Bin 300k,0.7038863976083707,0
+Cardiac_Fibroblasts_vs_all,Bin 300k,0.7351445663010967,1
+Cardiac_Fibroblasts_vs_all,Bin 300k,0.6285892323030907,2
+Cardiac_Fibroblasts_vs_all,Bin 300k,0.7250747756729811,3
+Cardiac_Fibroblasts_vs_all,Bin 300k,0.652617148554337,4
+Cardiac_Pericyte_1_vs_all,Embedding,0.9546088689586447,0
+Cardiac_Pericyte_1_vs_all,Embedding,0.9747756729810568,1
+Cardiac_Pericyte_1_vs_all,Embedding,0.9615154536390828,2
+Cardiac_Pericyte_1_vs_all,Embedding,0.9859421734795614,3
+Cardiac_Pericyte_1_vs_all,Embedding,0.9639082751744765,4
+Cardiac_Pericyte_1_vs_all,Bin 10k,0.8770802192326856,0
+Cardiac_Pericyte_1_vs_all,Bin 10k,0.8827766699900298,1
+Cardiac_Pericyte_1_vs_all,Bin 10k,0.8834247258225324,2
+Cardiac_Pericyte_1_vs_all,Bin 10k,0.9266699900299102,3
+Cardiac_Pericyte_1_vs_all,Bin 10k,0.8929461615154537,4
+Cardiac_Pericyte_1_vs_all,Bin 30k,0.7645241654210264,0
+Cardiac_Pericyte_1_vs_all,Bin 30k,0.7599700897308075,1
+Cardiac_Pericyte_1_vs_all,Bin 30k,0.853913260219342,2
+Cardiac_Pericyte_1_vs_all,Bin 30k,0.8419740777667,3
+Cardiac_Pericyte_1_vs_all,Bin 30k,0.7999252243270188,4
+Cardiac_Pericyte_1_vs_all,Bin 100k,0.7814897857498754,0
+Cardiac_Pericyte_1_vs_all,Bin 100k,0.773529411764706,1
+Cardiac_Pericyte_1_vs_all,Bin 100k,0.7846959122632103,2
+Cardiac_Pericyte_1_vs_all,Bin 100k,0.7201894317048854,3
+Cardiac_Pericyte_1_vs_all,Bin 100k,0.7457627118644068,4
+Cardiac_Pericyte_1_vs_all,Bin 300k,0.6729945191828599,0
+Cardiac_Pericyte_1_vs_all,Bin 300k,0.6169242273180459,1
+Cardiac_Pericyte_1_vs_all,Bin 300k,0.6912512462612164,2
+Cardiac_Pericyte_1_vs_all,Bin 300k,0.5800598205383849,3
+Cardiac_Pericyte_1_vs_all,Bin 300k,0.5975074775672982,4
+Cardiac_Pericyte_2_vs_all,Embedding,0.8677628300946687,0
+Cardiac_Pericyte_2_vs_all,Embedding,0.9003988035892323,1
+Cardiac_Pericyte_2_vs_all,Embedding,0.8581256231306081,2
+Cardiac_Pericyte_2_vs_all,Embedding,0.9084995014955135,3
+Cardiac_Pericyte_2_vs_all,Embedding,0.8826271186440677,4
+Cardiac_Pericyte_2_vs_all,Bin 10k,0.9190084703537619,0
+Cardiac_Pericyte_2_vs_all,Bin 10k,0.9239282153539381,1
+Cardiac_Pericyte_2_vs_all,Bin 10k,0.8869142572283151,2
+Cardiac_Pericyte_2_vs_all,Bin 10k,0.9296360917248254,3
+Cardiac_Pericyte_2_vs_all,Bin 10k,0.9230059820538384,4
+Cardiac_Pericyte_2_vs_all,Bin 30k,0.9208271051320378,0
+Cardiac_Pericyte_2_vs_all,Bin 30k,0.9029411764705882,1
+Cardiac_Pericyte_2_vs_all,Bin 30k,0.8413758723828514,2
+Cardiac_Pericyte_2_vs_all,Bin 30k,0.8629112662013958,3
+Cardiac_Pericyte_2_vs_all,Bin 30k,0.8412761714855435,4
+Cardiac_Pericyte_2_vs_all,Bin 100k,0.7002242152466368,0
+Cardiac_Pericyte_2_vs_all,Bin 100k,0.765852442671984,1
+Cardiac_Pericyte_2_vs_all,Bin 100k,0.7314805583250249,2
+Cardiac_Pericyte_2_vs_all,Bin 100k,0.6228813559322034,3
+Cardiac_Pericyte_2_vs_all,Bin 100k,0.7300847457627119,4
+Cardiac_Pericyte_2_vs_all,Bin 300k,0.7714997508719482,0
+Cardiac_Pericyte_2_vs_all,Bin 300k,0.6951146560319043,1
+Cardiac_Pericyte_2_vs_all,Bin 300k,0.6575772681954137,2
+Cardiac_Pericyte_2_vs_all,Bin 300k,0.6473330009970091,3
+Cardiac_Pericyte_2_vs_all,Bin 300k,0.6883848454636092,4
+Cardiac_Pericyte_3_vs_all,Embedding,0.892127553562531,0
+Cardiac_Pericyte_3_vs_all,Embedding,0.9158524426719841,1
+Cardiac_Pericyte_3_vs_all,Embedding,0.9094466600199401,2
+Cardiac_Pericyte_3_vs_all,Embedding,0.8813310069790629,3
+Cardiac_Pericyte_3_vs_all,Embedding,0.8358424725822532,4
+Cardiac_Pericyte_3_vs_all,Bin 10k,0.7354758345789735,0
+Cardiac_Pericyte_3_vs_all,Bin 10k,0.7679212362911266,1
+Cardiac_Pericyte_3_vs_all,Bin 10k,0.8580009970089731,2
+Cardiac_Pericyte_3_vs_all,Bin 10k,0.7893070787637089,3
+Cardiac_Pericyte_3_vs_all,Bin 10k,0.7813060817547358,4
+Cardiac_Pericyte_3_vs_all,Bin 30k,0.7141006477329347,0
+Cardiac_Pericyte_3_vs_all,Bin 30k,0.7679212362911265,1
+Cardiac_Pericyte_3_vs_all,Bin 30k,0.764481555333998,2
+Cardiac_Pericyte_3_vs_all,Bin 30k,0.7956630109670987,3
+Cardiac_Pericyte_3_vs_all,Bin 30k,0.7427716849451644,4
+Cardiac_Pericyte_3_vs_all,Bin 100k,0.5667164922770304,0
+Cardiac_Pericyte_3_vs_all,Bin 100k,0.654037886340977,1
+Cardiac_Pericyte_3_vs_all,Bin 100k,0.7798853439680957,2
+Cardiac_Pericyte_3_vs_all,Bin 100k,0.6750997008973081,3
+Cardiac_Pericyte_3_vs_all,Bin 100k,0.6991276171485543,4
+Cardiac_Pericyte_3_vs_all,Bin 300k,0.5977827603388143,0
+Cardiac_Pericyte_3_vs_all,Bin 300k,0.6400797607178464,1
+Cardiac_Pericyte_3_vs_all,Bin 300k,0.7040877367896311,2
+Cardiac_Pericyte_3_vs_all,Bin 300k,0.7019441674975074,3
+Cardiac_Pericyte_3_vs_all,Bin 300k,0.6624376869391825,4
+Cardiac_Pericyte_4_vs_all,Embedding,0.9096163428001993,0
+Cardiac_Pericyte_4_vs_all,Embedding,0.9353190428713858,1
+Cardiac_Pericyte_4_vs_all,Embedding,0.9277666999002991,2
+Cardiac_Pericyte_4_vs_all,Embedding,0.8710867397806581,3
+Cardiac_Pericyte_4_vs_all,Embedding,0.9241026919242272,4
+Cardiac_Pericyte_4_vs_all,Bin 10k,0.8075485799701045,0
+Cardiac_Pericyte_4_vs_all,Bin 10k,0.9062562313060818,1
+Cardiac_Pericyte_4_vs_all,Bin 10k,0.8607178464606182,2
+Cardiac_Pericyte_4_vs_all,Bin 10k,0.8388584247258226,3
+Cardiac_Pericyte_4_vs_all,Bin 10k,0.8503988035892323,4
+Cardiac_Pericyte_4_vs_all,Bin 30k,0.7684603886397608,0
+Cardiac_Pericyte_4_vs_all,Bin 30k,0.840777666999003,1
+Cardiac_Pericyte_4_vs_all,Bin 30k,0.797382851445663,2
+Cardiac_Pericyte_4_vs_all,Bin 30k,0.734247258225324,3
+Cardiac_Pericyte_4_vs_all,Bin 30k,0.8244267198404786,4
+Cardiac_Pericyte_4_vs_all,Bin 100k,0.7246885899352267,0
+Cardiac_Pericyte_4_vs_all,Bin 100k,0.8284147557328015,1
+Cardiac_Pericyte_4_vs_all,Bin 100k,0.8228315054835493,2
+Cardiac_Pericyte_4_vs_all,Bin 100k,0.7032652043868395,3
+Cardiac_Pericyte_4_vs_all,Bin 100k,0.699925224327019,4
+Cardiac_Pericyte_4_vs_all,Bin 300k,0.6469357249626309,0
+Cardiac_Pericyte_4_vs_all,Bin 300k,0.7215603190428714,1
+Cardiac_Pericyte_4_vs_all,Bin 300k,0.6888584247258225,2
+Cardiac_Pericyte_4_vs_all,Bin 300k,0.5949401794616151,3
+Cardiac_Pericyte_4_vs_all,Bin 300k,0.6773429710867398,4
+Chief_Cell_vs_all,Embedding,0.9713253612356751,0
+Chief_Cell_vs_all,Embedding,0.9614406779661017,1
+Chief_Cell_vs_all,Embedding,0.9676470588235294,2
+Chief_Cell_vs_all,Embedding,0.9318045862412762,3
+Chief_Cell_vs_all,Embedding,0.9168494516450648,4
+Chief_Cell_vs_all,Bin 10k,0.9353761833582461,0
+Chief_Cell_vs_all,Bin 10k,0.9145563310069791,1
+Chief_Cell_vs_all,Bin 10k,0.9685942173479561,2
+Chief_Cell_vs_all,Bin 10k,0.9377866400797608,3
+Chief_Cell_vs_all,Bin 10k,0.8881854436689931,4
+Chief_Cell_vs_all,Bin 30k,0.9114100647732934,0
+Chief_Cell_vs_all,Bin 30k,0.9309072781655034,1
+Chief_Cell_vs_all,Bin 30k,0.9476071784646063,2
+Chief_Cell_vs_all,Bin 30k,0.9308325024925225,3
+Chief_Cell_vs_all,Bin 30k,0.8929461615154536,4
+Chief_Cell_vs_all,Bin 100k,0.8752366716492277,0
+Chief_Cell_vs_all,Bin 100k,0.8283898305084746,1
+Chief_Cell_vs_all,Bin 100k,0.8513210368893319,2
+Chief_Cell_vs_all,Bin 100k,0.8945663010967098,3
+Chief_Cell_vs_all,Bin 100k,0.814456630109671,4
+Chief_Cell_vs_all,Bin 300k,0.7115097159940209,0
+Chief_Cell_vs_all,Bin 300k,0.7890329012961116,1
+Chief_Cell_vs_all,Bin 300k,0.6937686939182452,2
+Chief_Cell_vs_all,Bin 300k,0.7524675972083749,3
+Chief_Cell_vs_all,Bin 300k,0.727666999002991,4
+Cilliated_Cell_vs_all,Embedding,0.8949925261584455,0
+Cilliated_Cell_vs_all,Embedding,0.9292622133599201,1
+Cilliated_Cell_vs_all,Embedding,0.9238534396809572,2
+Cilliated_Cell_vs_all,Embedding,0.9416999002991027,3
+Cilliated_Cell_vs_all,Embedding,0.8929461615154536,4
+Cilliated_Cell_vs_all,Bin 10k,0.9271798704534131,0
+Cilliated_Cell_vs_all,Bin 10k,0.9075024925224328,1
+Cilliated_Cell_vs_all,Bin 10k,0.9225324027916251,2
+Cilliated_Cell_vs_all,Bin 10k,0.917173479561316,3
+Cilliated_Cell_vs_all,Bin 10k,0.8832502492522433,4
+Cilliated_Cell_vs_all,Bin 30k,0.8696562032884904,0
+Cilliated_Cell_vs_all,Bin 30k,0.8455383848454636,1
+Cilliated_Cell_vs_all,Bin 30k,0.7883100697906281,2
+Cilliated_Cell_vs_all,Bin 30k,0.9054336989032901,3
+Cilliated_Cell_vs_all,Bin 30k,0.8202392821535394,4
+Cilliated_Cell_vs_all,Bin 100k,0.8697807673143996,0
+Cilliated_Cell_vs_all,Bin 100k,0.8135094715852442,1
+Cilliated_Cell_vs_all,Bin 100k,0.7318045862412761,2
+Cilliated_Cell_vs_all,Bin 100k,0.740752741774676,3
+Cilliated_Cell_vs_all,Bin 100k,0.7943668993020937,4
+Cilliated_Cell_vs_all,Bin 300k,0.7759591429995016,0
+Cilliated_Cell_vs_all,Bin 300k,0.6919990029910269,1
+Cilliated_Cell_vs_all,Bin 300k,0.6775174476570289,2
+Cilliated_Cell_vs_all,Bin 300k,0.6734546360917248,3
+Cilliated_Cell_vs_all,Bin 300k,0.7103190428713859,4
+Club_Cell_vs_all,Embedding,0.9786746387643248,0
+Club_Cell_vs_all,Embedding,0.9521934197407776,1
+Club_Cell_vs_all,Embedding,0.9703888334995014,2
+Club_Cell_vs_all,Embedding,0.9709371884346959,3
+Club_Cell_vs_all,Embedding,0.9687686939182453,4
+Club_Cell_vs_all,Bin 10k,0.8735924265072247,0
+Club_Cell_vs_all,Bin 10k,0.7464356929212363,1
+Club_Cell_vs_all,Bin 10k,0.8439431704885345,2
+Club_Cell_vs_all,Bin 10k,0.8636590229312064,3
+Club_Cell_vs_all,Bin 10k,0.8592721834496511,4
+Club_Cell_vs_all,Bin 30k,0.8139760837070255,0
+Club_Cell_vs_all,Bin 30k,0.7572283150548356,1
+Club_Cell_vs_all,Bin 30k,0.8117647058823529,2
+Club_Cell_vs_all,Bin 30k,0.8534396809571285,3
+Club_Cell_vs_all,Bin 30k,0.8616899302093719,4
+Club_Cell_vs_all,Bin 100k,0.8018186347782761,0
+Club_Cell_vs_all,Bin 100k,0.6626121635094715,1
+Club_Cell_vs_all,Bin 100k,0.7510717846460617,2
+Club_Cell_vs_all,Bin 100k,0.7337736789631106,3
+Club_Cell_vs_all,Bin 100k,0.8283649052841475,4
+Club_Cell_vs_all,Bin 300k,0.7187842551071251,0
+Club_Cell_vs_all,Bin 300k,0.6301345962113659,1
+Club_Cell_vs_all,Bin 300k,0.7011216350947158,2
+Club_Cell_vs_all,Bin 300k,0.7185692921236292,3
+Club_Cell_vs_all,Bin 300k,0.735593220338983,4
+Colon_Epithelial_Cell_1_vs_all,Embedding,0.9495764823119084,0
+Colon_Epithelial_Cell_1_vs_all,Embedding,0.9636839481555335,1
+Colon_Epithelial_Cell_1_vs_all,Embedding,0.9656530408773679,2
+Colon_Epithelial_Cell_1_vs_all,Embedding,0.9568045862412762,3
+Colon_Epithelial_Cell_1_vs_all,Embedding,0.9415503489531405,4
+Colon_Epithelial_Cell_1_vs_all,Bin 10k,0.8859740906826108,0
+Colon_Epithelial_Cell_1_vs_all,Bin 10k,0.8765952143569292,1
+Colon_Epithelial_Cell_1_vs_all,Bin 10k,0.8985044865403788,2
+Colon_Epithelial_Cell_1_vs_all,Bin 10k,0.9129860418743768,3
+Colon_Epithelial_Cell_1_vs_all,Bin 10k,0.894690927218345,4
+Colon_Epithelial_Cell_1_vs_all,Bin 30k,0.9038614848031888,0
+Colon_Epithelial_Cell_1_vs_all,Bin 30k,0.8641076769690927,1
+Colon_Epithelial_Cell_1_vs_all,Bin 30k,0.8648554336989033,2
+Colon_Epithelial_Cell_1_vs_all,Bin 30k,0.8554087736789631,3
+Colon_Epithelial_Cell_1_vs_all,Bin 30k,0.8888085742771685,4
+Colon_Epithelial_Cell_1_vs_all,Bin 100k,0.8123567513702042,0
+Colon_Epithelial_Cell_1_vs_all,Bin 100k,0.8523678963110668,1
+Colon_Epithelial_Cell_1_vs_all,Bin 100k,0.818295114656032,2
+Colon_Epithelial_Cell_1_vs_all,Bin 100k,0.7587736789631108,3
+Colon_Epithelial_Cell_1_vs_all,Bin 100k,0.7390329012961117,4
+Colon_Epithelial_Cell_1_vs_all,Bin 300k,0.6967862481315397,0
+Colon_Epithelial_Cell_1_vs_all,Bin 300k,0.7122382851445663,1
+Colon_Epithelial_Cell_1_vs_all,Bin 300k,0.7203140578265205,2
+Colon_Epithelial_Cell_1_vs_all,Bin 300k,0.7674725822532403,3
+Colon_Epithelial_Cell_1_vs_all,Bin 300k,0.6967846460618146,4
+Colon_Epithelial_Cell_2_vs_all,Embedding,0.9829596412556054,0
+Colon_Epithelial_Cell_2_vs_all,Embedding,0.981704885343968,1
+Colon_Epithelial_Cell_2_vs_all,Embedding,0.9750997008973081,2
+Colon_Epithelial_Cell_2_vs_all,Embedding,0.9930458624127617,3
+Colon_Epithelial_Cell_2_vs_all,Embedding,0.9909272183449651,4
+Colon_Epithelial_Cell_2_vs_all,Bin 10k,0.9856003986048829,0
+Colon_Epithelial_Cell_2_vs_all,Bin 10k,0.9878614157527418,1
+Colon_Epithelial_Cell_2_vs_all,Bin 10k,0.9900548354935195,2
+Colon_Epithelial_Cell_2_vs_all,Bin 10k,0.9972831505483549,3
+Colon_Epithelial_Cell_2_vs_all,Bin 10k,0.9840977068793619,4
+Colon_Epithelial_Cell_2_vs_all,Bin 30k,0.9760587942202292,0
+Colon_Epithelial_Cell_2_vs_all,Bin 30k,0.9734047856430708,1
+Colon_Epithelial_Cell_2_vs_all,Bin 30k,0.9707627118644069,2
+Colon_Epithelial_Cell_2_vs_all,Bin 30k,0.9850448654037887,3
+Colon_Epithelial_Cell_2_vs_all,Bin 30k,0.9664755732801595,4
+Colon_Epithelial_Cell_2_vs_all,Bin 100k,0.8796960637767813,0
+Colon_Epithelial_Cell_2_vs_all,Bin 100k,0.9542871385842473,1
+Colon_Epithelial_Cell_2_vs_all,Bin 100k,0.8786141575274178,2
+Colon_Epithelial_Cell_2_vs_all,Bin 100k,0.9006480558325026,3
+Colon_Epithelial_Cell_2_vs_all,Bin 100k,0.8691425722831505,4
+Colon_Epithelial_Cell_2_vs_all,Bin 300k,0.8572496263079222,0
+Colon_Epithelial_Cell_2_vs_all,Bin 300k,0.8896560319042871,1
+Colon_Epithelial_Cell_2_vs_all,Bin 300k,0.80259222333001,2
+Colon_Epithelial_Cell_2_vs_all,Bin 300k,0.7808823529411766,3
+Colon_Epithelial_Cell_2_vs_all,Bin 300k,0.7489032901296111,4
+Colon_Epithelial_Cell_3_vs_all,Embedding,0.9739661185849527,0
+Colon_Epithelial_Cell_3_vs_all,Embedding,0.9620139581256231,1
+Colon_Epithelial_Cell_3_vs_all,Embedding,0.9416500498504488,2
+Colon_Epithelial_Cell_3_vs_all,Embedding,0.8991276171485544,3
+Colon_Epithelial_Cell_3_vs_all,Embedding,0.9280159521435692,4
+Colon_Epithelial_Cell_3_vs_all,Bin 10k,0.8723467862481316,0
+Colon_Epithelial_Cell_3_vs_all,Bin 10k,0.8927218344965104,1
+Colon_Epithelial_Cell_3_vs_all,Bin 10k,0.8850199401794616,2
+Colon_Epithelial_Cell_3_vs_all,Bin 10k,0.8686440677966102,3
+Colon_Epithelial_Cell_3_vs_all,Bin 10k,0.9108424725822533,4
+Colon_Epithelial_Cell_3_vs_all,Bin 30k,0.9064524165421027,0
+Colon_Epithelial_Cell_3_vs_all,Bin 30k,0.8369391824526421,1
+Colon_Epithelial_Cell_3_vs_all,Bin 30k,0.8484047856430708,2
+Colon_Epithelial_Cell_3_vs_all,Bin 30k,0.8626620139581257,3
+Colon_Epithelial_Cell_3_vs_all,Bin 30k,0.8957627118644067,4
+Colon_Epithelial_Cell_3_vs_all,Bin 100k,0.8433981066268061,0
+Colon_Epithelial_Cell_3_vs_all,Bin 100k,0.8748504486540378,1
+Colon_Epithelial_Cell_3_vs_all,Bin 100k,0.8072033898305084,2
+Colon_Epithelial_Cell_3_vs_all,Bin 100k,0.8032652043868393,3
+Colon_Epithelial_Cell_3_vs_all,Bin 100k,0.8774925224327019,4
+Colon_Epithelial_Cell_3_vs_all,Bin 300k,0.6537618335824614,0
+Colon_Epithelial_Cell_3_vs_all,Bin 300k,0.726121635094716,1
+Colon_Epithelial_Cell_3_vs_all,Bin 300k,0.7753988035892323,2
+Colon_Epithelial_Cell_3_vs_all,Bin 300k,0.6830508474576271,3
+Colon_Epithelial_Cell_3_vs_all,Bin 300k,0.7948654037886341,4
+Colonic_Goblet_Cell_vs_all,Embedding,0.9676631788739412,0
+Colonic_Goblet_Cell_vs_all,Embedding,0.961714855433699,1
+Colonic_Goblet_Cell_vs_all,Embedding,0.9656530408773679,2
+Colonic_Goblet_Cell_vs_all,Embedding,0.9522183449651047,3
+Colonic_Goblet_Cell_vs_all,Embedding,0.9475822532402791,4
+Colonic_Goblet_Cell_vs_all,Bin 10k,0.9425759840558047,0
+Colonic_Goblet_Cell_vs_all,Bin 10k,0.9596460618145564,1
+Colonic_Goblet_Cell_vs_all,Bin 10k,0.9457377866400797,2
+Colonic_Goblet_Cell_vs_all,Bin 10k,0.9599700897308077,3
+Colonic_Goblet_Cell_vs_all,Bin 10k,0.9159770687936192,4
+Colonic_Goblet_Cell_vs_all,Bin 30k,0.9056801195814649,0
+Colonic_Goblet_Cell_vs_all,Bin 30k,0.9229062811565304,1
+Colonic_Goblet_Cell_vs_all,Bin 30k,0.9331505483549352,2
+Colonic_Goblet_Cell_vs_all,Bin 30k,0.9320039880358924,3
+Colonic_Goblet_Cell_vs_all,Bin 30k,0.8764207377866401,4
+Colonic_Goblet_Cell_vs_all,Bin 100k,0.7491778774289986,0
+Colonic_Goblet_Cell_vs_all,Bin 100k,0.7827517447657029,1
+Colonic_Goblet_Cell_vs_all,Bin 100k,0.8507228315054836,2
+Colonic_Goblet_Cell_vs_all,Bin 100k,0.7574027916251246,3
+Colonic_Goblet_Cell_vs_all,Bin 100k,0.7844715852442672,4
+Colonic_Goblet_Cell_vs_all,Bin 300k,0.622247135027404,0
+Colonic_Goblet_Cell_vs_all,Bin 300k,0.6070787637088734,1
+Colonic_Goblet_Cell_vs_all,Bin 300k,0.6819042871385843,2
+Colonic_Goblet_Cell_vs_all,Bin 300k,0.5533150548354935,3
+Colonic_Goblet_Cell_vs_all,Bin 300k,0.7225822532402791,4
+Cortical_Epithelial-like_vs_all,Embedding,0.9926756352765321,0
+Cortical_Epithelial-like_vs_all,Embedding,0.9891575274177468,1
+Cortical_Epithelial-like_vs_all,Embedding,0.9786640079760718,2
+Cortical_Epithelial-like_vs_all,Embedding,0.99080259222333,3
+Cortical_Epithelial-like_vs_all,Embedding,0.980209371884347,4
+Cortical_Epithelial-like_vs_all,Bin 10k,0.9579471848530143,0
+Cortical_Epithelial-like_vs_all,Bin 10k,0.9814057826520438,1
+Cortical_Epithelial-like_vs_all,Bin 10k,0.9794865403788633,2
+Cortical_Epithelial-like_vs_all,Bin 10k,0.9701645064805583,3
+Cortical_Epithelial-like_vs_all,Bin 10k,0.9759970089730807,4
+Cortical_Epithelial-like_vs_all,Bin 30k,0.920802192326856,0
+Cortical_Epithelial-like_vs_all,Bin 30k,0.9556829511465603,1
+Cortical_Epithelial-like_vs_all,Bin 30k,0.9231804586241277,2
+Cortical_Epithelial-like_vs_all,Bin 30k,0.951196410767697,3
+Cortical_Epithelial-like_vs_all,Bin 30k,0.9582253240279163,4
+Cortical_Epithelial-like_vs_all,Bin 100k,0.8724962630792228,0
+Cortical_Epithelial-like_vs_all,Bin 100k,0.9107178464606183,1
+Cortical_Epithelial-like_vs_all,Bin 100k,0.8880608175473579,2
+Cortical_Epithelial-like_vs_all,Bin 100k,0.8730807577268195,3
+Cortical_Epithelial-like_vs_all,Bin 100k,0.9104187437686939,4
+Cortical_Epithelial-like_vs_all,Bin 300k,0.8074489287493771,0
+Cortical_Epithelial-like_vs_all,Bin 300k,0.9124376869391824,1
+Cortical_Epithelial-like_vs_all,Bin 300k,0.8436440677966102,2
+Cortical_Epithelial-like_vs_all,Bin 300k,0.8345712861415753,3
+Cortical_Epithelial-like_vs_all,Bin 300k,0.8504237288135592,4
+Ductal_Cell_Pancreatic_vs_all,Embedding,0.9444444444444444,0
+Ductal_Cell_Pancreatic_vs_all,Embedding,0.9401545363908275,1
+Ductal_Cell_Pancreatic_vs_all,Embedding,0.9650299102691924,2
+Ductal_Cell_Pancreatic_vs_all,Embedding,0.9146560319042871,3
+Ductal_Cell_Pancreatic_vs_all,Embedding,0.9490029910269192,4
+Ductal_Cell_Pancreatic_vs_all,Bin 10k,0.9079970104633781,0
+Ductal_Cell_Pancreatic_vs_all,Bin 10k,0.8660518444666002,1
+Ductal_Cell_Pancreatic_vs_all,Bin 10k,0.8712612163509471,2
+Ductal_Cell_Pancreatic_vs_all,Bin 10k,0.8321036889332003,3
+Ductal_Cell_Pancreatic_vs_all,Bin 10k,0.8981804586241277,4
+Ductal_Cell_Pancreatic_vs_all,Bin 30k,0.8571001494768311,0
+Ductal_Cell_Pancreatic_vs_all,Bin 30k,0.8636590229312063,1
+Ductal_Cell_Pancreatic_vs_all,Bin 30k,0.8698903290129613,2
+Ductal_Cell_Pancreatic_vs_all,Bin 30k,0.8271186440677966,3
+Ductal_Cell_Pancreatic_vs_all,Bin 30k,0.8899052841475573,4
+Ductal_Cell_Pancreatic_vs_all,Bin 100k,0.737045341305431,0
+Ductal_Cell_Pancreatic_vs_all,Bin 100k,0.7904785643070787,1
+Ductal_Cell_Pancreatic_vs_all,Bin 100k,0.7464606181455633,2
+Ductal_Cell_Pancreatic_vs_all,Bin 100k,0.7094715852442672,3
+Ductal_Cell_Pancreatic_vs_all,Bin 100k,0.8005234297108674,4
+Ductal_Cell_Pancreatic_vs_all,Bin 300k,0.6981564524165422,0
+Ductal_Cell_Pancreatic_vs_all,Bin 300k,0.6409272183449651,1
+Ductal_Cell_Pancreatic_vs_all,Bin 300k,0.6912013958125623,2
+Ductal_Cell_Pancreatic_vs_all,Bin 300k,0.5878115653040877,3
+Ductal_Cell_Pancreatic_vs_all,Bin 300k,0.6727816550348953,4
+Eccrine_Epidermal_Skin_vs_all,Embedding,0.9205281514698554,0
+Eccrine_Epidermal_Skin_vs_all,Embedding,0.9099451645064806,1
+Eccrine_Epidermal_Skin_vs_all,Embedding,0.9318793619142572,2
+Eccrine_Epidermal_Skin_vs_all,Embedding,0.9414506480558325,3
+Eccrine_Epidermal_Skin_vs_all,Embedding,0.918444666001994,4
+Eccrine_Epidermal_Skin_vs_all,Bin 10k,0.9273293472845042,0
+Eccrine_Epidermal_Skin_vs_all,Bin 10k,0.9574277168494516,1
+Eccrine_Epidermal_Skin_vs_all,Bin 10k,0.9548354935194416,2
+Eccrine_Epidermal_Skin_vs_all,Bin 10k,0.9679960119641078,3
+Eccrine_Epidermal_Skin_vs_all,Bin 10k,0.9095214356929212,4
+Eccrine_Epidermal_Skin_vs_all,Bin 30k,0.9223467862481315,0
+Eccrine_Epidermal_Skin_vs_all,Bin 30k,0.9336241276171485,1
+Eccrine_Epidermal_Skin_vs_all,Bin 30k,0.9015204386839482,2
+Eccrine_Epidermal_Skin_vs_all,Bin 30k,0.93419740777667,3
+Eccrine_Epidermal_Skin_vs_all,Bin 30k,0.9188185443668992,4
+Eccrine_Epidermal_Skin_vs_all,Bin 100k,0.7998754359740907,0
+Eccrine_Epidermal_Skin_vs_all,Bin 100k,0.7523180458624128,1
+Eccrine_Epidermal_Skin_vs_all,Bin 100k,0.752791625124626,2
+Eccrine_Epidermal_Skin_vs_all,Bin 100k,0.8031405782652044,3
+Eccrine_Epidermal_Skin_vs_all,Bin 100k,0.6493270189431705,4
+Eccrine_Epidermal_Skin_vs_all,Bin 300k,0.7773542600896861,0
+Eccrine_Epidermal_Skin_vs_all,Bin 300k,0.7002741774675972,1
+Eccrine_Epidermal_Skin_vs_all,Bin 300k,0.7438185443668993,2
+Eccrine_Epidermal_Skin_vs_all,Bin 300k,0.7168245264207378,3
+Eccrine_Epidermal_Skin_vs_all,Bin 300k,0.5960867397806581,4
+Endocardial_Cell_vs_all,Embedding,0.939237668161435,0
+Endocardial_Cell_vs_all,Embedding,0.9266949152542373,1
+Endocardial_Cell_vs_all,Embedding,0.9435443668993021,2
+Endocardial_Cell_vs_all,Embedding,0.9188185443668992,3
+Endocardial_Cell_vs_all,Embedding,0.9199900299102692,4
+Endocardial_Cell_vs_all,Bin 10k,0.8622321873442949,0
+Endocardial_Cell_vs_all,Bin 10k,0.8838484546360917,1
+Endocardial_Cell_vs_all,Bin 10k,0.9541375872382851,2
+Endocardial_Cell_vs_all,Bin 10k,0.9006729810568296,3
+Endocardial_Cell_vs_all,Bin 10k,0.9520438683948155,4
+Endocardial_Cell_vs_all,Bin 30k,0.8836073741903339,0
+Endocardial_Cell_vs_all,Bin 30k,0.8190677966101694,1
+Endocardial_Cell_vs_all,Bin 30k,0.8669242273180459,2
+Endocardial_Cell_vs_all,Bin 30k,0.8549850448654037,3
+Endocardial_Cell_vs_all,Bin 30k,0.8767696909272183,4
+Endocardial_Cell_vs_all,Bin 100k,0.8217488789237668,0
+Endocardial_Cell_vs_all,Bin 100k,0.8063559322033899,1
+Endocardial_Cell_vs_all,Bin 100k,0.8733549351944168,2
+Endocardial_Cell_vs_all,Bin 100k,0.8194915254237288,3
+Endocardial_Cell_vs_all,Bin 100k,0.8863160518444666,4
+Endocardial_Cell_vs_all,Bin 300k,0.8533134030891878,0
+Endocardial_Cell_vs_all,Bin 300k,0.8102442671984047,1
+Endocardial_Cell_vs_all,Bin 300k,0.8666500498504487,2
+Endocardial_Cell_vs_all,Bin 300k,0.8390827517447657,3
+Endocardial_Cell_vs_all,Bin 300k,0.8772432701894316,4
+Endothelial_Cell_General_1_vs_all,Embedding,0.8303437967115097,0
+Endothelial_Cell_General_1_vs_all,Embedding,0.8653040877367896,1
+Endothelial_Cell_General_1_vs_all,Embedding,0.8887836490528415,2
+Endothelial_Cell_General_1_vs_all,Embedding,0.7887088733798604,3
+Endothelial_Cell_General_1_vs_all,Embedding,0.7827766699900299,4
+Endothelial_Cell_General_1_vs_all,Bin 10k,0.862580966616841,0
+Endothelial_Cell_General_1_vs_all,Bin 10k,0.9122133599202392,1
+Endothelial_Cell_General_1_vs_all,Bin 10k,0.8677218344965104,2
+Endothelial_Cell_General_1_vs_all,Bin 10k,0.8863659022931206,3
+Endothelial_Cell_General_1_vs_all,Bin 10k,0.8271684945164506,4
+Endothelial_Cell_General_1_vs_all,Bin 30k,0.8042351768809168,0
+Endothelial_Cell_General_1_vs_all,Bin 30k,0.88561814556331,1
+Endothelial_Cell_General_1_vs_all,Bin 30k,0.8488534396809572,2
+Endothelial_Cell_General_1_vs_all,Bin 30k,0.8367896311066799,3
+Endothelial_Cell_General_1_vs_all,Bin 30k,0.7716350947158525,4
+Endothelial_Cell_General_1_vs_all,Bin 100k,0.7422272047832587,0
+Endothelial_Cell_General_1_vs_all,Bin 100k,0.7838733798604187,1
+Endothelial_Cell_General_1_vs_all,Bin 100k,0.7675722831505484,2
+Endothelial_Cell_General_1_vs_all,Bin 100k,0.7481306081754736,3
+Endothelial_Cell_General_1_vs_all,Bin 100k,0.7442173479561316,4
+Endothelial_Cell_General_1_vs_all,Bin 300k,0.6715744892874939,0
+Endothelial_Cell_General_1_vs_all,Bin 300k,0.6981056829511465,1
+Endothelial_Cell_General_1_vs_all,Bin 300k,0.7696161515453639,2
+Endothelial_Cell_General_1_vs_all,Bin 300k,0.7286141575274178,3
+Endothelial_Cell_General_1_vs_all,Bin 300k,0.6634346959122632,4
+Endothelial_Cell_General_2_vs_all,Embedding,0.829023418036871,0
+Endothelial_Cell_General_2_vs_all,Embedding,0.9159770687936192,1
+Endothelial_Cell_General_2_vs_all,Embedding,0.789431704885344,2
+Endothelial_Cell_General_2_vs_all,Embedding,0.7501495513459621,3
+Endothelial_Cell_General_2_vs_all,Embedding,0.7890329012961117,4
+Endothelial_Cell_General_2_vs_all,Bin 10k,0.8843796711509716,0
+Endothelial_Cell_General_2_vs_all,Bin 10k,0.9046859421734796,1
+Endothelial_Cell_General_2_vs_all,Bin 10k,0.9284147557328015,2
+Endothelial_Cell_General_2_vs_all,Bin 10k,0.9174227318045862,3
+Endothelial_Cell_General_2_vs_all,Bin 10k,0.8609172482552343,4
+Endothelial_Cell_General_2_vs_all,Bin 30k,0.8553562531141006,0
+Endothelial_Cell_General_2_vs_all,Bin 30k,0.8625124626121635,1
+Endothelial_Cell_General_2_vs_all,Bin 30k,0.919765702891326,2
+Endothelial_Cell_General_2_vs_all,Bin 30k,0.8561066799601197,3
+Endothelial_Cell_General_2_vs_all,Bin 30k,0.877741774675972,4
+Endothelial_Cell_General_2_vs_all,Bin 100k,0.6437468858993523,0
+Endothelial_Cell_General_2_vs_all,Bin 100k,0.7824526420737787,1
+Endothelial_Cell_General_2_vs_all,Bin 100k,0.7913260219341974,2
+Endothelial_Cell_General_2_vs_all,Bin 100k,0.7411266201395812,3
+Endothelial_Cell_General_2_vs_all,Bin 100k,0.7980807577268195,4
+Endothelial_Cell_General_2_vs_all,Bin 300k,0.5345291479820629,0
+Endothelial_Cell_General_2_vs_all,Bin 300k,0.6721585244267199,1
+Endothelial_Cell_General_2_vs_all,Bin 300k,0.713160518444666,2
+Endothelial_Cell_General_2_vs_all,Bin 300k,0.5150797607178464,3
+Endothelial_Cell_General_2_vs_all,Bin 300k,0.653963110667996,4
+Endothelial_Cell_General_3_vs_all,Embedding,0.9091928251121075,0
+Endothelial_Cell_General_3_vs_all,Embedding,0.9005234297108674,1
+Endothelial_Cell_General_3_vs_all,Embedding,0.9478813559322035,2
+Endothelial_Cell_General_3_vs_all,Embedding,0.9182452642073778,3
+Endothelial_Cell_General_3_vs_all,Embedding,0.9364157527417747,4
+Endothelial_Cell_General_3_vs_all,Bin 10k,0.9462879920279023,0
+Endothelial_Cell_General_3_vs_all,Bin 10k,0.907951146560319,1
+Endothelial_Cell_General_3_vs_all,Bin 10k,0.906505483549352,2
+Endothelial_Cell_General_3_vs_all,Bin 10k,0.9335742771684945,3
+Endothelial_Cell_General_3_vs_all,Bin 10k,0.914406779661017,4
+Endothelial_Cell_General_3_vs_all,Bin 30k,0.9215246636771299,0
+Endothelial_Cell_General_3_vs_all,Bin 30k,0.8670239282153539,1
+Endothelial_Cell_General_3_vs_all,Bin 30k,0.8839481555333998,2
+Endothelial_Cell_General_3_vs_all,Bin 30k,0.9383100697906281,3
+Endothelial_Cell_General_3_vs_all,Bin 30k,0.9222333000997008,4
+Endothelial_Cell_General_3_vs_all,Bin 100k,0.8406327852516193,0
+Endothelial_Cell_General_3_vs_all,Bin 100k,0.8375623130608175,1
+Endothelial_Cell_General_3_vs_all,Bin 100k,0.8511216350947157,2
+Endothelial_Cell_General_3_vs_all,Bin 100k,0.8613659022931206,3
+Endothelial_Cell_General_3_vs_all,Bin 100k,0.8358424725822533,4
+Endothelial_Cell_General_3_vs_all,Bin 300k,0.7243148978574988,0
+Endothelial_Cell_General_3_vs_all,Bin 300k,0.7036889332003988,1
+Endothelial_Cell_General_3_vs_all,Bin 300k,0.7070787637088733,2
+Endothelial_Cell_General_3_vs_all,Bin 300k,0.6274675972083749,3
+Endothelial_Cell_General_3_vs_all,Bin 300k,0.635443668993021,4
+Endothelial_Cell_Myocardial_vs_all,Embedding,0.8778525161933233,0
+Endothelial_Cell_Myocardial_vs_all,Embedding,0.8885343968095714,1
+Endothelial_Cell_Myocardial_vs_all,Embedding,0.8923479561316051,2
+Endothelial_Cell_Myocardial_vs_all,Embedding,0.9080009970089731,3
+Endothelial_Cell_Myocardial_vs_all,Embedding,0.9078015952143569,4
+Endothelial_Cell_Myocardial_vs_all,Bin 10k,0.9377927254608869,0
+Endothelial_Cell_Myocardial_vs_all,Bin 10k,0.9065054835493519,1
+Endothelial_Cell_Myocardial_vs_all,Bin 10k,0.9061066799601196,2
+Endothelial_Cell_Myocardial_vs_all,Bin 10k,0.8979561316051843,3
+Endothelial_Cell_Myocardial_vs_all,Bin 10k,0.8848205383848455,4
+Endothelial_Cell_Myocardial_vs_all,Bin 30k,0.8636023916292974,0
+Endothelial_Cell_Myocardial_vs_all,Bin 30k,0.9232053838484546,1
+Endothelial_Cell_Myocardial_vs_all,Bin 30k,0.8496011964107677,2
+Endothelial_Cell_Myocardial_vs_all,Bin 30k,0.8245513459621137,3
+Endothelial_Cell_Myocardial_vs_all,Bin 30k,0.8516201395812563,4
+Endothelial_Cell_Myocardial_vs_all,Bin 100k,0.7963627304434479,0
+Endothelial_Cell_Myocardial_vs_all,Bin 100k,0.8331754735792622,1
+Endothelial_Cell_Myocardial_vs_all,Bin 100k,0.6696909272183449,2
+Endothelial_Cell_Myocardial_vs_all,Bin 100k,0.8023180458624127,3
+Endothelial_Cell_Myocardial_vs_all,Bin 100k,0.8636091724825523,4
+Endothelial_Cell_Myocardial_vs_all,Bin 300k,0.7017937219730941,0
+Endothelial_Cell_Myocardial_vs_all,Bin 300k,0.7912761714855434,1
+Endothelial_Cell_Myocardial_vs_all,Bin 300k,0.6382352941176471,2
+Endothelial_Cell_Myocardial_vs_all,Bin 300k,0.7719341974077767,3
+Endothelial_Cell_Myocardial_vs_all,Bin 300k,0.7288883349950149,4
+Endothelial_Exocrine_Tissues_vs_all,Embedding,0.9819631290483308,0
+Endothelial_Exocrine_Tissues_vs_all,Embedding,0.9913509471585245,1
+Endothelial_Exocrine_Tissues_vs_all,Embedding,0.9931704885343968,2
+Endothelial_Exocrine_Tissues_vs_all,Embedding,0.938110667996012,3
+Endothelial_Exocrine_Tissues_vs_all,Embedding,0.9913010967098703,4
+Endothelial_Exocrine_Tissues_vs_all,Bin 10k,0.962406576980568,0
+Endothelial_Exocrine_Tissues_vs_all,Bin 10k,0.9939680957128614,1
+Endothelial_Exocrine_Tissues_vs_all,Bin 10k,0.9632851445663011,2
+Endothelial_Exocrine_Tissues_vs_all,Bin 10k,0.9670987038883351,3
+Endothelial_Exocrine_Tissues_vs_all,Bin 10k,0.9777666999002992,4
+Endothelial_Exocrine_Tissues_vs_all,Bin 30k,0.9048330842052815,0
+Endothelial_Exocrine_Tissues_vs_all,Bin 30k,0.9440927218344966,1
+Endothelial_Exocrine_Tissues_vs_all,Bin 30k,0.9311316051844467,2
+Endothelial_Exocrine_Tissues_vs_all,Bin 30k,0.9150049850448653,3
+Endothelial_Exocrine_Tissues_vs_all,Bin 30k,0.9581256231306082,4
+Endothelial_Exocrine_Tissues_vs_all,Bin 100k,0.8897110114598904,0
+Endothelial_Exocrine_Tissues_vs_all,Bin 100k,0.9048105682951146,1
+Endothelial_Exocrine_Tissues_vs_all,Bin 100k,0.8404037886340977,2
+Endothelial_Exocrine_Tissues_vs_all,Bin 100k,0.8993270189431705,3
+Endothelial_Exocrine_Tissues_vs_all,Bin 100k,0.9183948155533399,4
+Endothelial_Exocrine_Tissues_vs_all,Bin 300k,0.792326856003986,0
+Endothelial_Exocrine_Tissues_vs_all,Bin 300k,0.7975074775672981,1
+Endothelial_Exocrine_Tissues_vs_all,Bin 300k,0.7279162512462612,2
+Endothelial_Exocrine_Tissues_vs_all,Bin 300k,0.8438683948155533,3
+Endothelial_Exocrine_Tissues_vs_all,Bin 300k,0.8082502492522432,4
+Enterochromaffin_Cell_vs_all,Embedding,0.9315894369706029,0
+Enterochromaffin_Cell_vs_all,Embedding,0.9048853439680957,1
+Enterochromaffin_Cell_vs_all,Embedding,0.9352691924227319,2
+Enterochromaffin_Cell_vs_all,Embedding,0.9466350947158524,3
+Enterochromaffin_Cell_vs_all,Embedding,0.9378115653040877,4
+Enterochromaffin_Cell_vs_all,Bin 10k,0.8815894369706029,0
+Enterochromaffin_Cell_vs_all,Bin 10k,0.8502741774675973,1
+Enterochromaffin_Cell_vs_all,Bin 10k,0.8323529411764706,2
+Enterochromaffin_Cell_vs_all,Bin 10k,0.9067298105682952,3
+Enterochromaffin_Cell_vs_all,Bin 10k,0.8924975074775673,4
+Enterochromaffin_Cell_vs_all,Bin 30k,0.8612605879422023,0
+Enterochromaffin_Cell_vs_all,Bin 30k,0.8614406779661017,1
+Enterochromaffin_Cell_vs_all,Bin 30k,0.7256480558325025,2
+Enterochromaffin_Cell_vs_all,Bin 30k,0.8745513459621137,3
+Enterochromaffin_Cell_vs_all,Bin 30k,0.8614406779661018,4
+Enterochromaffin_Cell_vs_all,Bin 100k,0.7581464872944693,0
+Enterochromaffin_Cell_vs_all,Bin 100k,0.801445663010967,1
+Enterochromaffin_Cell_vs_all,Bin 100k,0.7325274177467598,2
+Enterochromaffin_Cell_vs_all,Bin 100k,0.833000997008973,3
+Enterochromaffin_Cell_vs_all,Bin 100k,0.7820538384845463,4
+Enterochromaffin_Cell_vs_all,Bin 300k,0.6814648729446936,0
+Enterochromaffin_Cell_vs_all,Bin 300k,0.7646809571286142,1
+Enterochromaffin_Cell_vs_all,Bin 300k,0.5835992023928216,2
+Enterochromaffin_Cell_vs_all,Bin 300k,0.7486540378863409,3
+Enterochromaffin_Cell_vs_all,Bin 300k,0.6431954137587238,4
+Esophageal_Epithelial_Cell_vs_all,Embedding,0.9791230692575984,0
+Esophageal_Epithelial_Cell_vs_all,Embedding,0.9820289132602193,1
+Esophageal_Epithelial_Cell_vs_all,Embedding,0.9781655034895314,2
+Esophageal_Epithelial_Cell_vs_all,Embedding,0.994715852442672,3
+Esophageal_Epithelial_Cell_vs_all,Embedding,0.9945663010967098,4
+Esophageal_Epithelial_Cell_vs_all,Bin 10k,0.9018435475834579,0
+Esophageal_Epithelial_Cell_vs_all,Bin 10k,0.9453888334995015,1
+Esophageal_Epithelial_Cell_vs_all,Bin 10k,0.9035643070787638,2
+Esophageal_Epithelial_Cell_vs_all,Bin 10k,0.9833998005982053,3
+Esophageal_Epithelial_Cell_vs_all,Bin 10k,0.939606181455633,4
+Esophageal_Epithelial_Cell_vs_all,Bin 30k,0.8813403089187841,0
+Esophageal_Epithelial_Cell_vs_all,Bin 30k,0.8453140578265205,1
+Esophageal_Epithelial_Cell_vs_all,Bin 30k,0.8157776669990029,2
+Esophageal_Epithelial_Cell_vs_all,Bin 30k,0.9642821535393818,3
+Esophageal_Epithelial_Cell_vs_all,Bin 30k,0.8834995014955135,4
+Esophageal_Epithelial_Cell_vs_all,Bin 100k,0.8090682610861983,0
+Esophageal_Epithelial_Cell_vs_all,Bin 100k,0.7973080757726819,1
+Esophageal_Epithelial_Cell_vs_all,Bin 100k,0.7647058823529412,2
+Esophageal_Epithelial_Cell_vs_all,Bin 100k,0.8434446660019941,3
+Esophageal_Epithelial_Cell_vs_all,Bin 100k,0.7507228315054835,4
+Esophageal_Epithelial_Cell_vs_all,Bin 300k,0.7405580468360737,0
+Esophageal_Epithelial_Cell_vs_all,Bin 300k,0.6836241276171485,1
+Esophageal_Epithelial_Cell_vs_all,Bin 300k,0.7322781655034896,2
+Esophageal_Epithelial_Cell_vs_all,Bin 300k,0.7497507477567299,3
+Esophageal_Epithelial_Cell_vs_all,Bin 300k,0.7102193419740778,4
+Fibroblast_Epithelial_vs_all,Embedding,0.9106128550074739,0
+Fibroblast_Epithelial_vs_all,Embedding,0.9644317048853439,1
+Fibroblast_Epithelial_vs_all,Embedding,0.9075274177467598,2
+Fibroblast_Epithelial_vs_all,Embedding,0.8906779661016949,3
+Fibroblast_Epithelial_vs_all,Embedding,0.9208125623130607,4
+Fibroblast_Epithelial_vs_all,Bin 10k,0.8777777777777778,0
+Fibroblast_Epithelial_vs_all,Bin 10k,0.8981555333998006,1
+Fibroblast_Epithelial_vs_all,Bin 10k,0.8923978065802594,2
+Fibroblast_Epithelial_vs_all,Bin 10k,0.8154287138584247,3
+Fibroblast_Epithelial_vs_all,Bin 10k,0.9560069790628116,4
+Fibroblast_Epithelial_vs_all,Bin 30k,0.723716990533134,0
+Fibroblast_Epithelial_vs_all,Bin 30k,0.8145563310069791,1
+Fibroblast_Epithelial_vs_all,Bin 30k,0.7804586241276171,2
+Fibroblast_Epithelial_vs_all,Bin 30k,0.7782901296111666,3
+Fibroblast_Epithelial_vs_all,Bin 30k,0.9199401794616151,4
+Fibroblast_Epithelial_vs_all,Bin 100k,0.6660189337319382,0
+Fibroblast_Epithelial_vs_all,Bin 100k,0.6995762711864406,1
+Fibroblast_Epithelial_vs_all,Bin 100k,0.6615902293120638,2
+Fibroblast_Epithelial_vs_all,Bin 100k,0.706530408773679,3
+Fibroblast_Epithelial_vs_all,Bin 100k,0.8077018943170489,4
+Fibroblast_Epithelial_vs_all,Bin 300k,0.6766567015445939,0
+Fibroblast_Epithelial_vs_all,Bin 300k,0.7163010967098704,1
+Fibroblast_Epithelial_vs_all,Bin 300k,0.6861914257228316,2
+Fibroblast_Epithelial_vs_all,Bin 300k,0.6583998005982054,3
+Fibroblast_Epithelial_vs_all,Bin 300k,0.7426969092721835,4
+Fibroblast_Gastrointestinal_vs_all,Embedding,0.9035874439461884,0
+Fibroblast_Gastrointestinal_vs_all,Embedding,0.9452891326021934,1
+Fibroblast_Gastrointestinal_vs_all,Embedding,0.9345463609172482,2
+Fibroblast_Gastrointestinal_vs_all,Embedding,0.9482552342971087,3
+Fibroblast_Gastrointestinal_vs_all,Embedding,0.892173479561316,4
+Fibroblast_Gastrointestinal_vs_all,Bin 10k,0.9288988540109617,0
+Fibroblast_Gastrointestinal_vs_all,Bin 10k,0.9707876370887338,1
+Fibroblast_Gastrointestinal_vs_all,Bin 10k,0.9453888334995014,2
+Fibroblast_Gastrointestinal_vs_all,Bin 10k,0.9702143569292123,3
+Fibroblast_Gastrointestinal_vs_all,Bin 10k,0.9297607178464606,4
+Fibroblast_Gastrointestinal_vs_all,Bin 30k,0.8998754359740906,0
+Fibroblast_Gastrointestinal_vs_all,Bin 30k,0.9214107676969092,1
+Fibroblast_Gastrointestinal_vs_all,Bin 30k,0.9366899302093719,2
+Fibroblast_Gastrointestinal_vs_all,Bin 30k,0.8793619142572283,3
+Fibroblast_Gastrointestinal_vs_all,Bin 30k,0.8253240279162513,4
+Fibroblast_Gastrointestinal_vs_all,Bin 100k,0.6957399103139013,0
+Fibroblast_Gastrointestinal_vs_all,Bin 100k,0.7972083748753739,1
+Fibroblast_Gastrointestinal_vs_all,Bin 100k,0.8470089730807577,2
+Fibroblast_Gastrointestinal_vs_all,Bin 100k,0.7016699900299103,3
+Fibroblast_Gastrointestinal_vs_all,Bin 100k,0.6548853439680957,4
+Fibroblast_Gastrointestinal_vs_all,Bin 300k,0.7244643746885899,0
+Fibroblast_Gastrointestinal_vs_all,Bin 300k,0.7239032901296112,1
+Fibroblast_Gastrointestinal_vs_all,Bin 300k,0.773703888334995,2
+Fibroblast_Gastrointestinal_vs_all,Bin 300k,0.7672482552342972,3
+Fibroblast_Gastrointestinal_vs_all,Bin 300k,0.6716849451645065,4
+Fibroblast_General_vs_all,Embedding,0.8746138515196812,0
+Fibroblast_General_vs_all,Embedding,0.8989531405782651,1
+Fibroblast_General_vs_all,Embedding,0.8704636091724826,2
+Fibroblast_General_vs_all,Embedding,0.9218095712861416,3
+Fibroblast_General_vs_all,Embedding,0.8941924227318045,4
+Fibroblast_General_vs_all,Bin 10k,0.787045341305431,0
+Fibroblast_General_vs_all,Bin 10k,0.7878364905284148,1
+Fibroblast_General_vs_all,Bin 10k,0.8041126620139581,2
+Fibroblast_General_vs_all,Bin 10k,0.8524426719840478,3
+Fibroblast_General_vs_all,Bin 10k,0.7582253240279162,4
+Fibroblast_General_vs_all,Bin 30k,0.690333831589437,0
+Fibroblast_General_vs_all,Bin 30k,0.7896809571286141,1
+Fibroblast_General_vs_all,Bin 30k,0.725024925224327,2
+Fibroblast_General_vs_all,Bin 30k,0.7409272183449651,3
+Fibroblast_General_vs_all,Bin 30k,0.7856929212362911,4
+Fibroblast_General_vs_all,Bin 100k,0.6410313901345291,0
+Fibroblast_General_vs_all,Bin 100k,0.6951146560319043,1
+Fibroblast_General_vs_all,Bin 100k,0.6203389830508474,2
+Fibroblast_General_vs_all,Bin 100k,0.7388584247258225,3
+Fibroblast_General_vs_all,Bin 100k,0.6900548354935194,4
+Fibroblast_General_vs_all,Bin 300k,0.6310164424514201,0
+Fibroblast_General_vs_all,Bin 300k,0.6055084745762712,1
+Fibroblast_General_vs_all,Bin 300k,0.5464107676969092,2
+Fibroblast_General_vs_all,Bin 300k,0.5968594217347956,3
+Fibroblast_General_vs_all,Bin 300k,0.6807328015952143,4
+Fibroblast_Liver_Adrenal_vs_all,Embedding,0.9943946188340808,0
+Fibroblast_Liver_Adrenal_vs_all,Embedding,0.9729561316051845,1
+Fibroblast_Liver_Adrenal_vs_all,Embedding,0.9680707876370886,2
+Fibroblast_Liver_Adrenal_vs_all,Embedding,0.9778414755732803,3
+Fibroblast_Liver_Adrenal_vs_all,Embedding,0.9691674975074775,4
+Fibroblast_Liver_Adrenal_vs_all,Bin 10k,0.9333333333333333,0
+Fibroblast_Liver_Adrenal_vs_all,Bin 10k,0.959346959122632,1
+Fibroblast_Liver_Adrenal_vs_all,Bin 10k,0.9220338983050848,2
+Fibroblast_Liver_Adrenal_vs_all,Bin 10k,0.9034147557328015,3
+Fibroblast_Liver_Adrenal_vs_all,Bin 10k,0.972333000997009,4
+Fibroblast_Liver_Adrenal_vs_all,Bin 30k,0.8714748380667663,0
+Fibroblast_Liver_Adrenal_vs_all,Bin 30k,0.9051096709870389,1
+Fibroblast_Liver_Adrenal_vs_all,Bin 30k,0.8640578265204387,2
+Fibroblast_Liver_Adrenal_vs_all,Bin 30k,0.900124626121635,3
+Fibroblast_Liver_Adrenal_vs_all,Bin 30k,0.8651794616151545,4
+Fibroblast_Liver_Adrenal_vs_all,Bin 100k,0.7119830592924763,0
+Fibroblast_Liver_Adrenal_vs_all,Bin 100k,0.7889830508474577,1
+Fibroblast_Liver_Adrenal_vs_all,Bin 100k,0.8256979062811566,2
+Fibroblast_Liver_Adrenal_vs_all,Bin 100k,0.8372881355932204,3
+Fibroblast_Liver_Adrenal_vs_all,Bin 100k,0.6925224327018943,4
+Fibroblast_Liver_Adrenal_vs_all,Bin 300k,0.6962630792227205,0
+Fibroblast_Liver_Adrenal_vs_all,Bin 300k,0.7483300099700897,1
+Fibroblast_Liver_Adrenal_vs_all,Bin 300k,0.7745513459621137,2
+Fibroblast_Liver_Adrenal_vs_all,Bin 300k,0.7737537387836491,3
+Fibroblast_Liver_Adrenal_vs_all,Bin 300k,0.6502243270189432,4
+Fibroblast_Peripheral_Nerve_vs_all,Embedding,0.881938216243149,0
+Fibroblast_Peripheral_Nerve_vs_all,Embedding,0.9139082751744765,1
+Fibroblast_Peripheral_Nerve_vs_all,Embedding,0.8869890329012962,2
+Fibroblast_Peripheral_Nerve_vs_all,Embedding,0.8709371884346959,3
+Fibroblast_Peripheral_Nerve_vs_all,Embedding,0.873629112662014,4
+Fibroblast_Peripheral_Nerve_vs_all,Bin 10k,0.857473841554559,0
+Fibroblast_Peripheral_Nerve_vs_all,Bin 10k,0.924925224327019,1
+Fibroblast_Peripheral_Nerve_vs_all,Bin 10k,0.8879112662013957,2
+Fibroblast_Peripheral_Nerve_vs_all,Bin 10k,0.878913260219342,3
+Fibroblast_Peripheral_Nerve_vs_all,Bin 10k,0.921036889332004,4
+Fibroblast_Peripheral_Nerve_vs_all,Bin 30k,0.8462879920279023,0
+Fibroblast_Peripheral_Nerve_vs_all,Bin 30k,0.8643818544366898,1
+Fibroblast_Peripheral_Nerve_vs_all,Bin 30k,0.843344965104686,2
+Fibroblast_Peripheral_Nerve_vs_all,Bin 30k,0.8833000997008975,3
+Fibroblast_Peripheral_Nerve_vs_all,Bin 30k,0.8490528414755734,4
+Fibroblast_Peripheral_Nerve_vs_all,Bin 100k,0.8152715495764824,0
+Fibroblast_Peripheral_Nerve_vs_all,Bin 100k,0.8106430707876371,1
+Fibroblast_Peripheral_Nerve_vs_all,Bin 100k,0.7773429710867398,2
+Fibroblast_Peripheral_Nerve_vs_all,Bin 100k,0.7626370887337985,3
+Fibroblast_Peripheral_Nerve_vs_all,Bin 100k,0.7483549351944168,4
+Fibroblast_Peripheral_Nerve_vs_all,Bin 300k,0.7199551569506726,0
+Fibroblast_Peripheral_Nerve_vs_all,Bin 300k,0.6935942173479561,1
+Fibroblast_Peripheral_Nerve_vs_all,Bin 300k,0.696111665004985,2
+Fibroblast_Peripheral_Nerve_vs_all,Bin 300k,0.68018444666002,3
+Fibroblast_Peripheral_Nerve_vs_all,Bin 300k,0.5581256231306082,4
+Fibroblast_Sk_Muscle_Associated_vs_all,Embedding,0.9237169905331339,0
+Fibroblast_Sk_Muscle_Associated_vs_all,Embedding,0.8996510468594217,1
+Fibroblast_Sk_Muscle_Associated_vs_all,Embedding,0.9268195413758724,2
+Fibroblast_Sk_Muscle_Associated_vs_all,Embedding,0.9106679960119641,3
+Fibroblast_Sk_Muscle_Associated_vs_all,Embedding,0.9416749750747757,4
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 10k,0.9363726955655206,0
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 10k,0.9542622133599201,1
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 10k,0.9450149551345962,2
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 10k,0.9569790628115653,3
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 10k,0.9465603190428713,4
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 30k,0.8696063776781267,0
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 30k,0.8941924227318045,1
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 30k,0.889456630109671,2
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 30k,0.9365653040877367,3
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 30k,0.9274925224327019,4
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 100k,0.7782760338814151,0
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 100k,0.6826769690927218,1
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 100k,0.7931704885343968,2
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 100k,0.8136091724825524,3
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 100k,0.7730309072781656,4
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 300k,0.7340558046836074,0
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 300k,0.6533150548354935,1
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 300k,0.6941674975074775,2
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 300k,0.653938185443669,3
+Fibroblast_Sk_Muscle_Associated_vs_all,Bin 300k,0.6897308075772681,4
+Foveolar_Cell_vs_all,Embedding,0.9698056801195815,0
+Foveolar_Cell_vs_all,Embedding,0.9762961116650049,1
+Foveolar_Cell_vs_all,Embedding,0.9561814556331008,2
+Foveolar_Cell_vs_all,Embedding,0.960518444666002,3
+Foveolar_Cell_vs_all,Embedding,0.9580009970089731,4
+Foveolar_Cell_vs_all,Bin 10k,0.9084703537618335,0
+Foveolar_Cell_vs_all,Bin 10k,0.8682452642073779,1
+Foveolar_Cell_vs_all,Bin 10k,0.8819042871385843,2
+Foveolar_Cell_vs_all,Bin 10k,0.8610667996011964,3
+Foveolar_Cell_vs_all,Bin 10k,0.906530408773679,4
+Foveolar_Cell_vs_all,Bin 30k,0.9051320378674639,0
+Foveolar_Cell_vs_all,Bin 30k,0.8837238285144566,1
+Foveolar_Cell_vs_all,Bin 30k,0.871036889332004,2
+Foveolar_Cell_vs_all,Bin 30k,0.8359670987038883,3
+Foveolar_Cell_vs_all,Bin 30k,0.8939182452642074,4
+Foveolar_Cell_vs_all,Bin 100k,0.7556801195814649,0
+Foveolar_Cell_vs_all,Bin 100k,0.7848454636091724,1
+Foveolar_Cell_vs_all,Bin 100k,0.8129361914257228,2
+Foveolar_Cell_vs_all,Bin 100k,0.6848205383848454,3
+Foveolar_Cell_vs_all,Bin 100k,0.7293120638085744,4
+Foveolar_Cell_vs_all,Bin 300k,0.7446686596910812,0
+Foveolar_Cell_vs_all,Bin 300k,0.7290628115653041,1
+Foveolar_Cell_vs_all,Bin 300k,0.8278414755732801,2
+Foveolar_Cell_vs_all,Bin 300k,0.7610917248255236,3
+Foveolar_Cell_vs_all,Bin 300k,0.7497507477567298,4
+Gastric_Neuroendocrine_Cell_vs_all,Embedding,0.9922521175884405,0
+Gastric_Neuroendocrine_Cell_vs_all,Embedding,0.961814556331007,1
+Gastric_Neuroendocrine_Cell_vs_all,Embedding,0.9966350947158524,2
+Gastric_Neuroendocrine_Cell_vs_all,Embedding,0.9685692921236291,3
+Gastric_Neuroendocrine_Cell_vs_all,Embedding,0.9848454636091725,4
+Gastric_Neuroendocrine_Cell_vs_all,Bin 10k,0.9778525161933234,0
+Gastric_Neuroendocrine_Cell_vs_all,Bin 10k,0.9315553339980059,1
+Gastric_Neuroendocrine_Cell_vs_all,Bin 10k,0.9582751744765703,2
+Gastric_Neuroendocrine_Cell_vs_all,Bin 10k,0.904112662013958,3
+Gastric_Neuroendocrine_Cell_vs_all,Bin 10k,0.9396311066799601,4
+Gastric_Neuroendocrine_Cell_vs_all,Bin 30k,0.923692077727952,0
+Gastric_Neuroendocrine_Cell_vs_all,Bin 30k,0.9331754735792623,1
+Gastric_Neuroendocrine_Cell_vs_all,Bin 30k,0.9363409770687936,2
+Gastric_Neuroendocrine_Cell_vs_all,Bin 30k,0.8478564307078764,3
+Gastric_Neuroendocrine_Cell_vs_all,Bin 30k,0.9014705882352941,4
+Gastric_Neuroendocrine_Cell_vs_all,Bin 100k,0.9122820129546586,0
+Gastric_Neuroendocrine_Cell_vs_all,Bin 100k,0.8808574277168494,1
+Gastric_Neuroendocrine_Cell_vs_all,Bin 100k,0.8646061814556332,2
+Gastric_Neuroendocrine_Cell_vs_all,Bin 100k,0.8226071784646062,3
+Gastric_Neuroendocrine_Cell_vs_all,Bin 100k,0.8443170488534397,4
+Gastric_Neuroendocrine_Cell_vs_all,Bin 300k,0.8187593423019432,0
+Gastric_Neuroendocrine_Cell_vs_all,Bin 300k,0.7330009970089731,1
+Gastric_Neuroendocrine_Cell_vs_all,Bin 300k,0.8345463609172482,2
+Gastric_Neuroendocrine_Cell_vs_all,Bin 300k,0.7903040877367896,3
+Gastric_Neuroendocrine_Cell_vs_all,Bin 300k,0.8182951146560318,4
+Granular_Epidermal_Skin_vs_all,Embedding,0.8846038863976085,0
+Granular_Epidermal_Skin_vs_all,Embedding,0.8759471585244267,1
+Granular_Epidermal_Skin_vs_all,Embedding,0.8976570289132602,2
+Granular_Epidermal_Skin_vs_all,Embedding,0.872432701894317,3
+Granular_Epidermal_Skin_vs_all,Embedding,0.9363659022931206,4
+Granular_Epidermal_Skin_vs_all,Bin 10k,0.9049576482311908,0
+Granular_Epidermal_Skin_vs_all,Bin 10k,0.932901296111665,1
+Granular_Epidermal_Skin_vs_all,Bin 10k,0.9345214356929212,2
+Granular_Epidermal_Skin_vs_all,Bin 10k,0.9157028913260219,3
+Granular_Epidermal_Skin_vs_all,Bin 10k,0.9127367896311067,4
+Granular_Epidermal_Skin_vs_all,Bin 30k,0.8567015445939212,0
+Granular_Epidermal_Skin_vs_all,Bin 30k,0.897382851445663,1
+Granular_Epidermal_Skin_vs_all,Bin 30k,0.9222582253240279,2
+Granular_Epidermal_Skin_vs_all,Bin 30k,0.8542123629112662,3
+Granular_Epidermal_Skin_vs_all,Bin 30k,0.8706380857427717,4
+Granular_Epidermal_Skin_vs_all,Bin 100k,0.7948181365221725,0
+Granular_Epidermal_Skin_vs_all,Bin 100k,0.7906779661016949,1
+Granular_Epidermal_Skin_vs_all,Bin 100k,0.8516450648055832,2
+Granular_Epidermal_Skin_vs_all,Bin 100k,0.7329511465603191,3
+Granular_Epidermal_Skin_vs_all,Bin 100k,0.8207876370887338,4
+Granular_Epidermal_Skin_vs_all,Bin 300k,0.7282262082710513,0
+Granular_Epidermal_Skin_vs_all,Bin 300k,0.7235792622133599,1
+Granular_Epidermal_Skin_vs_all,Bin 300k,0.7528414755732802,2
+Granular_Epidermal_Skin_vs_all,Bin 300k,0.743320039880359,3
+Granular_Epidermal_Skin_vs_all,Bin 300k,0.7454885343968096,4
+Hepatocyte_vs_all,Embedding,0.9993771798704534,0
+Hepatocyte_vs_all,Embedding,0.9989780658025923,1
+Hepatocyte_vs_all,Embedding,0.9975573280159522,2
+Hepatocyte_vs_all,Embedding,0.9985792622133599,3
+Hepatocyte_vs_all,Embedding,0.9992273180458624,4
+Hepatocyte_vs_all,Bin 10k,0.9850274040857001,0
+Hepatocyte_vs_all,Bin 10k,0.997357926221336,1
+Hepatocyte_vs_all,Bin 10k,0.9934695912263211,2
+Hepatocyte_vs_all,Bin 10k,0.9958873379860419,3
+Hepatocyte_vs_all,Bin 10k,0.9890827517447657,4
+Hepatocyte_vs_all,Bin 30k,0.9630044843049327,0
+Hepatocyte_vs_all,Bin 30k,0.968369890329013,1
+Hepatocyte_vs_all,Bin 30k,0.9874875373878365,2
+Hepatocyte_vs_all,Bin 30k,0.9904287138584247,3
+Hepatocyte_vs_all,Bin 30k,0.9416749750747757,4
+Hepatocyte_vs_all,Bin 100k,0.8665171898355755,0
+Hepatocyte_vs_all,Bin 100k,0.907876370887338,1
+Hepatocyte_vs_all,Bin 100k,0.9021186440677966,2
+Hepatocyte_vs_all,Bin 100k,0.906505483549352,3
+Hepatocyte_vs_all,Bin 100k,0.8368394815553339,4
+Hepatocyte_vs_all,Bin 300k,0.7976831091180867,0
+Hepatocyte_vs_all,Bin 300k,0.7933200398803589,1
+Hepatocyte_vs_all,Bin 300k,0.7668993020937188,2
+Hepatocyte_vs_all,Bin 300k,0.8291625124626122,3
+Hepatocyte_vs_all,Bin 300k,0.7086739780658025,4
+Keratinocyte_1_vs_all,Embedding,0.944718485301445,0
+Keratinocyte_1_vs_all,Embedding,0.9413509471585244,1
+Keratinocyte_1_vs_all,Embedding,0.918444666001994,2
+Keratinocyte_1_vs_all,Embedding,0.9080757726819542,3
+Keratinocyte_1_vs_all,Embedding,0.9299351944167498,4
+Keratinocyte_1_vs_all,Bin 10k,0.8650971599402093,0
+Keratinocyte_1_vs_all,Bin 10k,0.8915254237288136,1
+Keratinocyte_1_vs_all,Bin 10k,0.8718344965104685,2
+Keratinocyte_1_vs_all,Bin 10k,0.8478564307078764,3
+Keratinocyte_1_vs_all,Bin 10k,0.9229561316051844,4
+Keratinocyte_1_vs_all,Bin 30k,0.8837319382162432,0
+Keratinocyte_1_vs_all,Bin 30k,0.8484546360917248,1
+Keratinocyte_1_vs_all,Bin 30k,0.8560069790628115,2
+Keratinocyte_1_vs_all,Bin 30k,0.8242273180458625,3
+Keratinocyte_1_vs_all,Bin 30k,0.8794865403788633,4
+Keratinocyte_1_vs_all,Bin 100k,0.7482561036372696,0
+Keratinocyte_1_vs_all,Bin 100k,0.8005234297108674,1
+Keratinocyte_1_vs_all,Bin 100k,0.7802093718843469,2
+Keratinocyte_1_vs_all,Bin 100k,0.7536889332003988,3
+Keratinocyte_1_vs_all,Bin 100k,0.7811066799601196,4
+Keratinocyte_1_vs_all,Bin 300k,0.784130543099153,0
+Keratinocyte_1_vs_all,Bin 300k,0.7597457627118644,1
+Keratinocyte_1_vs_all,Bin 300k,0.7739282153539382,2
+Keratinocyte_1_vs_all,Bin 300k,0.6791126620139581,3
+Keratinocyte_1_vs_all,Bin 300k,0.6819790628115654,4
+Keratinocyte_2_vs_all,Embedding,0.9895366218236173,0
+Keratinocyte_2_vs_all,Embedding,0.9794366899302094,1
+Keratinocyte_2_vs_all,Embedding,0.985593220338983,2
+Keratinocyte_2_vs_all,Embedding,0.98821036889332,3
+Keratinocyte_2_vs_all,Embedding,0.9932951146560319,4
+Keratinocyte_2_vs_all,Bin 10k,0.9343298455406079,0
+Keratinocyte_2_vs_all,Bin 10k,0.9471086739780658,1
+Keratinocyte_2_vs_all,Bin 10k,0.9422981056829511,2
+Keratinocyte_2_vs_all,Bin 10k,0.9568295114656032,3
+Keratinocyte_2_vs_all,Bin 10k,0.9822283150548355,4
+Keratinocyte_2_vs_all,Bin 30k,0.8850523168908819,0
+Keratinocyte_2_vs_all,Bin 30k,0.930259222333001,1
+Keratinocyte_2_vs_all,Bin 30k,0.9273180458624127,2
+Keratinocyte_2_vs_all,Bin 30k,0.9296610169491526,3
+Keratinocyte_2_vs_all,Bin 30k,0.9556829511465602,4
+Keratinocyte_2_vs_all,Bin 100k,0.83756851021425,0
+Keratinocyte_2_vs_all,Bin 100k,0.9028664007976072,1
+Keratinocyte_2_vs_all,Bin 100k,0.8913260219341974,2
+Keratinocyte_2_vs_all,Bin 100k,0.8706630109670986,3
+Keratinocyte_2_vs_all,Bin 100k,0.8776919242273181,4
+Keratinocyte_2_vs_all,Bin 300k,0.818609865470852,0
+Keratinocyte_2_vs_all,Bin 300k,0.8130857427716849,1
+Keratinocyte_2_vs_all,Bin 300k,0.8417746759720837,2
+Keratinocyte_2_vs_all,Bin 300k,0.8294616151545364,3
+Keratinocyte_2_vs_all,Bin 300k,0.8508973080757727,4
+Luteal_Cell_Ovarian_vs_all,Embedding,0.9550074738415546,0
+Luteal_Cell_Ovarian_vs_all,Embedding,0.9811565304087737,1
+Luteal_Cell_Ovarian_vs_all,Embedding,0.9689182452642073,2
+Luteal_Cell_Ovarian_vs_all,Embedding,0.940677966101695,3
+Luteal_Cell_Ovarian_vs_all,Embedding,0.9728315054835492,4
+Luteal_Cell_Ovarian_vs_all,Bin 10k,0.9070503238664673,0
+Luteal_Cell_Ovarian_vs_all,Bin 10k,0.9135842472582253,1
+Luteal_Cell_Ovarian_vs_all,Bin 10k,0.8921734795613161,2
+Luteal_Cell_Ovarian_vs_all,Bin 10k,0.9011465603190429,3
+Luteal_Cell_Ovarian_vs_all,Bin 10k,0.915777666999003,4
+Luteal_Cell_Ovarian_vs_all,Bin 30k,0.8692825112107623,0
+Luteal_Cell_Ovarian_vs_all,Bin 30k,0.8730309072781656,1
+Luteal_Cell_Ovarian_vs_all,Bin 30k,0.9148055832502492,2
+Luteal_Cell_Ovarian_vs_all,Bin 30k,0.8934945164506481,3
+Luteal_Cell_Ovarian_vs_all,Bin 30k,0.8973080757726819,4
+Luteal_Cell_Ovarian_vs_all,Bin 100k,0.7892127553562531,0
+Luteal_Cell_Ovarian_vs_all,Bin 100k,0.8013459621136589,1
+Luteal_Cell_Ovarian_vs_all,Bin 100k,0.8086989032901296,2
+Luteal_Cell_Ovarian_vs_all,Bin 100k,0.8712113659022931,3
+Luteal_Cell_Ovarian_vs_all,Bin 100k,0.761864406779661,4
+Luteal_Cell_Ovarian_vs_all,Bin 300k,0.6477827603388141,0
+Luteal_Cell_Ovarian_vs_all,Bin 300k,0.7178215353938185,1
+Luteal_Cell_Ovarian_vs_all,Bin 300k,0.7348953140578265,2
+Luteal_Cell_Ovarian_vs_all,Bin 300k,0.6246759720837487,3
+Luteal_Cell_Ovarian_vs_all,Bin 300k,0.6114905284147558,4
+Lymphatic_Endothelial_Cell_vs_all,Embedding,0.9214000996512208,0
+Lymphatic_Endothelial_Cell_vs_all,Embedding,0.84740777666999,1
+Lymphatic_Endothelial_Cell_vs_all,Embedding,0.9147557328015953,2
+Lymphatic_Endothelial_Cell_vs_all,Embedding,0.8169491525423729,3
+Lymphatic_Endothelial_Cell_vs_all,Embedding,0.8711864406779661,4
+Lymphatic_Endothelial_Cell_vs_all,Bin 10k,0.8991529646238167,0
+Lymphatic_Endothelial_Cell_vs_all,Bin 10k,0.8779411764705882,1
+Lymphatic_Endothelial_Cell_vs_all,Bin 10k,0.8848703888334994,2
+Lymphatic_Endothelial_Cell_vs_all,Bin 10k,0.8529910269192423,3
+Lymphatic_Endothelial_Cell_vs_all,Bin 10k,0.8484795613160517,4
+Lymphatic_Endothelial_Cell_vs_all,Bin 30k,0.8133532635774787,0
+Lymphatic_Endothelial_Cell_vs_all,Bin 30k,0.8628364905284147,1
+Lymphatic_Endothelial_Cell_vs_all,Bin 30k,0.8396061814556331,2
+Lymphatic_Endothelial_Cell_vs_all,Bin 30k,0.8571286141575274,3
+Lymphatic_Endothelial_Cell_vs_all,Bin 30k,0.8534147557328015,4
+Lymphatic_Endothelial_Cell_vs_all,Bin 100k,0.8466367713004485,0
+Lymphatic_Endothelial_Cell_vs_all,Bin 100k,0.8231804586241276,1
+Lymphatic_Endothelial_Cell_vs_all,Bin 100k,0.8083250249252243,2
+Lymphatic_Endothelial_Cell_vs_all,Bin 100k,0.7459371884346959,3
+Lymphatic_Endothelial_Cell_vs_all,Bin 100k,0.757751744765703,4
+Lymphatic_Endothelial_Cell_vs_all,Bin 300k,0.6716243148978575,0
+Lymphatic_Endothelial_Cell_vs_all,Bin 300k,0.639481555333998,1
+Lymphatic_Endothelial_Cell_vs_all,Bin 300k,0.6312063808574278,2
+Lymphatic_Endothelial_Cell_vs_all,Bin 300k,0.6244765702891326,3
+Lymphatic_Endothelial_Cell_vs_all,Bin 300k,0.7118893320039881,4
+Macrophage_General_Alveolar_vs_all,Embedding,0.9916292974588939,0
+Macrophage_General_Alveolar_vs_all,Embedding,0.9936440677966102,1
+Macrophage_General_Alveolar_vs_all,Embedding,0.992073778664008,2
+Macrophage_General_Alveolar_vs_all,Embedding,0.9894317048853439,3
+Macrophage_General_Alveolar_vs_all,Embedding,0.9799601196410768,4
+Macrophage_General_Alveolar_vs_all,Bin 10k,0.9123816641753862,0
+Macrophage_General_Alveolar_vs_all,Bin 10k,0.9080259222333,1
+Macrophage_General_Alveolar_vs_all,Bin 10k,0.9201146560319042,2
+Macrophage_General_Alveolar_vs_all,Bin 10k,0.870912263210369,3
+Macrophage_General_Alveolar_vs_all,Bin 10k,0.8701146560319042,4
+Macrophage_General_Alveolar_vs_all,Bin 30k,0.8771549576482311,0
+Macrophage_General_Alveolar_vs_all,Bin 30k,0.9235294117647058,1
+Macrophage_General_Alveolar_vs_all,Bin 30k,0.9206879361914257,2
+Macrophage_General_Alveolar_vs_all,Bin 30k,0.8911764705882352,3
+Macrophage_General_Alveolar_vs_all,Bin 30k,0.8686191425722831,4
+Macrophage_General_Alveolar_vs_all,Bin 100k,0.8283756851021425,0
+Macrophage_General_Alveolar_vs_all,Bin 100k,0.8216600199401796,1
+Macrophage_General_Alveolar_vs_all,Bin 100k,0.8301096709870388,2
+Macrophage_General_Alveolar_vs_all,Bin 100k,0.7837736789631107,3
+Macrophage_General_Alveolar_vs_all,Bin 100k,0.8029162512462612,4
+Macrophage_General_Alveolar_vs_all,Bin 300k,0.8104882909815645,0
+Macrophage_General_Alveolar_vs_all,Bin 300k,0.7507976071784646,1
+Macrophage_General_Alveolar_vs_all,Bin 300k,0.7997756729810568,2
+Macrophage_General_Alveolar_vs_all,Bin 300k,0.7106929212362911,3
+Macrophage_General_Alveolar_vs_all,Bin 300k,0.7575024925224326,4
+Macrophage_General_vs_all,Embedding,0.9153462879920279,0
+Macrophage_General_vs_all,Embedding,0.9327018943170489,1
+Macrophage_General_vs_all,Embedding,0.9546111665004985,2
+Macrophage_General_vs_all,Embedding,0.9704137587238285,3
+Macrophage_General_vs_all,Embedding,0.9318295114656031,4
+Macrophage_General_vs_all,Bin 10k,0.9087194818136523,0
+Macrophage_General_vs_all,Bin 10k,0.9113908275174476,1
+Macrophage_General_vs_all,Bin 10k,0.8513708873379859,2
+Macrophage_General_vs_all,Bin 10k,0.9367647058823528,3
+Macrophage_General_vs_all,Bin 10k,0.8991276171485543,4
+Macrophage_General_vs_all,Bin 30k,0.8559043348281017,0
+Macrophage_General_vs_all,Bin 30k,0.8883599202392821,1
+Macrophage_General_vs_all,Bin 30k,0.8702891326021934,2
+Macrophage_General_vs_all,Bin 30k,0.9405284147557327,3
+Macrophage_General_vs_all,Bin 30k,0.8812811565304088,4
+Macrophage_General_vs_all,Bin 100k,0.7165670154459393,0
+Macrophage_General_vs_all,Bin 100k,0.7384097706879362,1
+Macrophage_General_vs_all,Bin 100k,0.7694167497507478,2
+Macrophage_General_vs_all,Bin 100k,0.7936440677966101,3
+Macrophage_General_vs_all,Bin 100k,0.799925224327019,4
+Macrophage_General_vs_all,Bin 300k,0.7385650224215247,0
+Macrophage_General_vs_all,Bin 300k,0.6739780658025922,1
+Macrophage_General_vs_all,Bin 300k,0.6942921236291126,2
+Macrophage_General_vs_all,Bin 300k,0.6515952143569292,3
+Macrophage_General_vs_all,Bin 300k,0.6208125623130608,4
+Mammary_Epithelial_vs_all,Embedding,0.9654708520179371,0
+Mammary_Epithelial_vs_all,Embedding,0.9641076769690928,1
+Mammary_Epithelial_vs_all,Embedding,0.9653788634097706,2
+Mammary_Epithelial_vs_all,Embedding,0.9521186440677967,3
+Mammary_Epithelial_vs_all,Embedding,0.9575772681954138,4
+Mammary_Epithelial_vs_all,Bin 10k,0.9463876432486298,0
+Mammary_Epithelial_vs_all,Bin 10k,0.9733300099700898,1
+Mammary_Epithelial_vs_all,Bin 10k,0.9448404785643072,2
+Mammary_Epithelial_vs_all,Bin 10k,0.9551096709870388,3
+Mammary_Epithelial_vs_all,Bin 10k,0.9529661016949152,4
+Mammary_Epithelial_vs_all,Bin 30k,0.8785500747384155,0
+Mammary_Epithelial_vs_all,Bin 30k,0.9419242273180457,1
+Mammary_Epithelial_vs_all,Bin 30k,0.9155284147557328,2
+Mammary_Epithelial_vs_all,Bin 30k,0.8548853439680957,3
+Mammary_Epithelial_vs_all,Bin 30k,0.8905533399800598,4
+Mammary_Epithelial_vs_all,Bin 100k,0.8039113104135526,0
+Mammary_Epithelial_vs_all,Bin 100k,0.9167996011964107,1
+Mammary_Epithelial_vs_all,Bin 100k,0.7179710867397806,2
+Mammary_Epithelial_vs_all,Bin 100k,0.8915254237288136,3
+Mammary_Epithelial_vs_all,Bin 100k,0.7878364905284148,4
+Mammary_Epithelial_vs_all,Bin 300k,0.7263328350772297,0
+Mammary_Epithelial_vs_all,Bin 300k,0.8081006979062811,1
+Mammary_Epithelial_vs_all,Bin 300k,0.7449651046859421,2
+Mammary_Epithelial_vs_all,Bin 300k,0.7218843469591226,3
+Mammary_Epithelial_vs_all,Bin 300k,0.6376620139581256,4
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Embedding,0.9491778774289985,0
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Embedding,0.9102941176470587,1
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Embedding,0.9212362911266202,2
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Embedding,0.922357926221336,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Embedding,0.9595214356929213,4
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 10k,0.9563776781265569,0
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 10k,0.9089980059820538,1
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 10k,0.9670239282153539,2
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 10k,0.9396809571286142,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 10k,0.9350448654037886,4
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 30k,0.8749377179870453,0
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 30k,0.8242273180458624,1
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 30k,0.9331256231306081,2
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 30k,0.8984047856430708,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 30k,0.8546859421734795,4
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 100k,0.7883657199800698,0
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 100k,0.7845962113659023,1
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 100k,0.864481555333998,2
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 100k,0.7608424725822531,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 100k,0.8049102691924227,4
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 300k,0.7373692077727951,0
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 300k,0.6531655034895314,1
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 300k,0.7339481555333999,2
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 300k,0.7545862412761715,3
+Mammary_Luminal_Epithelial_Cell_1_vs_all,Bin 300k,0.6900797607178465,4
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Embedding,0.8970104633781764,0
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Embedding,0.8748753738783649,1
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Embedding,0.9071784646061813,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Embedding,0.8824526420737786,3
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Embedding,0.8623130608175473,4
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 10k,0.8192825112107623,0
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 10k,0.744690927218345,1
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 10k,0.799950149551346,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 10k,0.8160269192422731,3
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 10k,0.7940179461615154,4
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 30k,0.7235675137020428,0
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 30k,0.7359421734795613,1
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 30k,0.7704636091724826,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 30k,0.7367148554336989,3
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 30k,0.6673230309072782,4
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 100k,0.7499003487792726,0
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 100k,0.6832253240279162,1
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 100k,0.7404037886340977,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 100k,0.728963110667996,3
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 100k,0.6587986041874376,4
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 300k,0.721699053313403,0
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 300k,0.6955882352941176,1
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 300k,0.7226071784646062,2
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 300k,0.6656281156530408,3
+Mammary_Luminal_Epithelial_Cell_2_vs_all,Bin 300k,0.5962612163509472,4
+Mast_Cell_vs_all,Embedding,0.9463129048330843,0
+Mast_Cell_vs_all,Embedding,0.9427966101694916,1
+Mast_Cell_vs_all,Embedding,0.9279661016949152,2
+Mast_Cell_vs_all,Embedding,0.8577268195413759,3
+Mast_Cell_vs_all,Embedding,0.955309072781655,4
+Mast_Cell_vs_all,Bin 10k,0.9518435475834579,0
+Mast_Cell_vs_all,Bin 10k,0.9800348953140579,1
+Mast_Cell_vs_all,Bin 10k,0.9560817547357926,2
+Mast_Cell_vs_all,Bin 10k,0.9263459621136589,3
+Mast_Cell_vs_all,Bin 10k,0.948629112662014,4
+Mast_Cell_vs_all,Bin 30k,0.9225460886895864,0
+Mast_Cell_vs_all,Bin 30k,0.9823280159521436,1
+Mast_Cell_vs_all,Bin 30k,0.9590977068793619,2
+Mast_Cell_vs_all,Bin 30k,0.9284396809571286,3
+Mast_Cell_vs_all,Bin 30k,0.9708624127617149,4
+Mast_Cell_vs_all,Bin 100k,0.8081464872944694,0
+Mast_Cell_vs_all,Bin 100k,0.8628364905284148,1
+Mast_Cell_vs_all,Bin 100k,0.8226570289132602,2
+Mast_Cell_vs_all,Bin 100k,0.871036889332004,3
+Mast_Cell_vs_all,Bin 100k,0.8865653040877368,4
+Mast_Cell_vs_all,Bin 300k,0.7834080717488789,0
+Mast_Cell_vs_all,Bin 300k,0.8299351944167498,1
+Mast_Cell_vs_all,Bin 300k,0.7883599202392821,2
+Mast_Cell_vs_all,Bin 300k,0.7365154536390828,3
+Mast_Cell_vs_all,Bin 300k,0.7799351944167497,4
+Melanocyte_vs_all,Embedding,0.9227453911310413,0
+Melanocyte_vs_all,Embedding,0.8806331006979062,1
+Melanocyte_vs_all,Embedding,0.9342971086739781,2
+Melanocyte_vs_all,Embedding,0.9731056829511466,3
+Melanocyte_vs_all,Embedding,0.9259222333000997,4
+Melanocyte_vs_all,Bin 10k,0.9566018933731938,0
+Melanocyte_vs_all,Bin 10k,0.9233798604187438,1
+Melanocyte_vs_all,Bin 10k,0.9295613160518444,2
+Melanocyte_vs_all,Bin 10k,0.9584745762711864,3
+Melanocyte_vs_all,Bin 10k,0.9416001994017946,4
+Melanocyte_vs_all,Bin 30k,0.8972097658196312,0
+Melanocyte_vs_all,Bin 30k,0.8277916251246261,1
+Melanocyte_vs_all,Bin 30k,0.9010468594217348,2
+Melanocyte_vs_all,Bin 30k,0.9676221335992023,3
+Melanocyte_vs_all,Bin 30k,0.9107178464606183,4
+Melanocyte_vs_all,Bin 100k,0.7222222222222223,0
+Melanocyte_vs_all,Bin 100k,0.6682203389830509,1
+Melanocyte_vs_all,Bin 100k,0.8290378863409771,2
+Melanocyte_vs_all,Bin 100k,0.8547108673978066,3
+Melanocyte_vs_all,Bin 100k,0.8357427716849452,4
+Melanocyte_vs_all,Bin 300k,0.6312904833084205,0
+Melanocyte_vs_all,Bin 300k,0.5502492522432701,1
+Melanocyte_vs_all,Bin 300k,0.6472083748753739,2
+Melanocyte_vs_all,Bin 300k,0.5850697906281157,3
+Melanocyte_vs_all,Bin 300k,0.6336490528414755,4
+Memory_B_Cell_vs_all,Embedding,0.9582710513203787,0
+Memory_B_Cell_vs_all,Embedding,0.9651046859421735,1
+Memory_B_Cell_vs_all,Embedding,0.9704137587238285,2
+Memory_B_Cell_vs_all,Embedding,0.9375623130608175,3
+Memory_B_Cell_vs_all,Embedding,0.9562063808574277,4
+Memory_B_Cell_vs_all,Bin 10k,0.9493522670652715,0
+Memory_B_Cell_vs_all,Bin 10k,0.9787637088733798,1
+Memory_B_Cell_vs_all,Bin 10k,0.9716101694915255,2
+Memory_B_Cell_vs_all,Bin 10k,0.9756231306081755,3
+Memory_B_Cell_vs_all,Bin 10k,0.9393818544366899,4
+Memory_B_Cell_vs_all,Bin 30k,0.9334828101644245,0
+Memory_B_Cell_vs_all,Bin 30k,0.9613659022931207,1
+Memory_B_Cell_vs_all,Bin 30k,0.9136091724825524,2
+Memory_B_Cell_vs_all,Bin 30k,0.9432951146560318,3
+Memory_B_Cell_vs_all,Bin 30k,0.9257976071784646,4
+Memory_B_Cell_vs_all,Bin 100k,0.8638016940707524,0
+Memory_B_Cell_vs_all,Bin 100k,0.8827268195413759,1
+Memory_B_Cell_vs_all,Bin 100k,0.8536390827517448,2
+Memory_B_Cell_vs_all,Bin 100k,0.8987537387836491,3
+Memory_B_Cell_vs_all,Bin 100k,0.8360169491525423,4
+Memory_B_Cell_vs_all,Bin 300k,0.8552815146985552,0
+Memory_B_Cell_vs_all,Bin 300k,0.8241026919242272,1
+Memory_B_Cell_vs_all,Bin 300k,0.7627866400797608,2
+Memory_B_Cell_vs_all,Bin 300k,0.8535144566301096,3
+Memory_B_Cell_vs_all,Bin 300k,0.8421984047856431,4
+Mesothelial_Cell_vs_all,Embedding,0.9302441454907823,0
+Mesothelial_Cell_vs_all,Embedding,0.9224077766699901,1
+Mesothelial_Cell_vs_all,Embedding,0.9583250249252244,2
+Mesothelial_Cell_vs_all,Embedding,0.9701146560319043,3
+Mesothelial_Cell_vs_all,Embedding,0.932851445663011,4
+Mesothelial_Cell_vs_all,Bin 10k,0.8698555057299452,0
+Mesothelial_Cell_vs_all,Bin 10k,0.8820289132602193,1
+Mesothelial_Cell_vs_all,Bin 10k,0.8835493519441675,2
+Mesothelial_Cell_vs_all,Bin 10k,0.8981555333998006,3
+Mesothelial_Cell_vs_all,Bin 10k,0.9132103688933201,4
+Mesothelial_Cell_vs_all,Bin 30k,0.7771549576482312,0
+Mesothelial_Cell_vs_all,Bin 30k,0.8376121635094715,1
+Mesothelial_Cell_vs_all,Bin 30k,0.8317547357926222,2
+Mesothelial_Cell_vs_all,Bin 30k,0.9233300099700897,3
+Mesothelial_Cell_vs_all,Bin 30k,0.8521684945164507,4
+Mesothelial_Cell_vs_all,Bin 100k,0.782835077229696,0
+Mesothelial_Cell_vs_all,Bin 100k,0.7417746759720838,1
+Mesothelial_Cell_vs_all,Bin 100k,0.7765453639082752,2
+Mesothelial_Cell_vs_all,Bin 100k,0.7978564307078764,3
+Mesothelial_Cell_vs_all,Bin 100k,0.7328265204386839,4
+Mesothelial_Cell_vs_all,Bin 300k,0.7124314897857499,0
+Mesothelial_Cell_vs_all,Bin 300k,0.6625124626121635,1
+Mesothelial_Cell_vs_all,Bin 300k,0.6872881355932203,2
+Mesothelial_Cell_vs_all,Bin 300k,0.7259970089730807,3
+Mesothelial_Cell_vs_all,Bin 300k,0.6446161515453639,4
+Myoepithelial_Skin_vs_all,Embedding,0.9395615346287991,0
+Myoepithelial_Skin_vs_all,Embedding,0.9466849451645065,1
+Myoepithelial_Skin_vs_all,Embedding,0.9447906281156531,2
+Myoepithelial_Skin_vs_all,Embedding,0.952617148554337,3
+Myoepithelial_Skin_vs_all,Embedding,0.9458125623130609,4
+Myoepithelial_Skin_vs_all,Bin 10k,0.9545092177379172,0
+Myoepithelial_Skin_vs_all,Bin 10k,0.9685942173479563,1
+Myoepithelial_Skin_vs_all,Bin 10k,0.9559820538384846,2
+Myoepithelial_Skin_vs_all,Bin 10k,0.9505234297108673,3
+Myoepithelial_Skin_vs_all,Bin 10k,0.9497008973080758,4
+Myoepithelial_Skin_vs_all,Bin 30k,0.9301444942700549,0
+Myoepithelial_Skin_vs_all,Bin 30k,0.9372632103688934,1
+Myoepithelial_Skin_vs_all,Bin 30k,0.9159770687936191,2
+Myoepithelial_Skin_vs_all,Bin 30k,0.859247258225324,3
+Myoepithelial_Skin_vs_all,Bin 30k,0.9427966101694916,4
+Myoepithelial_Skin_vs_all,Bin 100k,0.825734927752865,0
+Myoepithelial_Skin_vs_all,Bin 100k,0.7761216350947158,1
+Myoepithelial_Skin_vs_all,Bin 100k,0.8333748753738784,2
+Myoepithelial_Skin_vs_all,Bin 100k,0.6506729810568296,3
+Myoepithelial_Skin_vs_all,Bin 100k,0.8254985044865404,4
+Myoepithelial_Skin_vs_all,Bin 300k,0.757100149476831,0
+Myoepithelial_Skin_vs_all,Bin 300k,0.8206630109670987,1
+Myoepithelial_Skin_vs_all,Bin 300k,0.7082502492522433,2
+Myoepithelial_Skin_vs_all,Bin 300k,0.7730059820538384,3
+Myoepithelial_Skin_vs_all,Bin 300k,0.7529661016949153,4
+Naive_T_cell_vs_all,Embedding,0.8129048330842052,0
+Naive_T_cell_vs_all,Embedding,0.8647806580259223,1
+Naive_T_cell_vs_all,Embedding,0.8819292123629112,2
+Naive_T_cell_vs_all,Embedding,0.8638334995014956,3
+Naive_T_cell_vs_all,Embedding,0.8136590229312064,4
+Naive_T_cell_vs_all,Bin 10k,0.7275037369207773,0
+Naive_T_cell_vs_all,Bin 10k,0.7468843469591226,1
+Naive_T_cell_vs_all,Bin 10k,0.8012213359920239,2
+Naive_T_cell_vs_all,Bin 10k,0.7956131605184447,3
+Naive_T_cell_vs_all,Bin 10k,0.7345463609172482,4
+Naive_T_cell_vs_all,Bin 30k,0.7018435475834579,0
+Naive_T_cell_vs_all,Bin 30k,0.7029411764705883,1
+Naive_T_cell_vs_all,Bin 30k,0.7089730807577268,2
+Naive_T_cell_vs_all,Bin 30k,0.7569541375872383,3
+Naive_T_cell_vs_all,Bin 30k,0.7479561316051845,4
+Naive_T_cell_vs_all,Bin 100k,0.7150224215246637,0
+Naive_T_cell_vs_all,Bin 100k,0.761739780658026,1
+Naive_T_cell_vs_all,Bin 100k,0.763085742771685,2
+Naive_T_cell_vs_all,Bin 100k,0.7363160518444667,3
+Naive_T_cell_vs_all,Bin 100k,0.7309322033898306,4
+Naive_T_cell_vs_all,Bin 300k,0.564225211758844,0
+Naive_T_cell_vs_all,Bin 300k,0.6483798604187437,1
+Naive_T_cell_vs_all,Bin 300k,0.6456380857427717,2
+Naive_T_cell_vs_all,Bin 300k,0.5636839481555334,3
+Naive_T_cell_vs_all,Bin 300k,0.6951645064805584,4
+Natural_Killer_T_Cell_vs_all,Embedding,0.975909317389138,0
+Natural_Killer_T_Cell_vs_all,Embedding,0.982801595214357,1
+Natural_Killer_T_Cell_vs_all,Embedding,0.9836739780658026,2
+Natural_Killer_T_Cell_vs_all,Embedding,0.9715353938185444,3
+Natural_Killer_T_Cell_vs_all,Embedding,0.9760717846460618,4
+Natural_Killer_T_Cell_vs_all,Bin 10k,0.9408570004982562,0
+Natural_Killer_T_Cell_vs_all,Bin 10k,0.9863908275174476,1
+Natural_Killer_T_Cell_vs_all,Bin 10k,0.9720837487537387,2
+Natural_Killer_T_Cell_vs_all,Bin 10k,0.988160518444666,3
+Natural_Killer_T_Cell_vs_all,Bin 10k,0.972382851445663,4
+Natural_Killer_T_Cell_vs_all,Bin 30k,0.9533632286995515,0
+Natural_Killer_T_Cell_vs_all,Bin 30k,0.964456630109671,1
+Natural_Killer_T_Cell_vs_all,Bin 30k,0.9467597208374876,2
+Natural_Killer_T_Cell_vs_all,Bin 30k,0.9569541375872384,3
+Natural_Killer_T_Cell_vs_all,Bin 30k,0.9393569292123629,4
+Natural_Killer_T_Cell_vs_all,Bin 100k,0.9188839063278526,0
+Natural_Killer_T_Cell_vs_all,Bin 100k,0.8956879361914257,1
+Natural_Killer_T_Cell_vs_all,Bin 100k,0.927691924227318,2
+Natural_Killer_T_Cell_vs_all,Bin 100k,0.8949900299102692,3
+Natural_Killer_T_Cell_vs_all,Bin 100k,0.8900299102691924,4
+Natural_Killer_T_Cell_vs_all,Bin 300k,0.7832585949177877,0
+Natural_Killer_T_Cell_vs_all,Bin 300k,0.882826520438684,1
+Natural_Killer_T_Cell_vs_all,Bin 300k,0.8975822532402792,2
+Natural_Killer_T_Cell_vs_all,Bin 300k,0.8487038883349951,3
+Natural_Killer_T_Cell_vs_all,Bin 300k,0.8412013958125623,4
+Pancreatic_Acinar_Cell_vs_all,Embedding,0.9530891878425511,0
+Pancreatic_Acinar_Cell_vs_all,Embedding,0.988010967098704,1
+Pancreatic_Acinar_Cell_vs_all,Embedding,0.9716350947158524,2
+Pancreatic_Acinar_Cell_vs_all,Embedding,0.9573778664007975,3
+Pancreatic_Acinar_Cell_vs_all,Embedding,0.9646809571286141,4
+Pancreatic_Acinar_Cell_vs_all,Bin 10k,0.9466865969108121,0
+Pancreatic_Acinar_Cell_vs_all,Bin 10k,0.9571286141575275,1
+Pancreatic_Acinar_Cell_vs_all,Bin 10k,0.9358424725822532,2
+Pancreatic_Acinar_Cell_vs_all,Bin 10k,0.9451395812562313,3
+Pancreatic_Acinar_Cell_vs_all,Bin 10k,0.9262961116650049,4
+Pancreatic_Acinar_Cell_vs_all,Bin 30k,0.9289486796213254,0
+Pancreatic_Acinar_Cell_vs_all,Bin 30k,0.9744267198404786,1
+Pancreatic_Acinar_Cell_vs_all,Bin 30k,0.9566799601196411,2
+Pancreatic_Acinar_Cell_vs_all,Bin 30k,0.8898305084745763,3
+Pancreatic_Acinar_Cell_vs_all,Bin 30k,0.9481306081754736,4
+Pancreatic_Acinar_Cell_vs_all,Bin 100k,0.8533881415047334,0
+Pancreatic_Acinar_Cell_vs_all,Bin 100k,0.8556331006979062,1
+Pancreatic_Acinar_Cell_vs_all,Bin 100k,0.8547856430707876,2
+Pancreatic_Acinar_Cell_vs_all,Bin 100k,0.8774925224327019,3
+Pancreatic_Acinar_Cell_vs_all,Bin 100k,0.8972333000997008,4
+Pancreatic_Acinar_Cell_vs_all,Bin 300k,0.8303188839063279,0
+Pancreatic_Acinar_Cell_vs_all,Bin 300k,0.7849950149551347,1
+Pancreatic_Acinar_Cell_vs_all,Bin 300k,0.7719092721834496,2
+Pancreatic_Acinar_Cell_vs_all,Bin 300k,0.8532153539381855,3
+Pancreatic_Acinar_Cell_vs_all,Bin 300k,0.8392323030907278,4
+Pancreatic_Alpha_Cell_1_vs_all,Embedding,0.9961385151968112,0
+Pancreatic_Alpha_Cell_1_vs_all,Embedding,0.9666251246261216,1
+Pancreatic_Alpha_Cell_1_vs_all,Embedding,0.9771934197407777,2
+Pancreatic_Alpha_Cell_1_vs_all,Embedding,0.9935194416749751,3
+Pancreatic_Alpha_Cell_1_vs_all,Embedding,0.9948155533399801,4
+Pancreatic_Alpha_Cell_1_vs_all,Bin 10k,0.9804185351270553,0
+Pancreatic_Alpha_Cell_1_vs_all,Bin 10k,0.9562063808574277,1
+Pancreatic_Alpha_Cell_1_vs_all,Bin 10k,0.9798105682951146,2
+Pancreatic_Alpha_Cell_1_vs_all,Bin 10k,0.9830757726819541,3
+Pancreatic_Alpha_Cell_1_vs_all,Bin 10k,0.9814057826520439,4
+Pancreatic_Alpha_Cell_1_vs_all,Bin 30k,0.9623318385650225,0
+Pancreatic_Alpha_Cell_1_vs_all,Bin 30k,0.9521934197407775,1
+Pancreatic_Alpha_Cell_1_vs_all,Bin 30k,0.9727816550348953,2
+Pancreatic_Alpha_Cell_1_vs_all,Bin 30k,0.9768943170488534,3
+Pancreatic_Alpha_Cell_1_vs_all,Bin 30k,0.9749750747756729,4
+Pancreatic_Alpha_Cell_1_vs_all,Bin 100k,0.9409068261086199,0
+Pancreatic_Alpha_Cell_1_vs_all,Bin 100k,0.9037387836490529,1
+Pancreatic_Alpha_Cell_1_vs_all,Bin 100k,0.9149800598205383,2
+Pancreatic_Alpha_Cell_1_vs_all,Bin 100k,0.9515702891326021,3
+Pancreatic_Alpha_Cell_1_vs_all,Bin 100k,0.9444666001994018,4
+Pancreatic_Alpha_Cell_1_vs_all,Bin 300k,0.8995515695067265,0
+Pancreatic_Alpha_Cell_1_vs_all,Bin 300k,0.8409770687936191,1
+Pancreatic_Alpha_Cell_1_vs_all,Bin 300k,0.8641076769690926,2
+Pancreatic_Alpha_Cell_1_vs_all,Bin 300k,0.9164506480558325,3
+Pancreatic_Alpha_Cell_1_vs_all,Bin 300k,0.9114656031904287,4
+Pancreatic_Alpha_Cell_2_vs_all,Embedding,0.9876930742401595,0
+Pancreatic_Alpha_Cell_2_vs_all,Embedding,0.9918743768693918,1
+Pancreatic_Alpha_Cell_2_vs_all,Embedding,0.9771934197407777,2
+Pancreatic_Alpha_Cell_2_vs_all,Embedding,0.9890079760717847,3
+Pancreatic_Alpha_Cell_2_vs_all,Embedding,0.99456630109671,4
+Pancreatic_Alpha_Cell_2_vs_all,Bin 10k,0.9766068759342301,0
+Pancreatic_Alpha_Cell_2_vs_all,Bin 10k,0.9845962113659024,1
+Pancreatic_Alpha_Cell_2_vs_all,Bin 10k,0.9282652043868395,2
+Pancreatic_Alpha_Cell_2_vs_all,Bin 10k,0.964531405782652,3
+Pancreatic_Alpha_Cell_2_vs_all,Bin 10k,0.9803838484546361,4
+Pancreatic_Alpha_Cell_2_vs_all,Bin 30k,0.9460637767812655,0
+Pancreatic_Alpha_Cell_2_vs_all,Bin 30k,0.977567298105683,1
+Pancreatic_Alpha_Cell_2_vs_all,Bin 30k,0.9255483549351944,2
+Pancreatic_Alpha_Cell_2_vs_all,Bin 30k,0.961689930209372,3
+Pancreatic_Alpha_Cell_2_vs_all,Bin 30k,0.9557577268195414,4
+Pancreatic_Alpha_Cell_2_vs_all,Bin 100k,0.9444942700548082,0
+Pancreatic_Alpha_Cell_2_vs_all,Bin 100k,0.8851196410767697,1
+Pancreatic_Alpha_Cell_2_vs_all,Bin 100k,0.8780159521435692,2
+Pancreatic_Alpha_Cell_2_vs_all,Bin 100k,0.9369890329012962,3
+Pancreatic_Alpha_Cell_2_vs_all,Bin 100k,0.9563808574277168,4
+Pancreatic_Alpha_Cell_2_vs_all,Bin 300k,0.8837070254110613,0
+Pancreatic_Alpha_Cell_2_vs_all,Bin 300k,0.8171236291126619,1
+Pancreatic_Alpha_Cell_2_vs_all,Bin 300k,0.8075772681954139,2
+Pancreatic_Alpha_Cell_2_vs_all,Bin 300k,0.9008973080757727,3
+Pancreatic_Alpha_Cell_2_vs_all,Bin 300k,0.9044865403788634,4
+Pancreatic_Beta_Cell_1_vs_all,Embedding,0.9820876930742402,0
+Pancreatic_Beta_Cell_1_vs_all,Embedding,0.9834745762711865,1
+Pancreatic_Beta_Cell_1_vs_all,Embedding,0.9853439680957128,2
+Pancreatic_Beta_Cell_1_vs_all,Embedding,0.9611166500498504,3
+Pancreatic_Beta_Cell_1_vs_all,Embedding,0.981505483549352,4
+Pancreatic_Beta_Cell_1_vs_all,Bin 10k,0.9568510214250125,0
+Pancreatic_Beta_Cell_1_vs_all,Bin 10k,0.9874875373878366,1
+Pancreatic_Beta_Cell_1_vs_all,Bin 10k,0.9802342971086739,2
+Pancreatic_Beta_Cell_1_vs_all,Bin 10k,0.9926969092721835,3
+Pancreatic_Beta_Cell_1_vs_all,Bin 10k,0.9793369890329012,4
+Pancreatic_Beta_Cell_1_vs_all,Bin 30k,0.9328849028400598,0
+Pancreatic_Beta_Cell_1_vs_all,Bin 30k,0.98821036889332,1
+Pancreatic_Beta_Cell_1_vs_all,Bin 30k,0.9682701894317048,2
+Pancreatic_Beta_Cell_1_vs_all,Bin 30k,0.9842223330009969,3
+Pancreatic_Beta_Cell_1_vs_all,Bin 30k,0.9795613160518445,4
+Pancreatic_Beta_Cell_1_vs_all,Bin 100k,0.9302441454907823,0
+Pancreatic_Beta_Cell_1_vs_all,Bin 100k,0.9201395812562313,1
+Pancreatic_Beta_Cell_1_vs_all,Bin 100k,0.9443419740777668,2
+Pancreatic_Beta_Cell_1_vs_all,Bin 100k,0.9693170488534397,3
+Pancreatic_Beta_Cell_1_vs_all,Bin 100k,0.940727816550349,4
+Pancreatic_Beta_Cell_1_vs_all,Bin 300k,0.8285749875435974,0
+Pancreatic_Beta_Cell_1_vs_all,Bin 300k,0.9303589232303091,1
+Pancreatic_Beta_Cell_1_vs_all,Bin 300k,0.9122133599202392,2
+Pancreatic_Beta_Cell_1_vs_all,Bin 300k,0.9057078763708875,3
+Pancreatic_Beta_Cell_1_vs_all,Bin 300k,0.9010468594217348,4
+Pancreatic_Beta_Cell_2_vs_all,Embedding,0.9966367713004484,0
+Pancreatic_Beta_Cell_2_vs_all,Embedding,0.9927966101694915,1
+Pancreatic_Beta_Cell_2_vs_all,Embedding,0.9830259222333002,2
+Pancreatic_Beta_Cell_2_vs_all,Embedding,0.9945164506480558,3
+Pancreatic_Beta_Cell_2_vs_all,Embedding,0.9950398803589232,4
+Pancreatic_Beta_Cell_2_vs_all,Bin 10k,0.9798455406078725,0
+Pancreatic_Beta_Cell_2_vs_all,Bin 10k,0.9834745762711864,1
+Pancreatic_Beta_Cell_2_vs_all,Bin 10k,0.9727318045862413,2
+Pancreatic_Beta_Cell_2_vs_all,Bin 10k,0.9755234297108675,3
+Pancreatic_Beta_Cell_2_vs_all,Bin 10k,0.9787138584247259,4
+Pancreatic_Beta_Cell_2_vs_all,Bin 30k,0.9733432984554061,0
+Pancreatic_Beta_Cell_2_vs_all,Bin 30k,0.9876620139581257,1
+Pancreatic_Beta_Cell_2_vs_all,Bin 30k,0.969765702891326,2
+Pancreatic_Beta_Cell_2_vs_all,Bin 30k,0.9658524426719841,3
+Pancreatic_Beta_Cell_2_vs_all,Bin 30k,0.9800348953140579,4
+Pancreatic_Beta_Cell_2_vs_all,Bin 100k,0.8917538614848032,0
+Pancreatic_Beta_Cell_2_vs_all,Bin 100k,0.956530408773679,1
+Pancreatic_Beta_Cell_2_vs_all,Bin 100k,0.9446909272183449,2
+Pancreatic_Beta_Cell_2_vs_all,Bin 100k,0.9344715852442671,3
+Pancreatic_Beta_Cell_2_vs_all,Bin 100k,0.9706380857427717,4
+Pancreatic_Beta_Cell_2_vs_all,Bin 300k,0.8309417040358744,0
+Pancreatic_Beta_Cell_2_vs_all,Bin 300k,0.9278414755732801,1
+Pancreatic_Beta_Cell_2_vs_all,Bin 300k,0.8956630109670985,2
+Pancreatic_Beta_Cell_2_vs_all,Bin 300k,0.8778165503489531,3
+Pancreatic_Beta_Cell_2_vs_all,Bin 300k,0.9124626121635094,4
+Pancreatic_Delta_Gamma_cell_vs_all,Embedding,0.9718734429496761,0
+Pancreatic_Delta_Gamma_cell_vs_all,Embedding,0.9480309072781654,1
+Pancreatic_Delta_Gamma_cell_vs_all,Embedding,0.9925722831505484,2
+Pancreatic_Delta_Gamma_cell_vs_all,Embedding,0.957901296111665,3
+Pancreatic_Delta_Gamma_cell_vs_all,Embedding,0.9824775672981058,4
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 10k,0.9220976581963128,0
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 10k,0.9512961116650049,1
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 10k,0.9711365902293121,2
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 10k,0.9338235294117647,3
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 10k,0.9756231306081755,4
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 30k,0.9118335824613852,0
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 30k,0.9399800598205383,1
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 30k,0.9477567298105682,2
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 30k,0.9037886340977068,3
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 30k,0.957951146560319,4
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 100k,0.909118086696562,0
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 100k,0.9347706879361914,1
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 100k,0.9436689930209371,2
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 100k,0.898604187437687,3
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 100k,0.9446660019940178,4
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 300k,0.8670154459392128,0
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 300k,0.8661764705882353,1
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 300k,0.8620887337986042,2
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 300k,0.8136340977068793,3
+Pancreatic_Delta_Gamma_cell_vs_all,Bin 300k,0.9095214356929212,4
+Paneth_Cell_vs_all,Embedding,0.9427752864972596,0
+Paneth_Cell_vs_all,Embedding,0.9358175473579263,1
+Paneth_Cell_vs_all,Embedding,0.9551096709870388,2
+Paneth_Cell_vs_all,Embedding,0.9609920239282155,3
+Paneth_Cell_vs_all,Embedding,0.8854187437686939,4
+Paneth_Cell_vs_all,Bin 10k,0.9477578475336323,0
+Paneth_Cell_vs_all,Bin 10k,0.8806081754735793,1
+Paneth_Cell_vs_all,Bin 10k,0.9661266201395812,2
+Paneth_Cell_vs_all,Bin 10k,0.9246261216350946,3
+Paneth_Cell_vs_all,Bin 10k,0.9356679960119642,4
+Paneth_Cell_vs_all,Bin 30k,0.8751619332336822,0
+Paneth_Cell_vs_all,Bin 30k,0.8657278165503489,1
+Paneth_Cell_vs_all,Bin 30k,0.9074277168494516,2
+Paneth_Cell_vs_all,Bin 30k,0.8485044865403788,3
+Paneth_Cell_vs_all,Bin 30k,0.8706131605184446,4
+Paneth_Cell_vs_all,Bin 100k,0.756028898854011,0
+Paneth_Cell_vs_all,Bin 100k,0.802642073778664,1
+Paneth_Cell_vs_all,Bin 100k,0.8022183449651047,2
+Paneth_Cell_vs_all,Bin 100k,0.7633848454636092,3
+Paneth_Cell_vs_all,Bin 100k,0.8024925224327019,4
+Paneth_Cell_vs_all,Bin 300k,0.6408570004982561,0
+Paneth_Cell_vs_all,Bin 300k,0.7267198404785643,1
+Paneth_Cell_vs_all,Bin 300k,0.7810319042871386,2
+Paneth_Cell_vs_all,Bin 300k,0.5772931206380858,3
+Paneth_Cell_vs_all,Bin 300k,0.686839481555334,4
+Parietal_Cell_vs_all,Embedding,0.9874937717987046,0
+Parietal_Cell_vs_all,Embedding,0.9948155533399801,1
+Parietal_Cell_vs_all,Embedding,0.9890578265204386,2
+Parietal_Cell_vs_all,Embedding,0.9930458624127618,3
+Parietal_Cell_vs_all,Embedding,0.9793120638085742,4
+Parietal_Cell_vs_all,Bin 10k,0.9565520677628301,0
+Parietal_Cell_vs_all,Bin 10k,0.9926719840478564,1
+Parietal_Cell_vs_all,Bin 10k,0.9912013958125623,2
+Parietal_Cell_vs_all,Bin 10k,0.9835742771684944,3
+Parietal_Cell_vs_all,Bin 10k,0.9940179461615154,4
+Parietal_Cell_vs_all,Bin 30k,0.9287493771798704,0
+Parietal_Cell_vs_all,Bin 30k,0.9520687936191425,1
+Parietal_Cell_vs_all,Bin 30k,0.9688434695912262,2
+Parietal_Cell_vs_all,Bin 30k,0.9451395812562313,3
+Parietal_Cell_vs_all,Bin 30k,0.9766450648055833,4
+Parietal_Cell_vs_all,Bin 100k,0.8998754359740906,0
+Parietal_Cell_vs_all,Bin 100k,0.926345962113659,1
+Parietal_Cell_vs_all,Bin 100k,0.9174476570289132,2
+Parietal_Cell_vs_all,Bin 100k,0.9066550348953142,3
+Parietal_Cell_vs_all,Bin 100k,0.8822033898305085,4
+Parietal_Cell_vs_all,Bin 300k,0.7784005979073244,0
+Parietal_Cell_vs_all,Bin 300k,0.7676470588235293,1
+Parietal_Cell_vs_all,Bin 300k,0.835418743768694,2
+Parietal_Cell_vs_all,Bin 300k,0.8365403788634098,3
+Parietal_Cell_vs_all,Bin 300k,0.8577018943170489,4
+Pericyte_Esophageal_Muscularis_vs_all,Embedding,0.9470602889885401,0
+Pericyte_Esophageal_Muscularis_vs_all,Embedding,0.9565802592223329,1
+Pericyte_Esophageal_Muscularis_vs_all,Embedding,0.9474077766699901,2
+Pericyte_Esophageal_Muscularis_vs_all,Embedding,0.9666749750747756,3
+Pericyte_Esophageal_Muscularis_vs_all,Embedding,0.9545862412761715,4
+Pericyte_Esophageal_Muscularis_vs_all,Bin 10k,0.95548081714001,0
+Pericyte_Esophageal_Muscularis_vs_all,Bin 10k,0.9513459621136591,1
+Pericyte_Esophageal_Muscularis_vs_all,Bin 10k,0.9541625124626121,2
+Pericyte_Esophageal_Muscularis_vs_all,Bin 10k,0.9701146560319043,3
+Pericyte_Esophageal_Muscularis_vs_all,Bin 10k,0.9689680957128615,4
+Pericyte_Esophageal_Muscularis_vs_all,Bin 30k,0.9533383158943697,0
+Pericyte_Esophageal_Muscularis_vs_all,Bin 30k,0.9167248255234297,1
+Pericyte_Esophageal_Muscularis_vs_all,Bin 30k,0.898554336989033,2
+Pericyte_Esophageal_Muscularis_vs_all,Bin 30k,0.9215852442671983,3
+Pericyte_Esophageal_Muscularis_vs_all,Bin 30k,0.9149302093718843,4
+Pericyte_Esophageal_Muscularis_vs_all,Bin 100k,0.8724464374688591,0
+Pericyte_Esophageal_Muscularis_vs_all,Bin 100k,0.881679960119641,1
+Pericyte_Esophageal_Muscularis_vs_all,Bin 100k,0.770962113659023,2
+Pericyte_Esophageal_Muscularis_vs_all,Bin 100k,0.8494017946161515,3
+Pericyte_Esophageal_Muscularis_vs_all,Bin 100k,0.8485044865403788,4
+Pericyte_Esophageal_Muscularis_vs_all,Bin 300k,0.7007473841554559,0
+Pericyte_Esophageal_Muscularis_vs_all,Bin 300k,0.7666001994017947,1
+Pericyte_Esophageal_Muscularis_vs_all,Bin 300k,0.7081256231306082,2
+Pericyte_Esophageal_Muscularis_vs_all,Bin 300k,0.7831754735792622,3
+Pericyte_Esophageal_Muscularis_vs_all,Bin 300k,0.7601694915254238,4
+Pericyte_General_1_vs_all,Embedding,0.9446437468858992,0
+Pericyte_General_1_vs_all,Embedding,0.9102193419740777,1
+Pericyte_General_1_vs_all,Embedding,0.9369142572283151,2
+Pericyte_General_1_vs_all,Embedding,0.9149551345962113,3
+Pericyte_General_1_vs_all,Embedding,0.9520687936191425,4
+Pericyte_General_1_vs_all,Bin 10k,0.8932237169905332,0
+Pericyte_General_1_vs_all,Bin 10k,0.8057078763708873,1
+Pericyte_General_1_vs_all,Bin 10k,0.8829262213359921,2
+Pericyte_General_1_vs_all,Bin 10k,0.7511964107676969,3
+Pericyte_General_1_vs_all,Bin 10k,0.8218095712861415,4
+Pericyte_General_1_vs_all,Bin 30k,0.8937468858993523,0
+Pericyte_General_1_vs_all,Bin 30k,0.8109920239282153,1
+Pericyte_General_1_vs_all,Bin 30k,0.8863908275174477,2
+Pericyte_General_1_vs_all,Bin 30k,0.8226321036889332,3
+Pericyte_General_1_vs_all,Bin 30k,0.8339730807577268,4
+Pericyte_General_1_vs_all,Bin 100k,0.8868211260587942,0
+Pericyte_General_1_vs_all,Bin 100k,0.7763210368893321,1
+Pericyte_General_1_vs_all,Bin 100k,0.8204636091724825,2
+Pericyte_General_1_vs_all,Bin 100k,0.8145563310069791,3
+Pericyte_General_1_vs_all,Bin 100k,0.8693170488534396,4
+Pericyte_General_1_vs_all,Bin 300k,0.9239910313901345,0
+Pericyte_General_1_vs_all,Bin 300k,0.7735543369890329,1
+Pericyte_General_1_vs_all,Bin 300k,0.7850448654037887,2
+Pericyte_General_1_vs_all,Bin 300k,0.7753489531405783,3
+Pericyte_General_1_vs_all,Bin 300k,0.8675722831505484,4
+Pericyte_General_2_vs_all,Embedding,0.7949427005480817,0
+Pericyte_General_2_vs_all,Embedding,0.8522432701894318,1
+Pericyte_General_2_vs_all,Embedding,0.8536640079760718,2
+Pericyte_General_2_vs_all,Embedding,0.8611665004985044,3
+Pericyte_General_2_vs_all,Embedding,0.8283898305084746,4
+Pericyte_General_2_vs_all,Bin 10k,0.9096163428001994,0
+Pericyte_General_2_vs_all,Bin 10k,0.9455633100697907,1
+Pericyte_General_2_vs_all,Bin 10k,0.9241276171485543,2
+Pericyte_General_2_vs_all,Bin 10k,0.9258225324027917,3
+Pericyte_General_2_vs_all,Bin 10k,0.8891326021934196,4
+Pericyte_General_2_vs_all,Bin 30k,0.8155455904334828,0
+Pericyte_General_2_vs_all,Bin 30k,0.8818544366899301,1
+Pericyte_General_2_vs_all,Bin 30k,0.9140578265204387,2
+Pericyte_General_2_vs_all,Bin 30k,0.9008973080757727,3
+Pericyte_General_2_vs_all,Bin 30k,0.7586490528414757,4
+Pericyte_General_2_vs_all,Bin 100k,0.7426756352765321,0
+Pericyte_General_2_vs_all,Bin 100k,0.761714855433699,1
+Pericyte_General_2_vs_all,Bin 100k,0.8018693918245264,2
+Pericyte_General_2_vs_all,Bin 100k,0.7803339980059821,3
+Pericyte_General_2_vs_all,Bin 100k,0.7765702891326021,4
+Pericyte_General_2_vs_all,Bin 300k,0.5103637269556552,0
+Pericyte_General_2_vs_all,Bin 300k,0.6018444666001994,1
+Pericyte_General_2_vs_all,Bin 300k,0.5827018943170489,2
+Pericyte_General_2_vs_all,Bin 300k,0.567148554336989,3
+Pericyte_General_2_vs_all,Bin 300k,0.5792123629112662,4
+Pericyte_General_3_vs_all,Embedding,0.9056801195814649,0
+Pericyte_General_3_vs_all,Embedding,0.8673479561316052,1
+Pericyte_General_3_vs_all,Embedding,0.9151794616151545,2
+Pericyte_General_3_vs_all,Embedding,0.9040129611166501,3
+Pericyte_General_3_vs_all,Embedding,0.8598703888334994,4
+Pericyte_General_3_vs_all,Bin 10k,0.9284005979073244,0
+Pericyte_General_3_vs_all,Bin 10k,0.955209371884347,1
+Pericyte_General_3_vs_all,Bin 10k,0.9263459621136589,2
+Pericyte_General_3_vs_all,Bin 10k,0.9285393818544367,3
+Pericyte_General_3_vs_all,Bin 10k,0.9238035892323031,4
+Pericyte_General_3_vs_all,Bin 30k,0.8856003986048829,0
+Pericyte_General_3_vs_all,Bin 30k,0.8971335992023928,1
+Pericyte_General_3_vs_all,Bin 30k,0.8548105682951146,2
+Pericyte_General_3_vs_all,Bin 30k,0.9260219341974077,3
+Pericyte_General_3_vs_all,Bin 30k,0.8607676969092721,4
+Pericyte_General_3_vs_all,Bin 100k,0.7661933233682112,0
+Pericyte_General_3_vs_all,Bin 100k,0.5972333000997009,1
+Pericyte_General_3_vs_all,Bin 100k,0.7247756729810568,2
+Pericyte_General_3_vs_all,Bin 100k,0.7862163509471585,3
+Pericyte_General_3_vs_all,Bin 100k,0.7665503489531406,4
+Pericyte_General_3_vs_all,Bin 300k,0.6114598903836572,0
+Pericyte_General_3_vs_all,Bin 300k,0.5419740777666999,1
+Pericyte_General_3_vs_all,Bin 300k,0.590677966101695,2
+Pericyte_General_3_vs_all,Bin 300k,0.6440677966101694,3
+Pericyte_General_3_vs_all,Bin 300k,0.6357926221335992,4
+Pericyte_General_4_vs_all,Embedding,0.8350274040857,0
+Pericyte_General_4_vs_all,Embedding,0.8192921236291126,1
+Pericyte_General_4_vs_all,Embedding,0.8443170488534396,2
+Pericyte_General_4_vs_all,Embedding,0.8493768693918244,3
+Pericyte_General_4_vs_all,Embedding,0.8564057826520439,4
+Pericyte_General_4_vs_all,Bin 10k,0.7927254608868959,0
+Pericyte_General_4_vs_all,Bin 10k,0.743444666001994,1
+Pericyte_General_4_vs_all,Bin 10k,0.7145064805583251,2
+Pericyte_General_4_vs_all,Bin 10k,0.8149302093718844,3
+Pericyte_General_4_vs_all,Bin 10k,0.8208624127617148,4
+Pericyte_General_4_vs_all,Bin 30k,0.6979571499750872,0
+Pericyte_General_4_vs_all,Bin 30k,0.7087736789631107,1
+Pericyte_General_4_vs_all,Bin 30k,0.7168245264207378,2
+Pericyte_General_4_vs_all,Bin 30k,0.7393070787637089,3
+Pericyte_General_4_vs_all,Bin 30k,0.8453140578265206,4
+Pericyte_General_4_vs_all,Bin 100k,0.6489785749875436,0
+Pericyte_General_4_vs_all,Bin 100k,0.5453888334995015,1
+Pericyte_General_4_vs_all,Bin 100k,0.6767198404785643,2
+Pericyte_General_4_vs_all,Bin 100k,0.7102941176470589,3
+Pericyte_General_4_vs_all,Bin 100k,0.7456879361914257,4
+Pericyte_General_4_vs_all,Bin 300k,0.3885899352267065,0
+Pericyte_General_4_vs_all,Bin 300k,0.5627617148554338,1
+Pericyte_General_4_vs_all,Bin 300k,0.571086739780658,2
+Pericyte_General_4_vs_all,Bin 300k,0.6227816550348954,3
+Pericyte_General_4_vs_all,Bin 300k,0.5818045862412762,4
+Peripheral_Nerve_Stromal_vs_all,Embedding,0.9484554060787245,0
+Peripheral_Nerve_Stromal_vs_all,Embedding,0.9064805583250249,1
+Peripheral_Nerve_Stromal_vs_all,Embedding,0.93277666999003,2
+Peripheral_Nerve_Stromal_vs_all,Embedding,0.947308075772682,3
+Peripheral_Nerve_Stromal_vs_all,Embedding,0.9538135593220339,4
+Peripheral_Nerve_Stromal_vs_all,Bin 10k,0.9234180368709516,0
+Peripheral_Nerve_Stromal_vs_all,Bin 10k,0.9213110667996012,1
+Peripheral_Nerve_Stromal_vs_all,Bin 10k,0.9567547357926222,2
+Peripheral_Nerve_Stromal_vs_all,Bin 10k,0.9284646061814555,3
+Peripheral_Nerve_Stromal_vs_all,Bin 10k,0.911814556331007,4
+Peripheral_Nerve_Stromal_vs_all,Bin 30k,0.8126058794220229,0
+Peripheral_Nerve_Stromal_vs_all,Bin 30k,0.8746261216350947,1
+Peripheral_Nerve_Stromal_vs_all,Bin 30k,0.9017447657028913,2
+Peripheral_Nerve_Stromal_vs_all,Bin 30k,0.899900299102692,3
+Peripheral_Nerve_Stromal_vs_all,Bin 30k,0.8734546360917248,4
+Peripheral_Nerve_Stromal_vs_all,Bin 100k,0.7535127055306428,0
+Peripheral_Nerve_Stromal_vs_all,Bin 100k,0.6068793619142572,1
+Peripheral_Nerve_Stromal_vs_all,Bin 100k,0.7408773678963111,2
+Peripheral_Nerve_Stromal_vs_all,Bin 100k,0.6643569292123629,3
+Peripheral_Nerve_Stromal_vs_all,Bin 100k,0.7370139581256231,4
+Peripheral_Nerve_Stromal_vs_all,Bin 300k,0.6236671649227703,0
+Peripheral_Nerve_Stromal_vs_all,Bin 300k,0.6391824526420737,1
+Peripheral_Nerve_Stromal_vs_all,Bin 300k,0.6090727816550349,2
+Peripheral_Nerve_Stromal_vs_all,Bin 300k,0.5794117647058824,3
+Peripheral_Nerve_Stromal_vs_all,Bin 300k,0.6498005982053838,4
+Plasma_Cell_vs_all,Embedding,0.9666666666666666,0
+Plasma_Cell_vs_all,Embedding,0.9698903290129611,1
+Plasma_Cell_vs_all,Embedding,0.9681704885343968,2
+Plasma_Cell_vs_all,Embedding,0.9508474576271186,3
+Plasma_Cell_vs_all,Embedding,0.9781156530408773,4
+Plasma_Cell_vs_all,Bin 10k,0.9898355754857997,0
+Plasma_Cell_vs_all,Bin 10k,0.9831256231306083,1
+Plasma_Cell_vs_all,Bin 10k,0.9847208374875374,2
+Plasma_Cell_vs_all,Bin 10k,0.9725822532402791,3
+Plasma_Cell_vs_all,Bin 10k,0.9909770687936191,4
+Plasma_Cell_vs_all,Bin 30k,0.9793223716990532,0
+Plasma_Cell_vs_all,Bin 30k,0.952716849451645,1
+Plasma_Cell_vs_all,Bin 30k,0.9684197407776669,2
+Plasma_Cell_vs_all,Bin 30k,0.9291126620139581,3
+Plasma_Cell_vs_all,Bin 30k,0.9690927218344965,4
+Plasma_Cell_vs_all,Bin 100k,0.9559292476332835,0
+Plasma_Cell_vs_all,Bin 100k,0.9231306081754735,1
+Plasma_Cell_vs_all,Bin 100k,0.8999999999999999,2
+Plasma_Cell_vs_all,Bin 100k,0.8910518444666002,3
+Plasma_Cell_vs_all,Bin 100k,0.905284147557328,4
+Plasma_Cell_vs_all,Bin 300k,0.8435475834578974,0
+Plasma_Cell_vs_all,Bin 300k,0.7913260219341973,1
+Plasma_Cell_vs_all,Bin 300k,0.8233050847457626,2
+Plasma_Cell_vs_all,Bin 300k,0.7503489531405783,3
+Plasma_Cell_vs_all,Bin 300k,0.8281904287138585,4
+Satellite_Cell_vs_all,Embedding,0.9672645739910314,0
+Satellite_Cell_vs_all,Embedding,0.9654037886340977,1
+Satellite_Cell_vs_all,Embedding,0.9567796610169491,2
+Satellite_Cell_vs_all,Embedding,0.9377118644067797,3
+Satellite_Cell_vs_all,Embedding,0.95,4
+Satellite_Cell_vs_all,Bin 10k,0.9599152964623817,0
+Satellite_Cell_vs_all,Bin 10k,0.9191425722831505,1
+Satellite_Cell_vs_all,Bin 10k,0.9369391824526421,2
+Satellite_Cell_vs_all,Bin 10k,0.9699401794616151,3
+Satellite_Cell_vs_all,Bin 10k,0.9826520438683948,4
+Satellite_Cell_vs_all,Bin 30k,0.9300697558545092,0
+Satellite_Cell_vs_all,Bin 30k,0.8900049850448654,1
+Satellite_Cell_vs_all,Bin 30k,0.896061814556331,2
+Satellite_Cell_vs_all,Bin 30k,0.9542372881355932,3
+Satellite_Cell_vs_all,Bin 30k,0.9544865403788634,4
+Satellite_Cell_vs_all,Bin 100k,0.8293223716990533,0
+Satellite_Cell_vs_all,Bin 100k,0.8306081754735792,1
+Satellite_Cell_vs_all,Bin 100k,0.8078514456630109,2
+Satellite_Cell_vs_all,Bin 100k,0.846111665004985,3
+Satellite_Cell_vs_all,Bin 100k,0.7761216350947159,4
+Satellite_Cell_vs_all,Bin 300k,0.715695067264574,0
+Satellite_Cell_vs_all,Bin 300k,0.6558325024925225,1
+Satellite_Cell_vs_all,Bin 300k,0.7252492522432701,2
+Satellite_Cell_vs_all,Bin 300k,0.702492522432702,3
+Satellite_Cell_vs_all,Bin 300k,0.6541126620139581,4
+Schwann_Cell_General_vs_all,Embedding,0.8734180368709517,0
+Schwann_Cell_General_vs_all,Embedding,0.8533649052841477,1
+Schwann_Cell_General_vs_all,Embedding,0.9147058823529411,2
+Schwann_Cell_General_vs_all,Embedding,0.8344466600199402,3
+Schwann_Cell_General_vs_all,Embedding,0.8410019940179462,4
+Schwann_Cell_General_vs_all,Bin 10k,0.8867713004484304,0
+Schwann_Cell_General_vs_all,Bin 10k,0.9307826520438685,1
+Schwann_Cell_General_vs_all,Bin 10k,0.918419740777667,2
+Schwann_Cell_General_vs_all,Bin 10k,0.9616650049850449,3
+Schwann_Cell_General_vs_all,Bin 10k,0.9194167497507477,4
+Schwann_Cell_General_vs_all,Bin 30k,0.8955655206776283,0
+Schwann_Cell_General_vs_all,Bin 30k,0.8652542372881356,1
+Schwann_Cell_General_vs_all,Bin 30k,0.8819541375872383,2
+Schwann_Cell_General_vs_all,Bin 30k,0.9254237288135593,3
+Schwann_Cell_General_vs_all,Bin 30k,0.9218344965104686,4
+Schwann_Cell_General_vs_all,Bin 100k,0.6355256601893373,0
+Schwann_Cell_General_vs_all,Bin 100k,0.7046360917248256,1
+Schwann_Cell_General_vs_all,Bin 100k,0.7734047856430708,2
+Schwann_Cell_General_vs_all,Bin 100k,0.7148803589232303,3
+Schwann_Cell_General_vs_all,Bin 100k,0.8047108673978066,4
+Schwann_Cell_General_vs_all,Bin 300k,0.4831589436970603,0
+Schwann_Cell_General_vs_all,Bin 300k,0.6139082751744765,1
+Schwann_Cell_General_vs_all,Bin 300k,0.5892821535393818,2
+Schwann_Cell_General_vs_all,Bin 300k,0.5786640079760718,3
+Schwann_Cell_General_vs_all,Bin 300k,0.5660767696909272,4
+Small_Intestinal_Enterocyte_vs_all,Embedding,0.9707772795216741,0
+Small_Intestinal_Enterocyte_vs_all,Embedding,0.9796111665004985,1
+Small_Intestinal_Enterocyte_vs_all,Embedding,0.9858673978065803,2
+Small_Intestinal_Enterocyte_vs_all,Embedding,0.9737038883349951,3
+Small_Intestinal_Enterocyte_vs_all,Embedding,0.9606679960119641,4
+Small_Intestinal_Enterocyte_vs_all,Bin 10k,0.879397110114599,0
+Small_Intestinal_Enterocyte_vs_all,Bin 10k,0.9173230309072782,1
+Small_Intestinal_Enterocyte_vs_all,Bin 10k,0.9206879361914256,2
+Small_Intestinal_Enterocyte_vs_all,Bin 10k,0.8874127617148555,3
+Small_Intestinal_Enterocyte_vs_all,Bin 10k,0.8989531405782651,4
+Small_Intestinal_Enterocyte_vs_all,Bin 30k,0.8971848530144494,0
+Small_Intestinal_Enterocyte_vs_all,Bin 30k,0.8916749750747757,1
+Small_Intestinal_Enterocyte_vs_all,Bin 30k,0.9138584247258226,2
+Small_Intestinal_Enterocyte_vs_all,Bin 30k,0.9055084745762711,3
+Small_Intestinal_Enterocyte_vs_all,Bin 30k,0.8988035892323032,4
+Small_Intestinal_Enterocyte_vs_all,Bin 100k,0.8219730941704035,0
+Small_Intestinal_Enterocyte_vs_all,Bin 100k,0.8119641076769691,1
+Small_Intestinal_Enterocyte_vs_all,Bin 100k,0.7650797607178464,2
+Small_Intestinal_Enterocyte_vs_all,Bin 100k,0.7480309072781656,3
+Small_Intestinal_Enterocyte_vs_all,Bin 100k,0.7485044865403789,4
+Small_Intestinal_Enterocyte_vs_all,Bin 300k,0.7469855505729945,0
+Small_Intestinal_Enterocyte_vs_all,Bin 300k,0.7409770687936191,1
+Small_Intestinal_Enterocyte_vs_all,Bin 300k,0.6562562313060818,2
+Small_Intestinal_Enterocyte_vs_all,Bin 300k,0.7701395812562313,3
+Small_Intestinal_Enterocyte_vs_all,Bin 300k,0.6977068793619143,4
+Small_Intestinal_Goblet_Cell_vs_all,Embedding,0.9651220727453912,0
+Small_Intestinal_Goblet_Cell_vs_all,Embedding,0.9715852442671984,1
+Small_Intestinal_Goblet_Cell_vs_all,Embedding,0.9775922233300098,2
+Small_Intestinal_Goblet_Cell_vs_all,Embedding,0.9826769690927218,3
+Small_Intestinal_Goblet_Cell_vs_all,Embedding,0.9364905284147558,4
+Small_Intestinal_Goblet_Cell_vs_all,Bin 10k,0.9252117588440458,0
+Small_Intestinal_Goblet_Cell_vs_all,Bin 10k,0.9187686939182453,1
+Small_Intestinal_Goblet_Cell_vs_all,Bin 10k,0.9178963110667995,2
+Small_Intestinal_Goblet_Cell_vs_all,Bin 10k,0.9082253240279163,3
+Small_Intestinal_Goblet_Cell_vs_all,Bin 10k,0.9191176470588235,4
+Small_Intestinal_Goblet_Cell_vs_all,Bin 30k,0.8563278525161933,0
+Small_Intestinal_Goblet_Cell_vs_all,Bin 30k,0.8842721834496511,1
+Small_Intestinal_Goblet_Cell_vs_all,Bin 30k,0.8815054835493519,2
+Small_Intestinal_Goblet_Cell_vs_all,Bin 30k,0.8361415752741775,3
+Small_Intestinal_Goblet_Cell_vs_all,Bin 30k,0.893519441674975,4
+Small_Intestinal_Goblet_Cell_vs_all,Bin 100k,0.7457149975087194,0
+Small_Intestinal_Goblet_Cell_vs_all,Bin 100k,0.8222582253240279,1
+Small_Intestinal_Goblet_Cell_vs_all,Bin 100k,0.7660019940179461,2
+Small_Intestinal_Goblet_Cell_vs_all,Bin 100k,0.721011964107677,3
+Small_Intestinal_Goblet_Cell_vs_all,Bin 100k,0.7009471585244268,4
+Small_Intestinal_Goblet_Cell_vs_all,Bin 300k,0.726083707025411,0
+Small_Intestinal_Goblet_Cell_vs_all,Bin 300k,0.6708374875373878,1
+Small_Intestinal_Goblet_Cell_vs_all,Bin 300k,0.6981555333998006,2
+Small_Intestinal_Goblet_Cell_vs_all,Bin 300k,0.6607178464606182,3
+Small_Intestinal_Goblet_Cell_vs_all,Bin 300k,0.5943170488534397,4
+Smooth_Muscle_Colon_1_vs_all,Embedding,0.869880418535127,0
+Smooth_Muscle_Colon_1_vs_all,Embedding,0.9178963110667995,1
+Smooth_Muscle_Colon_1_vs_all,Embedding,0.847507477567298,2
+Smooth_Muscle_Colon_1_vs_all,Embedding,0.9346211365902293,3
+Smooth_Muscle_Colon_1_vs_all,Embedding,0.8530658025922233,4
+Smooth_Muscle_Colon_1_vs_all,Bin 10k,0.9538365719980069,0
+Smooth_Muscle_Colon_1_vs_all,Bin 10k,0.9728813559322034,1
+Smooth_Muscle_Colon_1_vs_all,Bin 10k,0.9327517447657029,2
+Smooth_Muscle_Colon_1_vs_all,Bin 10k,0.9787886340977069,3
+Smooth_Muscle_Colon_1_vs_all,Bin 10k,0.9562562313060818,4
+Smooth_Muscle_Colon_1_vs_all,Bin 30k,0.9263079222720478,0
+Smooth_Muscle_Colon_1_vs_all,Bin 30k,0.9452143569292123,1
+Smooth_Muscle_Colon_1_vs_all,Bin 30k,0.9514705882352942,2
+Smooth_Muscle_Colon_1_vs_all,Bin 30k,0.9466600199401796,3
+Smooth_Muscle_Colon_1_vs_all,Bin 30k,0.9133599202392821,4
+Smooth_Muscle_Colon_1_vs_all,Bin 100k,0.8264324862979573,0
+Smooth_Muscle_Colon_1_vs_all,Bin 100k,0.8201645064805584,1
+Smooth_Muscle_Colon_1_vs_all,Bin 100k,0.7955383848454636,2
+Smooth_Muscle_Colon_1_vs_all,Bin 100k,0.8503489531405783,3
+Smooth_Muscle_Colon_1_vs_all,Bin 100k,0.6985044865403789,4
+Smooth_Muscle_Colon_1_vs_all,Bin 300k,0.7223218734429497,0
+Smooth_Muscle_Colon_1_vs_all,Bin 300k,0.7511216350947159,1
+Smooth_Muscle_Colon_1_vs_all,Bin 300k,0.7352193419740778,2
+Smooth_Muscle_Colon_1_vs_all,Bin 300k,0.7344715852442671,3
+Smooth_Muscle_Colon_1_vs_all,Bin 300k,0.5949651046859422,4
+Smooth_Muscle_Colon_2_vs_all,Embedding,0.8969606377678127,0
+Smooth_Muscle_Colon_2_vs_all,Embedding,0.9121635094715852,1
+Smooth_Muscle_Colon_2_vs_all,Embedding,0.8483798604187438,2
+Smooth_Muscle_Colon_2_vs_all,Embedding,0.9055583250249253,3
+Smooth_Muscle_Colon_2_vs_all,Embedding,0.9232303090727816,4
+Smooth_Muscle_Colon_2_vs_all,Bin 10k,0.9145739910313901,0
+Smooth_Muscle_Colon_2_vs_all,Bin 10k,0.9332253240279162,1
+Smooth_Muscle_Colon_2_vs_all,Bin 10k,0.8549351944167497,2
+Smooth_Muscle_Colon_2_vs_all,Bin 10k,0.905333998005982,3
+Smooth_Muscle_Colon_2_vs_all,Bin 10k,0.9581505483549352,4
+Smooth_Muscle_Colon_2_vs_all,Bin 30k,0.8691330343796712,0
+Smooth_Muscle_Colon_2_vs_all,Bin 30k,0.91321036889332,1
+Smooth_Muscle_Colon_2_vs_all,Bin 30k,0.8340727816550348,2
+Smooth_Muscle_Colon_2_vs_all,Bin 30k,0.8954885343968095,3
+Smooth_Muscle_Colon_2_vs_all,Bin 30k,0.9450648055832503,4
+Smooth_Muscle_Colon_2_vs_all,Bin 100k,0.8545839561534628,0
+Smooth_Muscle_Colon_2_vs_all,Bin 100k,0.8708374875373878,1
+Smooth_Muscle_Colon_2_vs_all,Bin 100k,0.8699900299102692,2
+Smooth_Muscle_Colon_2_vs_all,Bin 100k,0.8709122632103689,3
+Smooth_Muscle_Colon_2_vs_all,Bin 100k,0.8853190428713857,4
+Smooth_Muscle_Colon_2_vs_all,Bin 300k,0.7232685600398604,0
+Smooth_Muscle_Colon_2_vs_all,Bin 300k,0.6926719840478563,1
+Smooth_Muscle_Colon_2_vs_all,Bin 300k,0.6888833499501497,2
+Smooth_Muscle_Colon_2_vs_all,Bin 300k,0.7100697906281157,3
+Smooth_Muscle_Colon_2_vs_all,Bin 300k,0.6417746759720837,4
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Embedding,0.858943697060289,0
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Embedding,0.9228315054835493,1
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Embedding,0.9338235294117647,2
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Embedding,0.8633848454636092,3
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Embedding,0.9109172482552343,4
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 10k,0.9652964623816642,0
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 10k,0.9247258225324028,1
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 10k,0.8861914257228315,2
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 10k,0.8922233300099701,3
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 10k,0.8811066799601196,4
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 30k,0.9212257100149477,0
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 30k,0.9133349950149552,1
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 30k,0.8322283150548355,2
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 30k,0.860593220338983,3
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 30k,0.8119391824526421,4
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 100k,0.8796711509715994,0
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 100k,0.868344965104686,1
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 100k,0.8166251246261216,2
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 100k,0.799975074775673,3
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 100k,0.7613659022931205,4
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 300k,0.7092675635276532,0
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 300k,0.7380109670987038,1
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 300k,0.6116151545363908,2
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 300k,0.6372881355932203,3
+Smooth_Muscle_Esophageal_Mucosal_vs_all,Bin 300k,0.631505483549352,4
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Embedding,0.9080966616841056,0
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Embedding,0.9538883349950149,1
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Embedding,0.9530658025922233,2
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Embedding,0.9267696909272183,3
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Embedding,0.9374626121635096,4
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 10k,0.9606875934230195,0
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 10k,0.9672981056829512,1
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 10k,0.9785393818544367,2
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 10k,0.9284895314057826,3
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 10k,0.9349202392821535,4
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 30k,0.9190832087693073,0
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 30k,0.9297856430707876,1
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 30k,0.9765453639082752,2
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 30k,0.8956879361914257,3
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 30k,0.9320787637088734,4
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 100k,0.7821375186846039,0
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 100k,0.806630109670987,1
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 100k,0.919740777666999,2
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 100k,0.8030408773678963,3
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 100k,0.8938185443668993,4
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 300k,0.6955406078724464,0
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 300k,0.6036889332003987,1
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 300k,0.7573030907278164,2
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 300k,0.7129112662013959,3
+Smooth_Muscle_Esophageal_Muscularis_1_vs_all,Bin 300k,0.6134097706879362,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Embedding,0.8976831091180868,0
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Embedding,0.9083499501495513,1
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Embedding,0.9228315054835494,2
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Embedding,0.91839481555334,3
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Embedding,0.9409521435692922,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 10k,0.9610363726955655,0
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 10k,0.9506480558325026,1
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 10k,0.9574277168494517,2
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 10k,0.9674725822532402,3
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 10k,0.973703888334995,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 30k,0.8812655705032386,0
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 30k,0.9152293120638086,1
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 30k,0.8904536390827517,2
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 30k,0.8875124626121635,3
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 30k,0.8943918245264209,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 100k,0.7826108619830593,0
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 100k,0.8798853439680957,1
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 100k,0.8020438683948156,2
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 100k,0.7688683948155534,3
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 100k,0.8175224327018943,4
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 300k,0.6591429995017439,0
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 300k,0.7359421734795613,1
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 300k,0.6888334995014955,2
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 300k,0.7243020937188434,3
+Smooth_Muscle_Esophageal_Muscularis_2_vs_all,Bin 300k,0.7502741774675972,4
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Embedding,0.8138016940707523,0
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Embedding,0.7978315054835493,1
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Embedding,0.7107178464606181,2
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Embedding,0.8647308075772682,3
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Embedding,0.8315054835493518,4
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 10k,0.8916791230692576,0
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 10k,0.8697906281156531,1
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 10k,0.785443668993021,2
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 10k,0.8448654037886342,3
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 10k,0.8757477567298105,4
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 30k,0.8023667164922771,0
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 30k,0.8151296111665005,1
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 30k,0.7193419740777667,2
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 30k,0.7768693918245264,3
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 30k,0.7642323030907279,4
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 100k,0.7275037369207773,0
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 100k,0.7260967098703889,1
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 100k,0.7067298105682951,2
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 100k,0.7530658025922233,3
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 100k,0.7217098703888335,4
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 300k,0.6403587443946188,0
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 300k,0.6556331006979064,1
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 300k,0.6501994017946162,2
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 300k,0.6421236291126619,3
+Smooth_Muscle_Esophageal_Muscularis_3_vs_all,Bin 300k,0.622308075772682,4
+Smooth_Muscle_GE_Junction_vs_all,Embedding,0.9246636771300448,0
+Smooth_Muscle_GE_Junction_vs_all,Embedding,0.9436191425722831,1
+Smooth_Muscle_GE_Junction_vs_all,Embedding,0.8534646061814557,2
+Smooth_Muscle_GE_Junction_vs_all,Embedding,0.8813060817547357,3
+Smooth_Muscle_GE_Junction_vs_all,Embedding,0.8206380857427716,4
+Smooth_Muscle_GE_Junction_vs_all,Bin 10k,0.8983308420528151,0
+Smooth_Muscle_GE_Junction_vs_all,Bin 10k,0.9482552342971087,1
+Smooth_Muscle_GE_Junction_vs_all,Bin 10k,0.8982053838484546,2
+Smooth_Muscle_GE_Junction_vs_all,Bin 10k,0.8884097706879361,3
+Smooth_Muscle_GE_Junction_vs_all,Bin 10k,0.9242023928215354,4
+Smooth_Muscle_GE_Junction_vs_all,Bin 30k,0.8925510712506228,0
+Smooth_Muscle_GE_Junction_vs_all,Bin 30k,0.9035643070787637,1
+Smooth_Muscle_GE_Junction_vs_all,Bin 30k,0.9218594217347956,2
+Smooth_Muscle_GE_Junction_vs_all,Bin 30k,0.9234297108673977,3
+Smooth_Muscle_GE_Junction_vs_all,Bin 30k,0.9121136590229313,4
+Smooth_Muscle_GE_Junction_vs_all,Bin 100k,0.8725460886895865,0
+Smooth_Muscle_GE_Junction_vs_all,Bin 100k,0.8235044865403789,1
+Smooth_Muscle_GE_Junction_vs_all,Bin 100k,0.8563310069790628,2
+Smooth_Muscle_GE_Junction_vs_all,Bin 100k,0.8246759720837488,3
+Smooth_Muscle_GE_Junction_vs_all,Bin 100k,0.8681954137587239,4
+Smooth_Muscle_GE_Junction_vs_all,Bin 300k,0.6918285999003487,0
+Smooth_Muscle_GE_Junction_vs_all,Bin 300k,0.6959371884346959,1
+Smooth_Muscle_GE_Junction_vs_all,Bin 300k,0.7340229312063808,2
+Smooth_Muscle_GE_Junction_vs_all,Bin 300k,0.6984795613160519,3
+Smooth_Muscle_GE_Junction_vs_all,Bin 300k,0.5603190428713859,4
+Smooth_Muscle_General_Gastrointestinal_vs_all,Embedding,0.8466865969108122,0
+Smooth_Muscle_General_Gastrointestinal_vs_all,Embedding,0.8666500498504487,1
+Smooth_Muscle_General_Gastrointestinal_vs_all,Embedding,0.910443668993021,2
+Smooth_Muscle_General_Gastrointestinal_vs_all,Embedding,0.9072033898305085,3
+Smooth_Muscle_General_Gastrointestinal_vs_all,Embedding,0.8792622133599202,4
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 10k,0.8753114100647733,0
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 10k,0.8947657028913261,1
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 10k,0.8528664007976071,2
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 10k,0.934297108673978,3
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 10k,0.9091226321036889,4
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 30k,0.6981066268061784,0
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 30k,0.8781655034895314,1
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 30k,0.8423978065802592,2
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 30k,0.8933698903290129,3
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 30k,0.8449651046859422,4
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 100k,0.7352516193323368,0
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 100k,0.7283150548354935,1
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 100k,0.7481306081754735,2
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 100k,0.8380358923230309,3
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 100k,0.7301844466600199,4
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 300k,0.5663677130044843,0
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 300k,0.5995264207377866,1
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 300k,0.6139830508474576,2
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 300k,0.6984047856430708,3
+Smooth_Muscle_General_Gastrointestinal_vs_all,Bin 300k,0.706630109670987,4
+Smooth_Muscle_General_vs_all,Embedding,0.9548330842052816,0
+Smooth_Muscle_General_vs_all,Embedding,0.977666999002991,1
+Smooth_Muscle_General_vs_all,Embedding,0.9820039880358923,2
+Smooth_Muscle_General_vs_all,Embedding,0.9615653040877368,3
+Smooth_Muscle_General_vs_all,Embedding,0.9837487537387837,4
+Smooth_Muscle_General_vs_all,Bin 10k,0.932286995515695,0
+Smooth_Muscle_General_vs_all,Bin 10k,0.9504985044865404,1
+Smooth_Muscle_General_vs_all,Bin 10k,0.9455882352941176,2
+Smooth_Muscle_General_vs_all,Bin 10k,0.9326769690927219,3
+Smooth_Muscle_General_vs_all,Bin 10k,0.9484546360917248,4
+Smooth_Muscle_General_vs_all,Bin 30k,0.944718485301445,0
+Smooth_Muscle_General_vs_all,Bin 30k,0.9537138584247258,1
+Smooth_Muscle_General_vs_all,Bin 30k,0.9524925224327019,2
+Smooth_Muscle_General_vs_all,Bin 30k,0.9321286141575275,3
+Smooth_Muscle_General_vs_all,Bin 30k,0.9504237288135593,4
+Smooth_Muscle_General_vs_all,Bin 100k,0.9341554559043348,0
+Smooth_Muscle_General_vs_all,Bin 100k,0.9648554336989034,1
+Smooth_Muscle_General_vs_all,Bin 100k,0.9416999002991027,2
+Smooth_Muscle_General_vs_all,Bin 100k,0.915777666999003,3
+Smooth_Muscle_General_vs_all,Bin 100k,0.9481555333998006,4
+Smooth_Muscle_General_vs_all,Bin 300k,0.9205779770802193,0
+Smooth_Muscle_General_vs_all,Bin 300k,0.9190179461615153,1
+Smooth_Muscle_General_vs_all,Bin 300k,0.9265204386839481,2
+Smooth_Muscle_General_vs_all,Bin 300k,0.9099202392821536,3
+Smooth_Muscle_General_vs_all,Bin 300k,0.9401046859421736,4
+Smooth_Muscle_Uterine_vs_all,Embedding,0.9471599402092675,0
+Smooth_Muscle_Uterine_vs_all,Embedding,0.9379112662013958,1
+Smooth_Muscle_Uterine_vs_all,Embedding,0.952716849451645,2
+Smooth_Muscle_Uterine_vs_all,Embedding,0.9010717846460619,3
+Smooth_Muscle_Uterine_vs_all,Embedding,0.9274925224327019,4
+Smooth_Muscle_Uterine_vs_all,Bin 10k,0.8747633283507723,0
+Smooth_Muscle_Uterine_vs_all,Bin 10k,0.9198404785643071,1
+Smooth_Muscle_Uterine_vs_all,Bin 10k,0.909222333000997,2
+Smooth_Muscle_Uterine_vs_all,Bin 10k,0.8610667996011965,3
+Smooth_Muscle_Uterine_vs_all,Bin 10k,0.8915752741774676,4
+Smooth_Muscle_Uterine_vs_all,Bin 30k,0.8369456900847035,0
+Smooth_Muscle_Uterine_vs_all,Bin 30k,0.9129611166500498,1
+Smooth_Muscle_Uterine_vs_all,Bin 30k,0.8595214356929213,2
+Smooth_Muscle_Uterine_vs_all,Bin 30k,0.7841226321036888,3
+Smooth_Muscle_Uterine_vs_all,Bin 30k,0.8792123629112661,4
+Smooth_Muscle_Uterine_vs_all,Bin 100k,0.7250124564025909,0
+Smooth_Muscle_Uterine_vs_all,Bin 100k,0.7319541375872383,1
+Smooth_Muscle_Uterine_vs_all,Bin 100k,0.8225573280159522,2
+Smooth_Muscle_Uterine_vs_all,Bin 100k,0.765852442671984,3
+Smooth_Muscle_Uterine_vs_all,Bin 100k,0.8060319042871386,4
+Smooth_Muscle_Uterine_vs_all,Bin 300k,0.7289237668161435,0
+Smooth_Muscle_Uterine_vs_all,Bin 300k,0.8146311066799601,1
+Smooth_Muscle_Uterine_vs_all,Bin 300k,0.7777168494516451,2
+Smooth_Muscle_Uterine_vs_all,Bin 300k,0.609297108673978,3
+Smooth_Muscle_Uterine_vs_all,Bin 300k,0.7778913260219341,4
+Smooth_Muscle_Vaginal_vs_all,Embedding,0.95,0
+Smooth_Muscle_Vaginal_vs_all,Embedding,0.9690179461615155,1
+Smooth_Muscle_Vaginal_vs_all,Embedding,0.9422482552342971,2
+Smooth_Muscle_Vaginal_vs_all,Embedding,0.9361166500498505,3
+Smooth_Muscle_Vaginal_vs_all,Embedding,0.9556081754735792,4
+Smooth_Muscle_Vaginal_vs_all,Bin 10k,0.9695814648729446,0
+Smooth_Muscle_Vaginal_vs_all,Bin 10k,0.9469092721834497,1
+Smooth_Muscle_Vaginal_vs_all,Bin 10k,0.9668494516450649,2
+Smooth_Muscle_Vaginal_vs_all,Bin 10k,0.9389830508474576,3
+Smooth_Muscle_Vaginal_vs_all,Bin 10k,0.9459122632103689,4
+Smooth_Muscle_Vaginal_vs_all,Bin 30k,0.9582461385151968,0
+Smooth_Muscle_Vaginal_vs_all,Bin 30k,0.936640079760718,1
+Smooth_Muscle_Vaginal_vs_all,Bin 30k,0.943519441674975,2
+Smooth_Muscle_Vaginal_vs_all,Bin 30k,0.9238534396809572,3
+Smooth_Muscle_Vaginal_vs_all,Bin 30k,0.9430458624127617,4
+Smooth_Muscle_Vaginal_vs_all,Bin 100k,0.8913054309915296,0
+Smooth_Muscle_Vaginal_vs_all,Bin 100k,0.890777666999003,1
+Smooth_Muscle_Vaginal_vs_all,Bin 100k,0.8675722831505484,2
+Smooth_Muscle_Vaginal_vs_all,Bin 100k,0.8992522432701894,3
+Smooth_Muscle_Vaginal_vs_all,Bin 100k,0.8931455633100698,4
+Smooth_Muscle_Vaginal_vs_all,Bin 300k,0.7772296960637768,0
+Smooth_Muscle_Vaginal_vs_all,Bin 300k,0.790727816550349,1
+Smooth_Muscle_Vaginal_vs_all,Bin 300k,0.6735543369890329,2
+Smooth_Muscle_Vaginal_vs_all,Bin 300k,0.7229062811565303,3
+Smooth_Muscle_Vaginal_vs_all,Bin 300k,0.7269192422731805,4
+T_Lymphocyte_1_CD8_vs_all,Embedding,0.9692825112107624,0
+T_Lymphocyte_1_CD8_vs_all,Embedding,0.9576769690927218,1
+T_Lymphocyte_1_CD8_vs_all,Embedding,0.9484047856430708,2
+T_Lymphocyte_1_CD8_vs_all,Embedding,0.9505732801595215,3
+T_Lymphocyte_1_CD8_vs_all,Embedding,0.9548354935194416,4
+T_Lymphocyte_1_CD8_vs_all,Bin 10k,0.9606626806178375,0
+T_Lymphocyte_1_CD8_vs_all,Bin 10k,0.9667497507477566,1
+T_Lymphocyte_1_CD8_vs_all,Bin 10k,0.9478564307078764,2
+T_Lymphocyte_1_CD8_vs_all,Bin 10k,0.9309820538384846,3
+T_Lymphocyte_1_CD8_vs_all,Bin 10k,0.9473080757726821,4
+T_Lymphocyte_1_CD8_vs_all,Bin 30k,0.9150224215246637,0
+T_Lymphocyte_1_CD8_vs_all,Bin 30k,0.9338235294117647,1
+T_Lymphocyte_1_CD8_vs_all,Bin 30k,0.9416001994017946,2
+T_Lymphocyte_1_CD8_vs_all,Bin 30k,0.9124127617148554,3
+T_Lymphocyte_1_CD8_vs_all,Bin 30k,0.9208374875373878,4
+T_Lymphocyte_1_CD8_vs_all,Bin 100k,0.8805929247633284,0
+T_Lymphocyte_1_CD8_vs_all,Bin 100k,0.8761714855433699,1
+T_Lymphocyte_1_CD8_vs_all,Bin 100k,0.9052841475573279,2
+T_Lymphocyte_1_CD8_vs_all,Bin 100k,0.8233050847457627,3
+T_Lymphocyte_1_CD8_vs_all,Bin 100k,0.8715353938185444,4
+T_Lymphocyte_1_CD8_vs_all,Bin 300k,0.830667663178874,0
+T_Lymphocyte_1_CD8_vs_all,Bin 300k,0.8175722831505483,1
+T_Lymphocyte_1_CD8_vs_all,Bin 300k,0.8087736789631106,2
+T_Lymphocyte_1_CD8_vs_all,Bin 300k,0.7028165503489531,3
+T_Lymphocyte_1_CD8_vs_all,Bin 300k,0.8110418743768693,4
+T_lymphocyte_2_CD4_vs_all,Embedding,0.9906826108619831,0
+T_lymphocyte_2_CD4_vs_all,Embedding,0.9914506480558325,1
+T_lymphocyte_2_CD4_vs_all,Embedding,0.9903290129611166,2
+T_lymphocyte_2_CD4_vs_all,Embedding,0.9647308075772683,3
+T_lymphocyte_2_CD4_vs_all,Embedding,0.9780159521435693,4
+T_lymphocyte_2_CD4_vs_all,Bin 10k,0.9776033881415047,0
+T_lymphocyte_2_CD4_vs_all,Bin 10k,0.9833250249252243,1
+T_lymphocyte_2_CD4_vs_all,Bin 10k,0.9806331006979062,2
+T_lymphocyte_2_CD4_vs_all,Bin 10k,0.9559072781655036,3
+T_lymphocyte_2_CD4_vs_all,Bin 10k,0.9868893320039881,4
+T_lymphocyte_2_CD4_vs_all,Bin 30k,0.9686347782760338,0
+T_lymphocyte_2_CD4_vs_all,Bin 30k,0.9594715852442672,1
+T_lymphocyte_2_CD4_vs_all,Bin 30k,0.9633848454636091,2
+T_lymphocyte_2_CD4_vs_all,Bin 30k,0.9400049850448654,3
+T_lymphocyte_2_CD4_vs_all,Bin 30k,0.9491774675972083,4
+T_lymphocyte_2_CD4_vs_all,Bin 100k,0.9261584454409566,0
+T_lymphocyte_2_CD4_vs_all,Bin 100k,0.96061814556331,1
+T_lymphocyte_2_CD4_vs_all,Bin 100k,0.9477068793619141,2
+T_lymphocyte_2_CD4_vs_all,Bin 100k,0.9254486540378863,3
+T_lymphocyte_2_CD4_vs_all,Bin 100k,0.9399302093718843,4
+T_lymphocyte_2_CD4_vs_all,Bin 300k,0.7657947184853015,0
+T_lymphocyte_2_CD4_vs_all,Bin 300k,0.952567298105683,1
+T_lymphocyte_2_CD4_vs_all,Bin 300k,0.9084247258225323,2
+T_lymphocyte_2_CD4_vs_all,Bin 300k,0.8760468594217348,3
+T_lymphocyte_2_CD4_vs_all,Bin 300k,0.8757228315054836,4
+Thyroid_Follicular_Cell_vs_all,Embedding,0.9977080219232686,0
+Thyroid_Follicular_Cell_vs_all,Embedding,0.9762961116650049,1
+Thyroid_Follicular_Cell_vs_all,Embedding,0.9992273180458624,2
+Thyroid_Follicular_Cell_vs_all,Embedding,0.9980309072781655,3
+Thyroid_Follicular_Cell_vs_all,Embedding,0.969840478564307,4
+Thyroid_Follicular_Cell_vs_all,Bin 10k,0.9797957149975087,0
+Thyroid_Follicular_Cell_vs_all,Bin 10k,0.9582253240279163,1
+Thyroid_Follicular_Cell_vs_all,Bin 10k,0.9670239282153539,2
+Thyroid_Follicular_Cell_vs_all,Bin 10k,0.9908025922233301,3
+Thyroid_Follicular_Cell_vs_all,Bin 10k,0.9582502492522432,4
+Thyroid_Follicular_Cell_vs_all,Bin 30k,0.9382411559541605,0
+Thyroid_Follicular_Cell_vs_all,Bin 30k,0.9162013958125623,1
+Thyroid_Follicular_Cell_vs_all,Bin 30k,0.9217098703888336,2
+Thyroid_Follicular_Cell_vs_all,Bin 30k,0.967173479561316,3
+Thyroid_Follicular_Cell_vs_all,Bin 30k,0.9257477567298106,4
+Thyroid_Follicular_Cell_vs_all,Bin 100k,0.7663677130044844,0
+Thyroid_Follicular_Cell_vs_all,Bin 100k,0.8383349950149551,1
+Thyroid_Follicular_Cell_vs_all,Bin 100k,0.7866899302093718,2
+Thyroid_Follicular_Cell_vs_all,Bin 100k,0.7398803589232302,3
+Thyroid_Follicular_Cell_vs_all,Bin 100k,0.7838983050847458,4
+Thyroid_Follicular_Cell_vs_all,Bin 300k,0.7090682610861984,0
+Thyroid_Follicular_Cell_vs_all,Bin 300k,0.7695663010967099,1
+Thyroid_Follicular_Cell_vs_all,Bin 300k,0.7507726819541376,2
+Thyroid_Follicular_Cell_vs_all,Bin 300k,0.7309322033898306,3
+Thyroid_Follicular_Cell_vs_all,Bin 300k,0.7752243270189432,4
+Transitional_Zone_Cortical_Cell_vs_all,Embedding,0.9607125062282014,0
+Transitional_Zone_Cortical_Cell_vs_all,Embedding,0.9738285144566301,1
+Transitional_Zone_Cortical_Cell_vs_all,Embedding,0.9701645064805583,2
+Transitional_Zone_Cortical_Cell_vs_all,Embedding,0.9788384845463609,3
+Transitional_Zone_Cortical_Cell_vs_all,Embedding,0.9798105682951146,4
+Transitional_Zone_Cortical_Cell_vs_all,Bin 10k,0.9775535625311409,0
+Transitional_Zone_Cortical_Cell_vs_all,Bin 10k,0.9669740777667,1
+Transitional_Zone_Cortical_Cell_vs_all,Bin 10k,0.9507228315054835,2
+Transitional_Zone_Cortical_Cell_vs_all,Bin 10k,0.9610667996011963,3
+Transitional_Zone_Cortical_Cell_vs_all,Bin 10k,0.9694915254237289,4
+Transitional_Zone_Cortical_Cell_vs_all,Bin 30k,0.9175386148480319,0
+Transitional_Zone_Cortical_Cell_vs_all,Bin 30k,0.9560817547357927,1
+Transitional_Zone_Cortical_Cell_vs_all,Bin 30k,0.9330009970089731,2
+Transitional_Zone_Cortical_Cell_vs_all,Bin 30k,0.9151794616151545,3
+Transitional_Zone_Cortical_Cell_vs_all,Bin 30k,0.9331256231306081,4
+Transitional_Zone_Cortical_Cell_vs_all,Bin 100k,0.9007972097658197,0
+Transitional_Zone_Cortical_Cell_vs_all,Bin 100k,0.9070039880358922,1
+Transitional_Zone_Cortical_Cell_vs_all,Bin 100k,0.9142323030907279,2
+Transitional_Zone_Cortical_Cell_vs_all,Bin 100k,0.8831256231306082,3
+Transitional_Zone_Cortical_Cell_vs_all,Bin 100k,0.9405034895314058,4
+Transitional_Zone_Cortical_Cell_vs_all,Bin 300k,0.8586198305929247,0
+Transitional_Zone_Cortical_Cell_vs_all,Bin 300k,0.8826769690927219,1
+Transitional_Zone_Cortical_Cell_vs_all,Bin 300k,0.8607427716849452,2
+Transitional_Zone_Cortical_Cell_vs_all,Bin 300k,0.8649800598205384,3
+Transitional_Zone_Cortical_Cell_vs_all,Bin 300k,0.9074526420737786,4
+Tuft_Cell_vs_all,Embedding,0.9777777777777779,0
+Tuft_Cell_vs_all,Embedding,0.9767198404785643,1
+Tuft_Cell_vs_all,Embedding,0.9590229312063808,2
+Tuft_Cell_vs_all,Embedding,0.9656530408773678,3
+Tuft_Cell_vs_all,Embedding,0.9570289132602194,4
+Tuft_Cell_vs_all,Bin 10k,0.9573243647234678,0
+Tuft_Cell_vs_all,Bin 10k,0.9586490528414755,1
+Tuft_Cell_vs_all,Bin 10k,0.9360418743768694,2
+Tuft_Cell_vs_all,Bin 10k,0.9660019940179462,3
+Tuft_Cell_vs_all,Bin 10k,0.9689182452642074,4
+Tuft_Cell_vs_all,Bin 30k,0.9341056302939711,0
+Tuft_Cell_vs_all,Bin 30k,0.8817547357926221,1
+Tuft_Cell_vs_all,Bin 30k,0.9218843469591225,2
+Tuft_Cell_vs_all,Bin 30k,0.9493768693918245,3
+Tuft_Cell_vs_all,Bin 30k,0.9127118644067796,4
+Tuft_Cell_vs_all,Bin 100k,0.8930244145490782,0
+Tuft_Cell_vs_all,Bin 100k,0.9133848454636092,1
+Tuft_Cell_vs_all,Bin 100k,0.9015453639082751,2
+Tuft_Cell_vs_all,Bin 100k,0.9578514456630111,3
+Tuft_Cell_vs_all,Bin 100k,0.9068793619142572,4
+Tuft_Cell_vs_all,Bin 300k,0.84344793223717,0
+Tuft_Cell_vs_all,Bin 300k,0.8584496510468593,1
+Tuft_Cell_vs_all,Bin 300k,0.8331256231306081,2
+Tuft_Cell_vs_all,Bin 300k,0.8895812562313061,3
+Tuft_Cell_vs_all,Bin 300k,0.8751246261216351,4
+Type_II_Skeletal_Myocyte_vs_all,Embedding,0.9977578475336324,0
+Type_II_Skeletal_Myocyte_vs_all,Embedding,0.9962861415752742,1
+Type_II_Skeletal_Myocyte_vs_all,Embedding,0.9831754735792622,2
+Type_II_Skeletal_Myocyte_vs_all,Embedding,0.9928713858424726,3
+Type_II_Skeletal_Myocyte_vs_all,Embedding,0.9900299102691924,4
+Type_II_Skeletal_Myocyte_vs_all,Bin 10k,0.9981066268061785,0
+Type_II_Skeletal_Myocyte_vs_all,Bin 10k,0.9968843469591226,1
+Type_II_Skeletal_Myocyte_vs_all,Bin 10k,0.9965603190428715,2
+Type_II_Skeletal_Myocyte_vs_all,Bin 10k,0.9961365902293121,3
+Type_II_Skeletal_Myocyte_vs_all,Bin 10k,0.9976071784646062,4
+Type_II_Skeletal_Myocyte_vs_all,Bin 30k,0.9984055804683607,0
+Type_II_Skeletal_Myocyte_vs_all,Bin 30k,0.9955134596211366,1
+Type_II_Skeletal_Myocyte_vs_all,Bin 30k,0.9927966101694915,2
+Type_II_Skeletal_Myocyte_vs_all,Bin 30k,0.9916251246261216,3
+Type_II_Skeletal_Myocyte_vs_all,Bin 30k,0.9968843469591226,4
+Type_II_Skeletal_Myocyte_vs_all,Bin 100k,0.9961136023916293,0
+Type_II_Skeletal_Myocyte_vs_all,Bin 100k,0.9587487537387835,1
+Type_II_Skeletal_Myocyte_vs_all,Bin 100k,0.9739032901296112,2
+Type_II_Skeletal_Myocyte_vs_all,Bin 100k,0.9839481555333998,3
+Type_II_Skeletal_Myocyte_vs_all,Bin 100k,0.993320039880359,4
+Type_II_Skeletal_Myocyte_vs_all,Bin 300k,0.9379172894867962,0
+Type_II_Skeletal_Myocyte_vs_all,Bin 300k,0.927617148554337,1
+Type_II_Skeletal_Myocyte_vs_all,Bin 300k,0.8510717846460618,2
+Type_II_Skeletal_Myocyte_vs_all,Bin 300k,0.9173728813559322,3
+Type_II_Skeletal_Myocyte_vs_all,Bin 300k,0.9229062811565304,4
+Type_I_Skeletal_Myocyte_vs_all,Embedding,0.9825112107623318,0
+Type_I_Skeletal_Myocyte_vs_all,Embedding,0.9860169491525425,1
+Type_I_Skeletal_Myocyte_vs_all,Embedding,0.976271186440678,2
+Type_I_Skeletal_Myocyte_vs_all,Embedding,0.9896560319042871,3
+Type_I_Skeletal_Myocyte_vs_all,Embedding,0.980284147557328,4
+Type_I_Skeletal_Myocyte_vs_all,Bin 10k,0.9929745889387146,0
+Type_I_Skeletal_Myocyte_vs_all,Bin 10k,0.9938434695912264,1
+Type_I_Skeletal_Myocyte_vs_all,Bin 10k,0.9827517447657028,2
+Type_I_Skeletal_Myocyte_vs_all,Bin 10k,0.9930707876370887,3
+Type_I_Skeletal_Myocyte_vs_all,Bin 10k,0.993469591226321,4
+Type_I_Skeletal_Myocyte_vs_all,Bin 30k,0.9714250124564026,0
+Type_I_Skeletal_Myocyte_vs_all,Bin 30k,0.9911266201395812,1
+Type_I_Skeletal_Myocyte_vs_all,Bin 30k,0.9840727816550349,2
+Type_I_Skeletal_Myocyte_vs_all,Bin 30k,0.9899052841475573,3
+Type_I_Skeletal_Myocyte_vs_all,Bin 30k,0.9926969092721835,4
+Type_I_Skeletal_Myocyte_vs_all,Bin 100k,0.9111111111111111,0
+Type_I_Skeletal_Myocyte_vs_all,Bin 100k,0.8597457627118643,1
+Type_I_Skeletal_Myocyte_vs_all,Bin 100k,0.9186440677966101,2
+Type_I_Skeletal_Myocyte_vs_all,Bin 100k,0.8937936191425723,3
+Type_I_Skeletal_Myocyte_vs_all,Bin 100k,0.9576520438683949,4
+Type_I_Skeletal_Myocyte_vs_all,Bin 300k,0.8195814648729447,0
+Type_I_Skeletal_Myocyte_vs_all,Bin 300k,0.810593220338983,1
+Type_I_Skeletal_Myocyte_vs_all,Bin 300k,0.7133599202392822,2
+Type_I_Skeletal_Myocyte_vs_all,Bin 300k,0.7127866400797607,3
+Type_I_Skeletal_Myocyte_vs_all,Bin 300k,0.8572781655034896,4
+Vascular_Smooth_Muscle_1_vs_all,Embedding,0.8763328350772296,0
+Vascular_Smooth_Muscle_1_vs_all,Embedding,0.7812811565304087,1
+Vascular_Smooth_Muscle_1_vs_all,Embedding,0.8955383848454636,2
+Vascular_Smooth_Muscle_1_vs_all,Embedding,0.9035393818544366,3
+Vascular_Smooth_Muscle_1_vs_all,Embedding,0.8572033898305085,4
+Vascular_Smooth_Muscle_1_vs_all,Bin 10k,0.8785999003487792,0
+Vascular_Smooth_Muscle_1_vs_all,Bin 10k,0.8733798604187437,1
+Vascular_Smooth_Muscle_1_vs_all,Bin 10k,0.9268943170488534,2
+Vascular_Smooth_Muscle_1_vs_all,Bin 10k,0.9283898305084746,3
+Vascular_Smooth_Muscle_1_vs_all,Bin 10k,0.8812063808574276,4
+Vascular_Smooth_Muscle_1_vs_all,Bin 30k,0.8426756352765321,0
+Vascular_Smooth_Muscle_1_vs_all,Bin 30k,0.8906530408773679,1
+Vascular_Smooth_Muscle_1_vs_all,Bin 30k,0.8730558325024926,2
+Vascular_Smooth_Muscle_1_vs_all,Bin 30k,0.8797607178464606,3
+Vascular_Smooth_Muscle_1_vs_all,Bin 30k,0.8457128614157529,4
+Vascular_Smooth_Muscle_1_vs_all,Bin 100k,0.7498006975585451,0
+Vascular_Smooth_Muscle_1_vs_all,Bin 100k,0.6412013958125623,1
+Vascular_Smooth_Muscle_1_vs_all,Bin 100k,0.797482552342971,2
+Vascular_Smooth_Muscle_1_vs_all,Bin 100k,0.7254486540378864,3
+Vascular_Smooth_Muscle_1_vs_all,Bin 100k,0.7410518444666002,4
+Vascular_Smooth_Muscle_1_vs_all,Bin 300k,0.5999501743896364,0
+Vascular_Smooth_Muscle_1_vs_all,Bin 300k,0.6365154536390828,1
+Vascular_Smooth_Muscle_1_vs_all,Bin 300k,0.6269940179461616,2
+Vascular_Smooth_Muscle_1_vs_all,Bin 300k,0.5214606181455633,3
+Vascular_Smooth_Muscle_1_vs_all,Bin 300k,0.6062811565304088,4
+Vascular_Smooth_Muscle_2_vs_all,Embedding,0.9020926756352765,0
+Vascular_Smooth_Muscle_2_vs_all,Embedding,0.8957128614157528,1
+Vascular_Smooth_Muscle_2_vs_all,Embedding,0.8863908275174477,2
+Vascular_Smooth_Muscle_2_vs_all,Embedding,0.785393818544367,3
+Vascular_Smooth_Muscle_2_vs_all,Embedding,0.8751994017946161,4
+Vascular_Smooth_Muscle_2_vs_all,Bin 10k,0.9578724464374688,0
+Vascular_Smooth_Muscle_2_vs_all,Bin 10k,0.914481555333998,1
+Vascular_Smooth_Muscle_2_vs_all,Bin 10k,0.9534147557328017,2
+Vascular_Smooth_Muscle_2_vs_all,Bin 10k,0.9174725822532402,3
+Vascular_Smooth_Muscle_2_vs_all,Bin 10k,0.9583250249252243,4
+Vascular_Smooth_Muscle_2_vs_all,Bin 30k,0.8692326856003986,0
+Vascular_Smooth_Muscle_2_vs_all,Bin 30k,0.8220588235294117,1
+Vascular_Smooth_Muscle_2_vs_all,Bin 30k,0.9028414755732801,2
+Vascular_Smooth_Muscle_2_vs_all,Bin 30k,0.7939930209371884,3
+Vascular_Smooth_Muscle_2_vs_all,Bin 30k,0.9064805583250249,4
+Vascular_Smooth_Muscle_2_vs_all,Bin 100k,0.7135276532137519,0
+Vascular_Smooth_Muscle_2_vs_all,Bin 100k,0.7219092721834497,1
+Vascular_Smooth_Muscle_2_vs_all,Bin 100k,0.7159521435692922,2
+Vascular_Smooth_Muscle_2_vs_all,Bin 100k,0.7601445663010966,3
+Vascular_Smooth_Muscle_2_vs_all,Bin 100k,0.8491026919242273,4
+Vascular_Smooth_Muscle_2_vs_all,Bin 300k,0.6559790732436472,0
+Vascular_Smooth_Muscle_2_vs_all,Bin 300k,0.6205383848454635,1
+Vascular_Smooth_Muscle_2_vs_all,Bin 300k,0.6610169491525423,2
+Vascular_Smooth_Muscle_2_vs_all,Bin 300k,0.6659521435692921,3
+Vascular_Smooth_Muscle_2_vs_all,Bin 300k,0.6594715852442672,4
+Ventricular_Cardiomyocyte_vs_all,Embedding,0.9956651718983557,0
+Ventricular_Cardiomyocyte_vs_all,Embedding,0.9819042871385842,1
+Ventricular_Cardiomyocyte_vs_all,Embedding,0.982901296111665,2
+Ventricular_Cardiomyocyte_vs_all,Embedding,0.9693918245264207,3
+Ventricular_Cardiomyocyte_vs_all,Embedding,0.9923230309072781,4
+Ventricular_Cardiomyocyte_vs_all,Bin 10k,0.9946935724962631,0
+Ventricular_Cardiomyocyte_vs_all,Bin 10k,0.9895064805583251,1
+Ventricular_Cardiomyocyte_vs_all,Bin 10k,0.9784646061814557,2
+Ventricular_Cardiomyocyte_vs_all,Bin 10k,0.9886091724825523,3
+Ventricular_Cardiomyocyte_vs_all,Bin 10k,0.9811565304087737,4
+Ventricular_Cardiomyocyte_vs_all,Bin 30k,0.945067264573991,0
+Ventricular_Cardiomyocyte_vs_all,Bin 30k,0.9621385842472583,1
+Ventricular_Cardiomyocyte_vs_all,Bin 30k,0.9336989032901296,2
+Ventricular_Cardiomyocyte_vs_all,Bin 30k,0.9533649052841475,3
+Ventricular_Cardiomyocyte_vs_all,Bin 30k,0.9557826520438684,4
+Ventricular_Cardiomyocyte_vs_all,Bin 100k,0.8053811659192825,0
+Ventricular_Cardiomyocyte_vs_all,Bin 100k,0.8018943170488534,1
+Ventricular_Cardiomyocyte_vs_all,Bin 100k,0.8703140578265204,2
+Ventricular_Cardiomyocyte_vs_all,Bin 100k,0.8916500498504487,3
+Ventricular_Cardiomyocyte_vs_all,Bin 100k,0.8443918245264208,4
+Ventricular_Cardiomyocyte_vs_all,Bin 300k,0.6884902840059791,0
+Ventricular_Cardiomyocyte_vs_all,Bin 300k,0.6848205383848456,1
+Ventricular_Cardiomyocyte_vs_all,Bin 300k,0.758000997008973,2
+Ventricular_Cardiomyocyte_vs_all,Bin 300k,0.7243768693918246,3
+Ventricular_Cardiomyocyte_vs_all,Bin 300k,0.6846460618145563,4
+Zona_Fasciculata_Cortical_Cell_vs_all,Embedding,0.9820876930742402,0
+Zona_Fasciculata_Cortical_Cell_vs_all,Embedding,0.9809072781655035,1
+Zona_Fasciculata_Cortical_Cell_vs_all,Embedding,0.9890827517447657,2
+Zona_Fasciculata_Cortical_Cell_vs_all,Embedding,0.985493519441675,3
+Zona_Fasciculata_Cortical_Cell_vs_all,Embedding,0.9818544366899301,4
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 10k,0.9812406576980568,0
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 10k,0.9846460618145563,1
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 10k,0.9931954137587237,2
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 10k,0.9849950149551346,3
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 10k,0.9823030907278165,4
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 30k,0.9693074240159442,0
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 30k,0.9640329012961116,1
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 30k,0.9893070787637088,2
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 30k,0.9723330009970089,3
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 30k,0.9677716849451645,4
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 100k,0.9316143497757847,0
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 100k,0.9562313060817547,1
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 100k,0.9743519441674975,2
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 100k,0.9495264207377867,3
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 100k,0.9758225324027916,4
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 300k,0.8977080219232686,0
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 300k,0.9183200398803588,1
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 300k,0.9409770687936192,2
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 300k,0.9291625124626122,3
+Zona_Fasciculata_Cortical_Cell_vs_all,Bin 300k,0.9070787637088734,4
+Zona_Glomerulosa_Cortical_Cell_vs_all,Embedding,0.9686846038863977,0
+Zona_Glomerulosa_Cortical_Cell_vs_all,Embedding,0.9884845463609173,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Embedding,0.9584745762711864,2
+Zona_Glomerulosa_Cortical_Cell_vs_all,Embedding,0.96321036889332,3
+Zona_Glomerulosa_Cortical_Cell_vs_all,Embedding,0.9446909272183449,4
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 10k,0.977204783258595,0
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 10k,0.9614905284147557,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 10k,0.9712861415752742,2
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 10k,0.9806829511465602,3
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 10k,0.9652791625124626,4
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 30k,0.9400597907324364,0
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 30k,0.9304336989032902,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 30k,0.8870887337986042,2
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 30k,0.9455134596211366,3
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 30k,0.9253738783649053,4
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 100k,0.8758844045839562,0
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 100k,0.8603938185443669,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 100k,0.8419242273180458,2
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 100k,0.8531156530408773,3
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 100k,0.8695164506480558,4
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 300k,0.8683109118086697,0
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 300k,0.8696410767696909,1
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 300k,0.8304586241276172,2
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 300k,0.8874376869391825,3
+Zona_Glomerulosa_Cortical_Cell_vs_all,Bin 300k,0.8157527417746759,4

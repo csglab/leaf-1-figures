@@ -46,9 +46,11 @@ cfDNA (`cfdna/notebook/`):
 | `cfdna_loco_nocristiano.ipynb` | `cfdna_loco_nocristiano_specific_vs_loco` |
 | `cfdna_nocristiano_paired.ipynb` | `cfdna_nocristiano_delta_forest` (a), `cfdna_nocristiano_auc_bars` (b): Cristiano-free vs released encoder, 10k fragments (2.M1 Supp. Fig.) |
 | `cfdna_nocristiano_fig5.ipynb` | `cfdna_nocristiano_pan_cancer_roc` (Fig. 5b), `cfdna_nocristiano_per_cancer_auc` (Fig. 5c), `cfdna_nocristiano_ctdna_logit_forest` (Fig. 5g): Cristiano-free encoder, 10k fragments (2.M1) |
+| `cfdna_pretraining_ablations.ipynb` | `cfdna_pretraining_ablations`: controlled pretraining ablations (no [CUT], equal [CUT] masking, no flank, no modality token), a input schematic, b ΔAUC vs full model (linear SVM + MIL), c single readouts (2.M5 Supp. Fig.) |
 | `cfdna_kidney_length_matching.ipynb` | `cfdna_kidney_length_matching_bin_fusions` (Fig. 6e variant) |
 | `cfdna_kidney_coordinate_baselines.ipynb` | `cfdna_kidney_coordinate_baselines_depth` (Supp. Fig. X) |
 | `cfdna_kidney_length_ablation.ipynb` | `cfdna_kidney_length_ablation_depth` (Supp. Fig. Y) |
+| `cfdna_kidney_zeroshot.ipynb` | `cfdna_kidney_zeroshot_auc_extended`: zero-shot AUC on the kidney cohort for 8 sequence representations (mean pool + linear SVM and the identical 10k-bag MIL), coordinate binning at 6 widths and 5 task-specific methods (Fig. 6c-e comment) |
 | `cfdna_fragment_subsampling_seeds.ipynb` | `cfdna_fragment_subsampling_seeds` (Fig. 5d), `cfdna_fragment_efficiency_seeds` (Fig. 5e), `cfdna_subsampling_seeds_vs_healthy`, `cfdna_subsampling_seeds_vs_other` (Supp. Figs 12-13), `cfdna_subsampling_variability` (new Supp. Fig.), `cfdna_subsampling_seeds_table` (Supp. Table) |
 | `cfdna_dnalm_baselines.ipynb` | `cfdna_kmer_lm_delta_auc`, `cfdna_external_lm_model_size` |
 | `cfdna_ctdna_bin_auc.ipynb` | `cfdna_ctdna_bin_auc_breast` |
@@ -63,8 +65,9 @@ scATAC (`scatac/notebook/`):
 | `scatac_gse129785_validation.ipynb` | `scatac_gse129785_umap_panel_by_celltype_main`, `scatac_gse129785_scib_summary_main` (main-figure size) |
 | `scatac_ccre_fragment_ablation.ipynb` | `scatac_ccre_fragment_ablation` |
 | `scatac_hybrid_emb_bin.ipynb` | `scatac_hybrid_emb_bin_auc` |
+| `supp_scatac_embedding_vs_binning_resolution.ipynb` | `scatac_embedding_vs_binning_resolution` (Supp. Fig. 4, revised) |
 | `scatac_motif_fire_vs_homer.ipynb` | `scatac_motif_fire_vs_homer` |
-| `scatac_dnalm_baselines.ipynb` | `scatac_dnalm_delta_auc`: LEAF-1 vs external DNA LMs and k-mer baselines on 1,000 atlas cells, biosample-grouped CV (3.M5 Supp. Fig.) |
+| `scatac_dnalm_baselines.ipynb` | `scatac_dnalm_delta_auc`: LEAF-1 vs external DNA LMs and k-mer baselines on 1,000 atlas cells, biosample-grouped vs cell-level CV (3.M5 Supp. Fig.; Ali's figure) |
 
 TCGA (`tcga/notebook/`):
 
@@ -118,7 +121,7 @@ Two details there are load-bearing rather than cosmetic:
 
 ## Reproduction status
 
-Of the twenty-four figures that redraw an existing file under `../output/`, eleven come
+Of the twenty-seven figures that redraw an existing file under `../output/`, fourteen come
 out **byte-identical** to it. The thirteen that do not are listed in the `deviation`
 column of `NOTEBOOK_PROVENANCE.tsv`:
 
@@ -158,6 +161,19 @@ column of `NOTEBOOK_PROVENANCE.tsv`:
   vermillion (originally another blue and orange). Same 102 cell types, values,
   panel order and bin-size labels.
 
+* `scatac_embedding_vs_binning_resolution` -- Supp. Fig. 4, revised. The
+  published notebook (leaf-1-figures, same name) plotted the pooled
+  out-of-fold LEAF-1 AUC (`scatac_task_metrics.csv` `auc`, via
+  `scatac_leaf1_vs_binning_auc.csv`) against the mean of the five per-fold
+  binning AUCs. Both axes are now the per-fold mean from
+  `scatac_coordinate_binning_auc_by_fold.csv`, the table and reduction of the
+  main-figure panel `scatac_leaf1_vs_coordinate_binning`, so panel c matches it
+  point for point. LEAF-1 mean AUC 0.930 -> 0.935; embedding higher in 61, 92,
+  102, 102 of 102 cell types at 300, 100, 30, 10 kb (was 58, 87, 101, 102).
+  Per-panel limits (data range +/- 0.02) as published; tick labels now two
+  decimals on every panel (panel d had one). At merge,
+  `scatac_leaf1_vs_binning_auc.csv` has no other reader and can be dropped.
+
 * `cfdna_hybrid_emb_bin_auc` -- redrawn for the supplement from
   `../output/cfdna/cfdna_hybrid_emb_bin/hybrid_auc_bars_all_bins.png` at 180 mm
   width. Rows are labelled by bin size (300kb, 100kb, 30kb, 10kb), not by bin
@@ -174,13 +190,19 @@ column of `NOTEBOOK_PROVENANCE.tsv`:
   values, colours and paired t-test.
 
 * `scatac_leaf1_vs_snapatac_auc` and `scatac_leaf1_vs_snapatac_auc_ntissues`
-  -- recoloured for the supplement: LEAF-1 takes the blue it has in every other
-  figure (the originals drew it orange, from the scIB method palette) and the
-  four cell-type annotations are dropped. Every point is unchanged. In
-  addition, the committed `../output/scatac/auc_leaf1_vs_snapatac.png` is stale:
-  it predates a fix to the dot-size legend in
-  `src/scatac/atlas_plot_auc_scatter.py` and labels the middle and top size
-  keys both `100`, where the current script gives `37 / 68 / 100`.
+  -- re-scored on 2026-11-03 with the Figure 2e classifier (L2 logistic
+  regression, lbfgs, `class_weight="balanced"`, C by inner stratified 3-fold CV
+  over 0.001-100) and the Figure 2e metric (per task, the mean of the five
+  outer-fold AUCs). The LEAF-1 values are the saved Figure 2e predictions
+  (mean 0.935458); SnapATAC 5 kb + MNC was refitted on the 10,130 cells its QC
+  kept (mean 0.953241, higher in 74/102 tasks). The originals in
+  `../output/scatac/auc_leaf1_vs_snapatac*.png` used a fixed C = 0.316, no
+  class weights and pooled out-of-fold AUC (0.9253 vs 0.9490), so their points
+  differ. Run: `../runs/scatac_fig2e_classifier_20261103/`; tables:
+  `../output/scatac/fig2e_classifier_leaf1_vs_snapatac/`. Also restyled for the
+  supplement: LEAF-1 takes the blue it has in every other figure (the
+  originals drew it orange), the four cell-type annotations are dropped, and
+  the dot-size key sits below the upper-left points rather than over them.
 * `tcga_layer_sweep_auc` -- its original is not under `../output/` but in the
   upstream project (`pool/notebook_tcga/fig_tcga_layer_sweep_auc.png`). Every
   plotted value is identical to the upstream `tcga_layer_sweep.csv`; about 0.7%
@@ -207,13 +229,6 @@ Eleven more figures are new here and have no original to compare against:
   the plotted axes added. The script that drew the originals is not on this
   server.
 * `cfdna_ctdna_bin_auc_breast`.
-* `scatac_dnalm_delta_auc` (Comment 3.M5). The scATAC counterpart of
-  `cfdna_kmer_lm_delta_auc`, same layout and ΔAUC = LEAF-1 − model: 1,000 atlas
-  cells (10 types x 100), 1,000 fragments per cell, mean-pooled embeddings of
-  LEAF-1, six external DNA LMs and k-mer 3-6, one linear SVM, biosample-grouped
-  CV with the `scatac_atlas_grouped_cv` groups. Upstream analysis is in the
-  LEAF1 project (`runs/item11/`); the ΔAUC CIs resample biosamples (grouped) or
-  cells (cell-level), 2,000 times, and are staged rather than recomputed.
 * `cfdna_taskspecific_main`. LEAF-1 and the three task-specific methods from
   `../output/cfdna/taskspecific/cfdna_taskspecific_benchmark.png`, drawn with
   Fig. 4c's code; y axis from 0.4 because one EMIT task sits at 0.458. The
